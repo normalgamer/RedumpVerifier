@@ -31,7 +31,7 @@ PC98        = "dat/NEC - PC-98 series - Datfile (36) (2020-08-29 22-47-56).dat"
 PCFX        = "dat/NEC - PC-FX & PC-FXGA - Datfile (78) (2020-02-28 01-31-34).dat"
 NeoGeoCD    = "dat/SNK - Neo Geo CD - Datfile (101) (2020-06-12 20-17-25).dat"
 GCN         = "dat/Nintendo - GameCube - Datfile (1907) (2020-08-28 21-47-09).dat"
-Wii         = "dat/Wii Redump(2019-05-04 18-00-53).dat"
+Wii         = "dat/Nintendo - Wii - Datfile (2019-05-04 18-00-53).dat"
 PalmOS      = "dat/Palm - Datfile (5) (2020-07-22 18-49-25).dat"
 Panasonic3DO = "dat/Panasonic - 3DO Interactive Multiplayer - Datfile (525) (2020-08-29 16-13-35).dat"
 CDi         = "dat/Philips - CD-i - Datfile (238) (2020-08-21 14-47-04).dat"
@@ -135,6 +135,8 @@ elif system=="2":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any Macintosh game MD5"
             )
         f.close()
@@ -184,6 +186,8 @@ elif system=="3":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any Jaguar CD game MD5"
             )
         f.close()
@@ -233,6 +237,8 @@ elif system=="4":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any Pippin game MD5"
             )
         f.close()
@@ -282,6 +288,8 @@ elif system=="5":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any Playdia game MD5"
             )
         f.close()
@@ -331,6 +339,8 @@ elif system=="6":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any Amiga CD game MD5"
             )
         f.close()
@@ -380,6 +390,8 @@ elif system=="7":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any Amiga CD32 game MD5"
             )
         f.close()
@@ -428,6 +440,8 @@ elif system=="8":
             +"Game verified, ISO's MD5 matches Redump hash"
             )
         else:
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             print("\n"
             +"ISO's MD5 doesn't match any AmigaCD32 game MD5"
             )
@@ -478,6 +492,8 @@ elif system=="9":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any Fujitsu FM game MD5"
             )
         f.close()
@@ -527,6 +543,8 @@ elif system=="10":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any Photo Play game MD5"
             )
         f.close()
@@ -576,6 +594,8 @@ elif system=="11":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any IBM PC CD game MD5"
             )
         f.close()
@@ -625,6 +645,8 @@ elif system=="12":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any Eagle game MD5"
             )
         f.close()
@@ -674,6 +696,8 @@ elif system=="13":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any eAmusement game MD5"
             )
         f.close()
@@ -723,6 +747,8 @@ elif system=="14":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any FireBeat game MD5"
             )
         f.close()
@@ -780,6 +806,8 @@ elif system=="16":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any System GV game MD5"
             )
         f.close()
@@ -837,6 +865,8 @@ elif system=="18":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any Fisher-Price iXL game MD5"
             )
         f.close()
@@ -886,6 +916,8 @@ elif system=="19":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any HyperScan game MD5"
             )
         f.close()
@@ -935,6 +967,8 @@ elif system=="20":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any Memorex Visual Information System game MD5"
             )
         f.close()
@@ -984,6 +1018,8 @@ elif system=="21":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any Xbox game MD5"
             )
         f.close()
@@ -1033,6 +1069,8 @@ elif system=="22":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any Triforce game MD5"
             )
         f.close()
@@ -1090,6 +1128,8 @@ elif system=="24":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any System 246 game MD5"
             )
         f.close()
@@ -1139,6 +1179,8 @@ elif system=="25":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any PC Engine CD / TurboGrafx CD game MD5"
             )
         f.close()
@@ -1188,6 +1230,8 @@ elif system=="26":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any PC-88 game MD5"
             )
         f.close()
@@ -1237,6 +1281,8 @@ elif system=="27":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any PC-98 game MD5"
             )
         f.close()
@@ -1286,6 +1332,8 @@ elif system=="28":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any PC-FX / PC-FXGA game MD5"
             )
         f.close()
@@ -1335,6 +1383,8 @@ elif system=="29":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any NeoGeo CD game MD5"
             )
         f.close()
@@ -1384,6 +1434,8 @@ elif system=="30":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any Gamecube game MD5"
             )
         f.close()
@@ -1433,6 +1485,8 @@ elif system=="31":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any Wii game MD5"
             )
         f.close()
@@ -1482,6 +1536,8 @@ elif system=="32":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any Palm OS game MD5"
             )
         f.close()
@@ -1531,6 +1587,8 @@ elif system=="33":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any Playdia game MD5"
             )
         f.close()
@@ -1580,6 +1638,8 @@ elif system=="34":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any Philips CDi game MD5"
             )
         f.close()
@@ -1629,6 +1689,8 @@ elif system=="35":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any Photo CD game MD5"
             )
         f.close()
@@ -1678,6 +1740,8 @@ elif system=="36":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any PlayStation GameShark Update game MD5"
             )
         f.close()
@@ -1727,6 +1791,8 @@ elif system=="37":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any Sega Chihiro game MD5"
             )
         f.close()
@@ -1776,6 +1842,8 @@ elif system=="38":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any Sega Lindbergh game MD5"
             )
         f.close()
@@ -1825,6 +1893,8 @@ elif system=="39":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any Sega CD / Mega CD game MD5"
             )
         f.close()
@@ -1874,6 +1944,8 @@ elif system=="40":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any Sega Naomi game MD5"
             )
         f.close()
@@ -1923,6 +1995,8 @@ elif system=="41":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any Sega Naomi 2 game MD5"
             )
         f.close()
@@ -1972,6 +2046,8 @@ elif system=="42":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any Sega Saturn game MD5"
             )
         f.close()
@@ -2037,6 +2113,8 @@ elif system=="45":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any PlayStation 1 game MD5"
             )
         f.close()
@@ -2086,6 +2164,8 @@ elif system=="46":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any PlayStation 2 game MD5"
             )
         f.close()
@@ -2135,6 +2215,8 @@ elif system=="47":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any PlayStation Portable game MD5"
             )
         f.close()
@@ -2184,6 +2266,8 @@ elif system=="48":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any TAB-Austria Quizard game MD5"
             )
         f.close()
@@ -2241,6 +2325,8 @@ elif system=="50":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any Kiss-Site game MD5"
             )
         f.close()
@@ -2290,6 +2376,8 @@ elif system=="51":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any NUON game MD5"
             )
         f.close()
@@ -2339,6 +2427,8 @@ elif system=="52":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any VTech V.Flash / V.Smile game MD5"
             )
         f.close()
@@ -2388,6 +2478,8 @@ elif system=="53":
             )
         else:
             print("\n"
+            +"ISO's MD5 hash: " + hash + "\n"
+            +"\n"
             +"ISO's MD5 doesn't match any Game Wave Family Entertainment System game MD5"
             )
         f.close()
