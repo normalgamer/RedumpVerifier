@@ -1,2 +1,2 @@
 # RedumpVerifier
-This script verifies a Gamecube ISO against the Redump hashes
+This script verifies Gamecube and Wii ISOs against the Redump hashes
