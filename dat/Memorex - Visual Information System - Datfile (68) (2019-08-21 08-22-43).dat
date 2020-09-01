@@ -1,0 +1,475 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Memorex - Visual Information System</name>
+		<description>Memorex - Visual Information System - Discs (68) (2019-08-21 08-22-43)</description>
+		<version>2019-08-21 08-22-43</version>
+		<date>2019-08-21 08-22-43</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Wild Animals! (USA)">
+		<category>Multimedia</category>
+		<description>Wild Animals! (USA)</description>
+		<rom name="Wild Animals! (USA).cue" size="108" crc="80208277" md5="e11c617a3315d40fe6c217d90ea0ec8a" sha1="c60d1ef14cc3e6cc101823f5c181dada40033a60"/>
+		<rom name="Wild Animals! (USA).bin" size="112420896" crc="2c3e6df4" md5="f0d0bf0c9952532038be20af78440b6f" sha1="bc46ed5cda64e34c070a9637c33e9b2609404e4f"/>
+	</game>
+	<game name="Title Sampler (USA)">
+		<category>Demos</category>
+		<description>Title Sampler (USA)</description>
+		<rom name="Title Sampler (USA).cue" size="85" crc="473d133e" md5="0f05395859e55224e7abb853f5020ef3" sha1="5ce61415e93805027c3efbb6121963918d865033"/>
+		<rom name="Title Sampler (USA).bin" size="64122576" crc="36b14611" md5="c1e48a95d0bfe17d733e2540dee9ee44" sha1="8f55bc5b71ce9634e3114daff9b4c26f1a720540"/>
+	</game>
+	<game name="Vision - Multimedia Bible for the Entire Family (USA)">
+		<category>Multimedia</category>
+		<description>Vision - Multimedia Bible for the Entire Family (USA)</description>
+		<rom name="Vision - Multimedia Bible for the Entire Family (USA).cue" size="119" crc="6e0b29a8" md5="c7bd595950170c0bee1e8f718acfec25" sha1="7a4e52cb7a6f7a99cc6897dff103be7a311e3b4c"/>
+		<rom name="Vision - Multimedia Bible for the Entire Family (USA).bin" size="243502560" crc="cc7b1650" md5="7d8f064623119d2998c5e4594c3d2200" sha1="4e278d39878c3e6d2c0e4705ef07239370e1b0db"/>
+	</game>
+	<game name="Links - The Challenge of Golf (USA)">
+		<category>Games</category>
+		<description>Links - The Challenge of Golf (USA)</description>
+		<rom name="Links - The Challenge of Golf (USA).cue" size="101" crc="de6770aa" md5="8939819a688835dc2422afc2859257b7" sha1="a032cdf3320cbec2a8a531ba6ef0d19ed64a3a21"/>
+		<rom name="Links - The Challenge of Golf (USA).bin" size="3939600" crc="2aea7253" md5="ec916c8742b2773c956ee92a22ed7563" sha1="c1726c131b93addb2f588d636080e7dfe5640527"/>
+	</game>
+	<game name="Americans in Space (USA)">
+		<category>Multimedia</category>
+		<description>Americans in Space (USA)</description>
+		<rom name="Americans in Space (USA).cue" size="90" crc="423c2916" md5="81b7d66c2de182e01f09ec79bf6cc7c2" sha1="ce15ce30bce3c3f4edcd6a92a65743dce305dcea"/>
+		<rom name="Americans in Space (USA).bin" size="709057440" crc="37ed9e1a" md5="de3d78f7981627b6ed4b798633622732" sha1="b05862291f097a569eeafb847b14ea187d50dd54"/>
+	</game>
+	<game name="Compton's MultiMedia Encyclopedia VIS Edition (USA)">
+		<category>Multimedia</category>
+		<description>Compton's MultiMedia Encyclopedia VIS Edition (USA)</description>
+		<rom name="Compton's MultiMedia Encyclopedia VIS Edition (USA).cue" size="117" crc="af040fa6" md5="9623100817b16b9ff33e08912c36aa84" sha1="3532e78b804460a476606293fda5d9db3561534a"/>
+		<rom name="Compton's MultiMedia Encyclopedia VIS Edition (USA).bin" size="613425120" crc="ad4f347d" md5="7781708cd9b63f2283da40ce3253845e" sha1="50d489f67e67a39832d42cfee1f8a3530edcd85e"/>
+	</game>
+	<game name="Atlas of U.S. Presidents (USA)">
+		<category>Multimedia</category>
+		<description>Atlas of U.S. Presidents (USA)</description>
+		<rom name="Atlas of U.S. Presidents (USA).cue" size="96" crc="c59da217" md5="bcbfc43601bac3dd4a893fd404b7ffc4" sha1="392d4561436b7a56b43cafaabd710d94860a43c9"/>
+		<rom name="Atlas of U.S. Presidents (USA).bin" size="79984464" crc="efc2c141" md5="eadfd03b280094ae8f3401a4e8febf0c" sha1="d579ec6f1f6dff857c543abed29ef1490c99b88d"/>
+	</game>
+	<game name="Great Lives Series - Interactive Biographies of American Heroes Vol. 1 (USA)">
+		<category>Educational</category>
+		<description>Great Lives Series - Interactive Biographies of American Heroes Vol. 1 (USA)</description>
+		<rom name="Great Lives Series - Interactive Biographies of American Heroes Vol. 1 (USA).cue" size="142" crc="55c21fb8" md5="cd7e5be6b9cd9bfd1efe75e029bed19a" sha1="ac8f821bceab044688eea9aa683b9a7e0ec1be33"/>
+		<rom name="Great Lives Series - Interactive Biographies of American Heroes Vol. 1 (USA).bin" size="164809344" crc="51e8333f" md5="dabb78cb509b8807a7d4bad058636ba6" sha1="cf78bcaad0b8b8351a38c052b0da3281ef9bcf33"/>
+	</game>
+	<game name="Henry and Mudge in the Sparkle Days (USA)">
+		<category>Educational</category>
+		<description>Henry and Mudge in the Sparkle Days (USA)</description>
+		<rom name="Henry and Mudge in the Sparkle Days (USA).cue" size="130" crc="8abbdd60" md5="d949f76bae85f459a5c2e18cb470cb99" sha1="f2266289ed3dc17861582b61565e008a1a5a8264"/>
+		<rom name="Henry and Mudge in the Sparkle Days (USA).bin" size="45247776" crc="19b2b4a1" md5="2bd713a9fd5ddb09f244a1b5b1545164" sha1="a04419222b64ccd02e4b4f15ce2af72615cfe0d0"/>
+	</game>
+	<game name="Henry and Mudge - The First Book (USA)">
+		<category>Educational</category>
+		<description>Henry and Mudge - The First Book (USA)</description>
+		<rom name="Henry and Mudge - The First Book (USA).cue" size="127" crc="7331b288" md5="b50ebc28a459437ead80a9c4b7bbcd0d" sha1="98cf9c52b32f614a20e5da19a969d02c8f74c88b"/>
+		<rom name="Henry and Mudge - The First Book (USA).bin" size="50422176" crc="aaf9d2ca" md5="2f88457c0cae5dada2c35d64d463d0de" sha1="4499624227f3fdcc56e59f26989e34ba25c276e6"/>
+	</game>
+	<game name="Kid-Fun (USA)">
+		<category>Educational</category>
+		<description>Kid-Fun (USA)</description>
+		<rom name="Kid-Fun (USA).cue" size="79" crc="ae1feb71" md5="3c654fe82312f085818ba7ffb114166e" sha1="898e82f09b2eb5cb7509a9eb03cb4e383df7989b"/>
+		<rom name="Kid-Fun (USA).bin" size="238504560" crc="6013c44b" md5="dd698cc1bdb3281b19129916ccefcbde" sha1="b8f3f5afde8768cf93e9b6a653a0e430c32114a2"/>
+	</game>
+	<game name="Kids Can Read! The Tale of Benjamin Bunny - Beatrix Potter (USA) (En,Es)">
+		<category>Educational</category>
+		<description>Kids Can Read! The Tale of Benjamin Bunny - Beatrix Potter (USA) (En,Es)</description>
+		<rom name="Kids Can Read! The Tale of Benjamin Bunny - Beatrix Potter (USA) (En,Es).cue" size="138" crc="1ee42b4c" md5="beb5284112f8436d30e1a278f37b174b" sha1="12a03a16a29d24ab81eaf63b0aa84bbceede9442"/>
+		<rom name="Kids Can Read! The Tale of Benjamin Bunny - Beatrix Potter (USA) (En,Es).bin" size="370639920" crc="1c493070" md5="625125a2e8e5a5ca819e9c69f82043d8" sha1="2857e3b5f9c96c301369fcdbbe36da497be8f242"/>
+	</game>
+	<game name="My Paint (USA)">
+		<category>Educational</category>
+		<description>My Paint (USA)</description>
+		<rom name="My Paint (USA).cue" size="80" crc="fe1aa71f" md5="b01326c84260cfc98444978cf9ec3b4d" sha1="0ed7428c2374379a7d11e006c05b1b002126800a"/>
+		<rom name="My Paint (USA).bin" size="44452800" crc="43fd933a" md5="75f9046a03cfcb80d5bb4d836275407b" sha1="2a2ecae9e5efc2ecacb0f5e15411c170a236c1db"/>
+	</game>
+	<game name="Playing with Language - Games in English (USA)">
+		<category>Educational</category>
+		<description>Playing with Language - Games in English (USA)</description>
+		<rom name="Playing with Language - Games in English (USA).cue" size="112" crc="c7287e9a" md5="e0704b39a01726fa77d9251ce8a17bcd" sha1="cedc5898b800b27d328e3c85d16cad4aa31134da"/>
+		<rom name="Playing with Language - Games in English (USA).bin" size="112190400" crc="c3910612" md5="ac6bab5a4212d0d053332c7ca449770a" sha1="3761280c794667fb8a6f8b12770b3f622556d40b"/>
+	</game>
+	<game name="Playing with Language - Games in German (USA)">
+		<category>Educational</category>
+		<description>Playing with Language - Games in German (USA)</description>
+		<rom name="Playing with Language - Games in German (USA).cue" size="111" crc="45c6e3fe" md5="440fa9f0bc740641342b497fbe19ec78" sha1="8b443dd607166515b01875db2b05b4544162be0b"/>
+		<rom name="Playing with Language - Games in German (USA).bin" size="119839104" crc="9914e013" md5="6fddf706192bb3bffc60fbe3743a1c26" sha1="d2831b0403debec5ff47b9a2c3f13288f2d9c35c"/>
+	</game>
+	<game name="Search for the Sea (USA)">
+		<category>Educational</category>
+		<description>Search for the Sea (USA)</description>
+		<rom name="Search for the Sea (USA).cue" size="90" crc="a491d265" md5="e09c21f7e6dd92a2d53f95a6d8161c7b" sha1="1304a2ee5d9ca55bc4aacc69a8b09fec7cd54055"/>
+		<rom name="Search for the Sea (USA).bin" size="72728544" crc="20422ad7" md5="4206f7e43940e66a9e412475a20f037b" sha1="5a59eeac650bdaa78791defb5534bb085c1a9197"/>
+	</game>
+	<game name="Sherlock Holmes - Consulting Detective Volume I (USA)">
+		<category>Games</category>
+		<description>Sherlock Holmes - Consulting Detective Volume I (USA)</description>
+		<rom name="Sherlock Holmes - Consulting Detective Volume I (USA).cue" size="119" crc="0ec313e9" md5="025d9dfa01ccb6e8821e3dc8dba861db" sha1="38594b7eac5f38a11a111dcfa4787257556972ac"/>
+		<rom name="Sherlock Holmes - Consulting Detective Volume I (USA).bin" size="512745408" crc="ef3ae128" md5="6381575e4896f8c1d1c2f48841ece5cc" sha1="66a20865ab247d3917944241c94d682e23bee6ae"/>
+	</game>
+	<game name="Rick Ribbit - Adventures in Early Learning (USA)">
+		<category>Educational</category>
+		<description>Rick Ribbit - Adventures in Early Learning (USA)</description>
+		<rom name="Rick Ribbit - Adventures in Early Learning (USA).cue" size="114" crc="f89e2813" md5="49e0c29d8f2132645c327be838cfc305" sha1="7248e1d44de6b1e80fc6a6e7443fc62c40913307"/>
+		<rom name="Rick Ribbit - Adventures in Early Learning (USA).bin" size="34390944" crc="a79510c7" md5="985310700abcf600d8fe39c8e7f299bf" sha1="089052ac80a25880d6aba860dc4014dc9e7e2633"/>
+	</game>
+	<game name="Better Not Get Wet, Jesse Bear (USA)">
+		<category>Educational</category>
+		<description>Better Not Get Wet, Jesse Bear (USA)</description>
+		<rom name="Better Not Get Wet, Jesse Bear (USA).cue" size="125" crc="9a8e54c8" md5="c739dd003861877defe9eeb3bd0bd6ea" sha1="61f590400a6df445e3faf87bb4b68fbcffb7c0b4"/>
+		<rom name="Better Not Get Wet, Jesse Bear (USA).bin" size="41588064" crc="d2f72d74" md5="a6a7abd29bb57067af065082599d016f" sha1="cfde460ddc495751a99ca388db740e6afc872e3a"/>
+	</game>
+	<game name="Jesse Bear, What Will You Wear (USA)">
+		<category>Educational</category>
+		<description>Jesse Bear, What Will You Wear (USA)</description>
+		<rom name="Jesse Bear, What Will You Wear (USA).cue" size="125" crc="2b2436d3" md5="f3d7ff29679c765b6ac7eb60df812b67" sha1="02c649884364e70c5bb3b36c0aef5987ea113cc7"/>
+		<rom name="Jesse Bear, What Will You Wear (USA).bin" size="30825312" crc="a81570ff" md5="9ff9f0fc059735cc381c1239c2949c10" sha1="7ddecceeefbb15da2551333726e80ae5b04cf726"/>
+	</game>
+	<game name="Bible Lands, Bible Stories (USA)">
+		<category>Multimedia</category>
+		<description>Bible Lands, Bible Stories (USA)</description>
+		<rom name="Bible Lands, Bible Stories (USA).cue" size="98" crc="db0461b4" md5="82b413b6f98f31f57d1be775054d58e3" sha1="6686c8d3f1dd9e8a0b97bcbb77d3a2ae938f66f5"/>
+		<rom name="Bible Lands, Bible Stories (USA).bin" size="195192480" crc="326b3856" md5="b7b7caa80c2c63ee3c25efa8e9a46d0e" sha1="4f46122e51b10d20e4a913d337dc863318524910"/>
+	</game>
+	<game name="Kids Can Read! The Tale of Peter Rabbit - Beatrix Potter (USA) (En,Es)">
+		<category>Educational</category>
+		<description>Kids Can Read! The Tale of Peter Rabbit - Beatrix Potter (USA) (En,Es)</description>
+		<rom name="Kids Can Read! The Tale of Peter Rabbit - Beatrix Potter (USA) (En,Es).cue" size="136" crc="e9535e2d" md5="9138c6f160b008c7b7553b227c084ac7" sha1="9600cc06f194f4e986173d4785bd78d50899ac05"/>
+		<rom name="Kids Can Read! The Tale of Peter Rabbit - Beatrix Potter (USA) (En,Es).bin" size="339473568" crc="d78898b0" md5="73b9fe9919314632e25db349d788b49e" sha1="cfc24625e685d95a789ca8d1797ad4e73b998e11"/>
+	</game>
+	<game name="Multimedia Animals Encyclopedia (USA)">
+		<category>Multimedia</category>
+		<description>Multimedia Animals Encyclopedia (USA)</description>
+		<rom name="Multimedia Animals Encyclopedia (USA).cue" size="103" crc="0cddb168" md5="2876d3fcc657c1a2ce1973ba2b759bc1" sha1="e987061d23d32322f177278be3cde12d64b7f95e"/>
+		<rom name="Multimedia Animals Encyclopedia (USA).bin" size="302965824" crc="9ac834bc" md5="620627d7cb08a35f6293d5fa90b584b3" sha1="f5e0eebd7aab13ec87cc4f9d3773de391c0863ed"/>
+	</game>
+	<game name="SmartKids Challenge One (USA)">
+		<category>Educational</category>
+		<description>SmartKids Challenge One (USA)</description>
+		<rom name="SmartKids Challenge One (USA).cue" size="95" crc="f01eb386" md5="70e943aa57fe7722aed82467c9bea270" sha1="7c9537d2c9f34cd32148312f843d66c261c64d07"/>
+		<rom name="SmartKids Challenge One (USA).bin" size="11294304" crc="c65cf459" md5="2d2fe47332ea09753f37bcba05b076c2" sha1="b8d74c5b8515cefcf6ac55e92da5c27523c83cbe"/>
+	</game>
+	<game name="Secrets of Hosea Freeman, The (USA)">
+		<category>Games</category>
+		<description>Secrets of Hosea Freeman, The (USA)</description>
+		<rom name="Secrets of Hosea Freeman, The (USA).cue" size="101" crc="d48a80c0" md5="dfa81ce87f4c585c659a7c727bb4e1e4" sha1="deba547154e9c093c8547281cbeee940aa77bd84"/>
+		<rom name="Secrets of Hosea Freeman, The (USA).bin" size="271954704" crc="8f329088" md5="9581674fa9746c7117c85dd2fb8ca2ae" sha1="af36afe5264edd811f07e7ba4dcfcd345455f872"/>
+	</game>
+	<game name="Fitness Partner (USA)">
+		<category>Multimedia</category>
+		<description>Fitness Partner (USA)</description>
+		<rom name="Fitness Partner (USA).cue" size="87" crc="2e5c7aa4" md5="476c8014cbf2453b38597dbd8d06934a" sha1="7324b895107f1894b8ca0a17e0650f6aae5b28c7"/>
+		<rom name="Fitness Partner (USA).bin" size="70082544" crc="5d37533d" md5="e09ce49cefbe08aec702af079bc55923" sha1="4ae07249b47084e2e3aa3e8d9dd4288db1ac4292"/>
+	</game>
+	<game name="Adventures of Victor Vector &amp; Yondo, The - Adventure No. 1 - The Vampire's Coffin (USA)">
+		<category>Games</category>
+		<description>Adventures of Victor Vector &amp; Yondo, The - Adventure No. 1 - The Vampire's Coffin (USA)</description>
+		<rom name="Adventures of Victor Vector &amp; Yondo, The - Adventure No. 1 - The Vampire's Coffin (USA).cue" size="153" crc="98689c02" md5="f21f4a886192d83a143ea5294f61d535" sha1="33512e536aa24fb6985e1f5ecfe5da957280156e"/>
+		<rom name="Adventures of Victor Vector &amp; Yondo, The - Adventure No. 1 - The Vampire's Coffin (USA).bin" size="113594544" crc="57a66cea" md5="de1fb2b19331a6b710c2ff74f917f1ee" sha1="0fdac03b71f739091522bda371aa0cdbe9fc52df"/>
+	</game>
+	<game name="American Heritage - Illustrated Encyclopedic Dictionary (USA)">
+		<category>Multimedia</category>
+		<description>American Heritage - Illustrated Encyclopedic Dictionary (USA)</description>
+		<rom name="American Heritage - Illustrated Encyclopedic Dictionary (USA).cue" size="150" crc="8335bffa" md5="d505c77f576c0e8f7d2ea24162d62751" sha1="ca8774f5c04801203c99cfdbe2867c13afbc260a"/>
+		<rom name="American Heritage - Illustrated Encyclopedic Dictionary (USA).bin" size="437163888" crc="4f245ee3" md5="85aa815db9e287fb2a43992889f020e4" sha1="4b12b3686c109a82d86f76394f8f6c4513ce4911"/>
+	</game>
+	<game name="American Vista (USA)">
+		<category>Multimedia</category>
+		<description>American Vista (USA)</description>
+		<rom name="American Vista (USA).cue" size="86" crc="4e6d5b01" md5="4488e98e7fb57cd8aba983240a9051cf" sha1="96eb4d153fa47703a115f33202ef53b7ffeefe7d"/>
+		<rom name="American Vista (USA).bin" size="311186064" crc="35068b38" md5="d575723e26ca09218bdccf6525295bf4" sha1="b2bccf3547a2544f8c24851ba3f391a28319b288"/>
+	</game>
+	<game name="Astrology Source (USA)">
+		<category>Multimedia</category>
+		<description>Astrology Source (USA)</description>
+		<rom name="Astrology Source (USA).cue" size="88" crc="f7bf7a0b" md5="e17c296bf9e53248c47b98d42261d561" sha1="320d281b19d90d1b6d589952caeb0a2db17eb28f"/>
+		<rom name="Astrology Source (USA).bin" size="181607328" crc="5c550def" md5="7c534f08e7bbe8bb332d34580ffa5055" sha1="8ef52c827ae642a68a810edf8709f897941b5bfd"/>
+	</game>
+	<game name="Better Homes and Gardens - Healthy Cooking (USA)">
+		<category>Multimedia</category>
+		<description>Better Homes and Gardens - Healthy Cooking (USA)</description>
+		<rom name="Better Homes and Gardens - Healthy Cooking (USA).cue" size="114" crc="ae3900a9" md5="d0511976fca490b74abe52a2a252ada4" sha1="7771e1c7e52ce0253d211423e82ef01ca95a9f53"/>
+		<rom name="Better Homes and Gardens - Healthy Cooking (USA).bin" size="473010720" crc="ab5d7814" md5="7d7388434e656c0ff9500e642869f918" sha1="e150086a5613060cc6dfd672a60ddbab65d5b774"/>
+	</game>
+	<game name="December 24th (USA)">
+		<category>Educational</category>
+		<description>December 24th (USA)</description>
+		<rom name="December 24th (USA).cue" size="108" crc="8b7b43b8" md5="ad0740eeb772c75a93c8b657ff36638f" sha1="4bceaed10b2be37c099763f0d2d3afb70e70ab1d"/>
+		<rom name="December 24th (USA).bin" size="32669280" crc="df09ca12" md5="eef3c9d9b77e197ab5604cd61f3e546f" sha1="2eb4cdbe6443dfe53a9b49057f399f3ff8939a0e"/>
+	</game>
+	<game name="Discis Books Multimedia - The Cask of Amontillado - Edgar Allan Poe (USA) (En,Es)">
+		<category>Educational</category>
+		<description>Discis Books Multimedia - The Cask of Amontillado - Edgar Allan Poe (USA) (En,Es)</description>
+		<rom name="Discis Books Multimedia - The Cask of Amontillado - Edgar Allan Poe (USA) (En,Es).cue" size="170" crc="fa7b855f" md5="819b2386c3492260b59836fd0259f858" sha1="80921f97a3807594d046541d6557ab3cc4756011"/>
+		<rom name="Discis Books Multimedia - The Cask of Amontillado - Edgar Allan Poe (USA) (En,Es).bin" size="613156992" crc="48c9bd76" md5="8f9cdf35a036d65e7d0063619b0850e3" sha1="30a2284858239bc795b053a4d307c0f680032571"/>
+	</game>
+	<game name="Discis Books Multimedia - The Necklace - Guy de Maupassant (USA) (En,Es)">
+		<category>Educational</category>
+		<description>Discis Books Multimedia - The Necklace - Guy de Maupassant (USA) (En,Es)</description>
+		<rom name="Discis Books Multimedia - The Necklace - Guy de Maupassant (USA) (En,Es).cue" size="138" crc="c6ac4102" md5="8d6f6d8df411e5859c917e16cb9d2da3" sha1="0da01592272c6bd7fdfbb15329542a86b77aca83"/>
+		<rom name="Discis Books Multimedia - The Necklace - Guy de Maupassant (USA) (En,Es).bin" size="647952480" crc="0496038e" md5="a9f801f568888e5a8d941995830dbd4a" sha1="208bd307dfff1081ddbbc9bc2c29655786829cbd"/>
+	</game>
+	<game name="Discis Books Multimedia - The Tell-Tale Heart - Edgar Allan Poe (USA) (En,Es)">
+		<category>Educational</category>
+		<description>Discis Books Multimedia - The Tell-Tale Heart - Edgar Allan Poe (USA) (En,Es)</description>
+		<rom name="Discis Books Multimedia - The Tell-Tale Heart - Edgar Allan Poe (USA) (En,Es).cue" size="166" crc="0f5bca69" md5="b15315bc789d91e5a07efb966b496aea" sha1="4d8628eddcf9f4604a10753864f3e2231e4dc20b"/>
+		<rom name="Discis Books Multimedia - The Tell-Tale Heart - Edgar Allan Poe (USA) (En,Es).bin" size="545807472" crc="4d4af009" md5="eeb384dc50a3e039dcbe5e25c732c70a" sha1="3fe7d7f1b0fb18d166ce24c0a0ce2b64616e9e39"/>
+	</game>
+	<game name="Survey of Western Art, A - The Electronic Library of Art (USA)">
+		<category>Multimedia</category>
+		<description>Survey of Western Art, A - The Electronic Library of Art (USA)</description>
+		<rom name="Survey of Western Art, A - The Electronic Library of Art (USA).cue" size="151" crc="9d38ad0f" md5="48cda8e2b6f4ab1f003185dedb92f80a" sha1="dff5fa9b9f8cf7578d15c18ac44a01f281be67a8"/>
+		<rom name="Survey of Western Art, A - The Electronic Library of Art (USA).bin" size="184549680" crc="4c46180f" md5="b6746afb279172301589d0f8681d6fef" sha1="025d34e55785ba2dbd118e68b5b339ec81c51156"/>
+	</game>
+	<game name="Kids Can Read! Aesop's Fables (USA) (En,Es)">
+		<category>Educational</category>
+		<description>Kids Can Read! Aesop's Fables (USA) (En,Es)</description>
+		<rom name="Kids Can Read! Aesop's Fables (USA) (En,Es).cue" size="109" crc="d177f86f" md5="c25177477738982018482700f769ce38" sha1="fa483faef3d939fce7de132a6cb1d9cd20335796"/>
+		<rom name="Kids Can Read! Aesop's Fables (USA) (En,Es).bin" size="406289184" crc="fc53ee74" md5="a4e4ec701ec570aa11aa1622635574e5" sha1="7fe0d9a3d916a0185470316a319011b70e5fa755"/>
+	</game>
+	<game name="Kids Can Read! A Long Hard Day at the Ranch - Audrey Nelson (USA) (En,Es)">
+		<category>Educational</category>
+		<description>Kids Can Read! A Long Hard Day at the Ranch - Audrey Nelson (USA) (En,Es)</description>
+		<rom name="Kids Can Read! A Long Hard Day at the Ranch - Audrey Nelson (USA) (En,Es).cue" size="139" crc="6b7b747b" md5="287d8d427a485cca37c679bab5570ae6" sha1="ce1ccd679f871170312517784cd8d7ffe8d255ec"/>
+		<rom name="Kids Can Read! A Long Hard Day at the Ranch - Audrey Nelson (USA) (En,Es).bin" size="284634336" crc="be686fd2" md5="6098c9083dc95603d277135f93fda45e" sha1="34678e1046e6d1acb7256915b73162b3766ed312"/>
+	</game>
+	<game name="Kids Can Read! Cinderella - The Original Fairy Tale (USA) (En,Es)">
+		<category>Educational</category>
+		<description>Kids Can Read! Cinderella - The Original Fairy Tale (USA) (En,Es)</description>
+		<rom name="Kids Can Read! Cinderella - The Original Fairy Tale (USA) (En,Es).cue" size="131" crc="6e0f6066" md5="f20e59a8c1000debd6d9a8739177ae96" sha1="84b7b512c7bd7fb07bc5602890bf7fa2aa605049"/>
+		<rom name="Kids Can Read! Cinderella - The Original Fairy Tale (USA) (En,Es).bin" size="560293440" crc="23683b22" md5="e4a2b2343ecde5862bb9ef0c0a68bcb3" sha1="96fdd436de5a51606b20a551f086e3bd28cad638"/>
+	</game>
+	<game name="Kids Can Read! Heather Hits Her First Home Run by Ted Planos (USA) (En,Es)">
+		<category>Educational</category>
+		<description>Kids Can Read! Heather Hits Her First Home Run by Ted Planos (USA) (En,Es)</description>
+		<rom name="Kids Can Read! Heather Hits Her First Home Run by Ted Planos (USA) (En,Es).cue" size="140" crc="a9be62c4" md5="594c93c3dc156b21c5c3ff0d1714bf5c" sha1="b47c7107c29488a8bb0c91a141570e405635d107"/>
+		<rom name="Kids Can Read! Heather Hits Her First Home Run by Ted Planos (USA) (En,Es).bin" size="317520000" crc="acdd851f" md5="dbacb408e3cf304261913dddabd3369b" sha1="49174711e4f19a5ef2fed5d02df18b3edf14c028"/>
+	</game>
+	<game name="Kids Can Read! Moving Gives Me a Stomach Ache - Story by Heather McKend (USA) (En,Es)">
+		<category>Educational</category>
+		<description>Kids Can Read! Moving Gives Me a Stomach Ache - Story by Heather McKend (USA) (En,Es)</description>
+		<rom name="Kids Can Read! Moving Gives Me a Stomach Ache - Story by Heather McKend (USA) (En,Es).cue" size="151" crc="ebfce707" md5="9a781fe1cf980feb33167ab2a143cfc5" sha1="e0d84762c23d6ed45a8ef724620b2f71e2ce1862"/>
+		<rom name="Kids Can Read! Moving Gives Me a Stomach Ache - Story by Heather McKend (USA) (En,Es).bin" size="300679680" crc="6dbbcdf5" md5="4393290506bda52aa0b7d73eda2e141d" sha1="ab7293093bbdf907ab3aeddd31ff50278e237a27"/>
+	</game>
+	<game name="Kids Can Read! Mud Puddle - Robert N. Munsch (USA) (En,Es)">
+		<category>Educational</category>
+		<description>Kids Can Read! Mud Puddle - Robert N. Munsch (USA) (En,Es)</description>
+		<rom name="Kids Can Read! Mud Puddle - Robert N. Munsch (USA) (En,Es).cue" size="124" crc="f1eff5ba" md5="98349f0263749707e1b122fa4a561d22" sha1="dbcbad05214cea8c07aa7c89912a73a5ae62c4e5"/>
+		<rom name="Kids Can Read! Mud Puddle - Robert N. Munsch (USA) (En,Es).bin" size="304174752" crc="2e2949fd" md5="2f8a02340c810d432c96e89729e56ff6" sha1="f1c77360418e68f85b1c1670947ba9aad8df0a3f"/>
+	</game>
+	<game name="Kids Can Read! Scary Poems for Rotten Kids written by Sean O Huigin (USA) (En,Es)">
+		<category>Educational</category>
+		<description>Kids Can Read! Scary Poems for Rotten Kids written by Sean O Huigin (USA) (En,Es)</description>
+		<rom name="Kids Can Read! Scary Poems for Rotten Kids written by Sean O Huigin (USA) (En,Es).cue" size="147" crc="20adf688" md5="bf7a6de27cf1c62dcfaaf8453a04351b" sha1="607ab2632c949f96518acc720f7081bfb5f53841"/>
+		<rom name="Kids Can Read! Scary Poems for Rotten Kids written by Sean O Huigin (USA) (En,Es).bin" size="506110416" crc="3aead446" md5="1977ce17321029da4b1644bb7fbf24f7" sha1="b088b24e5fd665c6aef317314b066078fbbb85bf"/>
+	</game>
+	<game name="Kids Can Read! Thomas' Snowsuit - R. Munsch (USA) (En,Es)">
+		<category>Educational</category>
+		<description>Kids Can Read! Thomas' Snowsuit - R. Munsch (USA) (En,Es)</description>
+		<rom name="Kids Can Read! Thomas' Snowsuit - R. Munsch (USA) (En,Es).cue" size="123" crc="0675a5d5" md5="d4d8474abea82562caeacf48e8b71bde" sha1="33d19b30daf6b4a86fcb36643b7a886e9749a4e7"/>
+		<rom name="Kids Can Read! Thomas' Snowsuit - R. Munsch (USA) (En,Es).bin" size="308700000" crc="ee0f8c42" md5="12dae2aa7e80fd46fbb2b24fcea73a39" sha1="53e4d136c46af051900607f1f93a638091cf3ef3"/>
+	</game>
+	<game name="Kids Can Read! The Night Before Christmas - Clement C. Moore LLD (USA) (En,Es)">
+		<category>Educational</category>
+		<description>Kids Can Read! The Night Before Christmas - Clement C. Moore LLD (USA) (En,Es)</description>
+		<rom name="Kids Can Read! The Night Before Christmas - Clement C. Moore LLD (USA) (En,Es).cue" size="144" crc="772af51b" md5="aef170375f40a8c0cec78b2bcc6f5e16" sha1="b04450b5b1545a7071b4d006ea2a7c2a47600b8a"/>
+		<rom name="Kids Can Read! The Night Before Christmas - Clement C. Moore LLD (USA) (En,Es).bin" size="289197216" crc="f87ea0be" md5="04a0d7f58effaed67d9d9d5e4a187ccb" sha1="f14526fdf81dcfc541c08f0c67bff593b7ee5ad9"/>
+	</game>
+	<game name="Kids Can Read! The Paper Bag Princess - Robert N. Munsch (USA) (En,Es)">
+		<category>Educational</category>
+		<description>Kids Can Read! The Paper Bag Princess - Robert N. Munsch (USA) (En,Es)</description>
+		<rom name="Kids Can Read! The Paper Bag Princess - Robert N. Munsch (USA) (En,Es).cue" size="136" crc="a25822ea" md5="c55f613051c5fbb3c214bfc321740648" sha1="519e7a9eec0cd0476f74cf84679b0e5eb0087b62"/>
+		<rom name="Kids Can Read! The Paper Bag Princess - Robert N. Munsch (USA) (En,Es).bin" size="287797776" crc="5d6f9120" md5="605878f537d6d336919c8014644f44ab" sha1="79579e11027766cdc07f6a804d06da075efb34fe"/>
+	</game>
+	<game name="Learn to Play Guitar Volume 1 (USA)">
+		<category>Educational</category>
+		<description>Learn to Play Guitar Volume 1 (USA)</description>
+		<rom name="Learn to Play Guitar Volume 1 (USA).cue" size="1672" crc="5fe098ec" md5="a405cb95f23ecd6e3280b630c2b4d7e1" sha1="b10ca271a0141b265890beea7fc6210efbd9ca66"/>
+		<rom name="Learn to Play Guitar Volume 1 (USA) (Track 01).bin" size="56812560" crc="9223be52" md5="292d7a126c251efba396f249d0e37288" sha1="570f3205b44455e760d10d6a5ff2c318259cebcd"/>
+		<rom name="Learn to Play Guitar Volume 1 (USA) (Track 02).bin" size="47298720" crc="e217d726" md5="c4b7a9e01368fcae1e894b6073d499cc" sha1="d05cbedb9d630954033eb78eb8c71f5cde2e51f7"/>
+		<rom name="Learn to Play Guitar Volume 1 (USA) (Track 03).bin" size="46647216" crc="6e2b264e" md5="2f0b09fdf392d0d9435a9d0249272a82" sha1="00d9f2ca27304319d4dae5fcd1f6f33d13d06050"/>
+		<rom name="Learn to Play Guitar Volume 1 (USA) (Track 04).bin" size="46675440" crc="3fc45e44" md5="ab700e03a772d36d1ad7591b5e9e61b9" sha1="d52bb755b9a96e752d3b32f5da22c0e9d6d0b132"/>
+		<rom name="Learn to Play Guitar Volume 1 (USA) (Track 05).bin" size="46809504" crc="faab0c88" md5="f46becf1da5370b6c2759dbcd85f3734" sha1="dd547b01b47353ab8c986b5ccd3422717462c863"/>
+		<rom name="Learn to Play Guitar Volume 1 (USA) (Track 06).bin" size="46576656" crc="d309227d" md5="7e329d3683de384b5798a047785fb44f" sha1="875227193dcb3b3255ec9f572df357a945a1f7a6"/>
+		<rom name="Learn to Play Guitar Volume 1 (USA) (Track 07).bin" size="46616640" crc="53409149" md5="f3f67b3cfb94fd12a6819eb2da26782e" sha1="c52ca1118b8bc5b2c59dd474d13254d6d1da2005"/>
+		<rom name="Learn to Play Guitar Volume 1 (USA) (Track 08).bin" size="38212944" crc="01982a0c" md5="ef1f2d07c6b2e0f3cfce204a30cbbe95" sha1="df7b6496644d8b36aa3ca6cade4521064b8ba38f"/>
+		<rom name="Learn to Play Guitar Volume 1 (USA) (Track 09).bin" size="38455200" crc="be76fe94" md5="dac8984e1a5808bfaad01682d426ba22" sha1="25c135f77700af5e80d001d956c8bed6941f7286"/>
+		<rom name="Learn to Play Guitar Volume 1 (USA) (Track 10).bin" size="38203536" crc="c2c0a516" md5="5496eda66480b229e8da1892e836ac5f" sha1="b6d85b7b6edf0198ead380813aeaed681f8e81af"/>
+		<rom name="Learn to Play Guitar Volume 1 (USA) (Track 11).bin" size="38506944" crc="9f36f619" md5="0365be0fe4330c636871d8e8817cc8df" sha1="4caaf892cba8208625c6e2bdb8cbecd9ea460cc1"/>
+		<rom name="Learn to Play Guitar Volume 1 (USA) (Track 12).bin" size="37827216" crc="598c2032" md5="57cf5b7baa851b5fea243aae83e9eec1" sha1="7893d5f18b8361a208e455bc1b3bd0fb1cb09a07"/>
+		<rom name="Learn to Play Guitar Volume 1 (USA) (Track 13).bin" size="38377584" crc="07393697" md5="5ab98981c671647527e2623cefb5653f" sha1="531ac748e2920fa2887f22ea94351c96bf33b579"/>
+	</game>
+	<game name="Manhole, The - New and Enhanced! (USA)">
+		<category>Games</category>
+		<description>Manhole, The - New and Enhanced! (USA)</description>
+		<rom name="Manhole, The - New and Enhanced! (USA).cue" size="3596" crc="02ba7e10" md5="5a07d9098451ffc46791b1b7f7d69a52" sha1="3161ba7fa77b50033b096fe0234c68ed5964ccb6"/>
+		<rom name="Manhole, The - New and Enhanced! (USA) (Track 01).bin" size="20109600" crc="340ac00b" md5="c8ad788f7fd26c5f5062e6021ca338d0" sha1="a6dd42a5f94afcf576b3516add857990a486c4e6"/>
+		<rom name="Manhole, The - New and Enhanced! (USA) (Track 02).bin" size="8079120" crc="55e778fe" md5="7ecbb4fb25b0623b8f4776190b5ac833" sha1="f5d60061b2dfd5041c38cc2c0fb36206eca5691a"/>
+		<rom name="Manhole, The - New and Enhanced! (USA) (Track 03).bin" size="8396640" crc="7c0fceef" md5="e08046177136883708cf737f014a8f6b" sha1="5275dd23f80d562c310553ca5e3706da068bae66"/>
+		<rom name="Manhole, The - New and Enhanced! (USA) (Track 04).bin" size="12453840" crc="a1164e2b" md5="9d7786cc8794c5e2e5604536eef38e3b" sha1="d87d2acf104008e466b767977b8b682359da0f81"/>
+		<rom name="Manhole, The - New and Enhanced! (USA) (Track 05).bin" size="13253520" crc="3b292c9d" md5="a1da34de4f004875467f02520574df70" sha1="37f9e4c16ffa9418a9ba79e31f5d45559b2be38e"/>
+		<rom name="Manhole, The - New and Enhanced! (USA) (Track 06).bin" size="6973680" crc="576fc62b" md5="859fda77910a9c8c287e6a9a97babdf4" sha1="d8674dac1ddaae9db7b3f642e0400829b0afa685"/>
+		<rom name="Manhole, The - New and Enhanced! (USA) (Track 07).bin" size="7608720" crc="bf5038f6" md5="6d2c04a32ca7c35b7c5686abab8f4d62" sha1="4a3531bb9a1d4b87d31d4a82d6108863a260f672"/>
+		<rom name="Manhole, The - New and Enhanced! (USA) (Track 08).bin" size="9702000" crc="b27ed835" md5="e61584107618baa88a8ceda9d2616461" sha1="cb9229f8df11798f9812e606d79705a326149f0a"/>
+		<rom name="Manhole, The - New and Enhanced! (USA) (Track 09).bin" size="10760400" crc="59765fe4" md5="6b7e8e88c1d05c62f49a126fc0821df1" sha1="5284fb8a5dd6778c1233f19c8180644c28ced444"/>
+		<rom name="Manhole, The - New and Enhanced! (USA) (Track 10).bin" size="12383280" crc="32f35a55" md5="40ffe8a19ac0a81f5722b9ab4dbbe2a9" sha1="8b5e1f8fea0ae4757ccd2e59deee1a609ebf0c6f"/>
+		<rom name="Manhole, The - New and Enhanced! (USA) (Track 11).bin" size="25048800" crc="e2aa33fc" md5="45abdb0274c25ec5b161feb4f7ce51c4" sha1="ca6984c0a91625bab0a2259d9e556b6b178e5f6d"/>
+		<rom name="Manhole, The - New and Enhanced! (USA) (Track 12).bin" size="11560080" crc="cc45532a" md5="a9ec898a26f67a5479fcb95e3ebbde6b" sha1="41721c9e46293c23a5922efb6f928f478d0eb68c"/>
+		<rom name="Manhole, The - New and Enhanced! (USA) (Track 13).bin" size="19027680" crc="9ca0a70a" md5="8e1cec1fd497cf66bd1fa55f721fd081" sha1="ec4f2a185c6d83cc37032060ba2357bf9d519f38"/>
+		<rom name="Manhole, The - New and Enhanced! (USA) (Track 14).bin" size="9149280" crc="da330183" md5="c09d865c446ebaf6b89e00a8221fa100" sha1="0de9e3892e08e59eb40a9164cd93b2d80d412315"/>
+		<rom name="Manhole, The - New and Enhanced! (USA) (Track 15).bin" size="18298560" crc="7d21facb" md5="1c498fed721038ad26a8b5dbd8d07cff" sha1="6fab2478affd3105fe21ddcac5e89e8c1250ac7b"/>
+		<rom name="Manhole, The - New and Enhanced! (USA) (Track 16).bin" size="13194720" crc="88484785" md5="38647e5aea34db192845d364cccc10df" sha1="1037076a1bf3b8f138fac5f062860e222b6efbcd"/>
+		<rom name="Manhole, The - New and Enhanced! (USA) (Track 17).bin" size="15429120" crc="dfaf66aa" md5="f473ecc8bdda701effae74f224e6c4f9" sha1="78a758b39e871bdc89293b30bacc8fbfe5f036ff"/>
+		<rom name="Manhole, The - New and Enhanced! (USA) (Track 18).bin" size="11689440" crc="9f773a41" md5="ebe00f6e7a2e68c0887b0dbe12e4c353" sha1="4ff20f8be2cf9c17daf8d43774adada3a72ea2ea"/>
+		<rom name="Manhole, The - New and Enhanced! (USA) (Track 19).bin" size="12500880" crc="878c4ce1" md5="c6478f9b20e5318ee4951af95c9577c4" sha1="592f5f271c9f6f140b7c78a993b554c1f27eece4"/>
+		<rom name="Manhole, The - New and Enhanced! (USA) (Track 20).bin" size="10478160" crc="9f767807" md5="d9fddd596f9990da2a64a58797724526" sha1="7e0c7d25ea0b350cc49e328041749bdacf776b04"/>
+		<rom name="Manhole, The - New and Enhanced! (USA) (Track 21).bin" size="9831360" crc="4d10e364" md5="b8f20836fa93da7eb502bda7cee0df5a" sha1="0470648fc2105a53338d6b90f76d018010a1763f"/>
+		<rom name="Manhole, The - New and Enhanced! (USA) (Track 22).bin" size="11266080" crc="656b7668" md5="94109db7587036df12186ea11df4c91c" sha1="4f098bfd1cc0889aeb43f1b27ffb73e9e2696af5"/>
+		<rom name="Manhole, The - New and Enhanced! (USA) (Track 23).bin" size="7232400" crc="0e86339b" md5="80ee31b2ba7f494b521e2e6155ecef81" sha1="3a676e04b60ad2f107a7ceae5e92cf086780c87e"/>
+		<rom name="Manhole, The - New and Enhanced! (USA) (Track 24).bin" size="5292000" crc="0b65dfc8" md5="372e3d9cdd462a9cb42c6b573f26abe5" sha1="969c7d57e08b47609246534c4d0a7532cca029c4"/>
+		<rom name="Manhole, The - New and Enhanced! (USA) (Track 25).bin" size="3457440" crc="9431586c" md5="7fc602f19c4975f0ca3a389c36cf5300" sha1="57b5a42162a96ae5dc66c714b184848050fa8462"/>
+		<rom name="Manhole, The - New and Enhanced! (USA) (Track 26).bin" size="4233600" crc="50a6276c" md5="6a4471b4e7c64899275a363560c76931" sha1="5ae7ee4884870490b0c726f1c92440ce22cf31c8"/>
+		<rom name="Manhole, The - New and Enhanced! (USA) (Track 27).bin" size="15170400" crc="09e482cd" md5="5534f68b9a7e6075c1b4af3cb3e2aade" sha1="dfb80bf335c1f46dd5473f5baff37992859544f0"/>
+	</game>
+	<game name="Meeting of Minds Series, The - Interactive Games of History, Art, Music, and Ideas (USA)">
+		<category>Educational</category>
+		<description>Meeting of Minds Series, The - Interactive Games of History, Art, Music, and Ideas (USA)</description>
+		<rom name="Meeting of Minds Series, The - Interactive Games of History, Art, Music, and Ideas (USA).cue" size="154" crc="538d19e9" md5="be7af7968ac328efc076fc3cc050cf89" sha1="a1185eed7e185aee900204d2944afc7bf1ea955c"/>
+		<rom name="Meeting of Minds Series, The - Interactive Games of History, Art, Music, and Ideas (USA).bin" size="106169280" crc="7fe5db02" md5="67f8d8fa2e787f7bf96bc1b9902c295d" sha1="0ba50f1a58ea7ab6d38fa8d9b1805ff74c96f1b8"/>
+	</game>
+	<game name="Mercer Mayer's Just Grandma and Me (USA) (En,Ja,Es)">
+		<category>Educational</category>
+		<description>Mercer Mayer's Just Grandma and Me (USA) (En,Ja,Es)</description>
+		<rom name="Mercer Mayer's Just Grandma and Me (USA) (En,Ja,Es).cue" size="417" crc="158d48c0" md5="07f55c2984455e64bcbf7c7fc9530219" sha1="4bc9aae038671e4ccf168e52cf846d21fbbe7260"/>
+		<rom name="Mercer Mayer's Just Grandma and Me (USA) (En,Ja,Es) (Track 1).bin" size="100230480" crc="b2f78b3f" md5="cd9f3c89b676709f23bfdfc7be68c091" sha1="1a11fd435f8370c47f91172c696f52e1f1651aa2"/>
+		<rom name="Mercer Mayer's Just Grandma and Me (USA) (En,Ja,Es) (Track 2).bin" size="21062160" crc="75284ac5" md5="dc9ead1bc56187544bb3c7dff8d15db1" sha1="e223b90d4de8b1d95419a204fbaab7ac8d24ba0d"/>
+		<rom name="Mercer Mayer's Just Grandma and Me (USA) (En,Ja,Es) (Track 3).bin" size="25413360" crc="802983f2" md5="dafd85d504e8d31b6763441e4df7c206" sha1="7781f1ae659cbcf22a753f7291ca8fc3face2088"/>
+	</game>
+	<game name="Mosaic Magic (USA)">
+		<category>Educational</category>
+		<description>Mosaic Magic (USA)</description>
+		<rom name="Mosaic Magic (USA).cue" size="84" crc="4a147ac2" md5="454a90ae05924730d7f7f778deddcc64" sha1="b8770d8fdc74305733df4a2ea6a95657458f4daa"/>
+		<rom name="Mosaic Magic (USA).bin" size="54547584" crc="36d803c3" md5="e16847f819a4a74c2fd59300eaa91291" sha1="a87f40f8a78a31460f3829a93d7cfa0f9bd38760"/>
+	</game>
+	<game name="Mutanoid Math Challenge (USA)">
+		<category>Educational</category>
+		<description>Mutanoid Math Challenge (USA)</description>
+		<rom name="Mutanoid Math Challenge (USA).cue" size="95" crc="9d376231" md5="9ee5823a7e4ade2bf546b4c9e2170013" sha1="dc2df16d299d97a89380e01769460f48abc35455"/>
+		<rom name="Mutanoid Math Challenge (USA).bin" size="18126864" crc="94692c17" md5="82d6890690e6a23982a6fd98c529023b" sha1="519d04323f66c545f209fab5e6ecaf552358f435"/>
+	</game>
+	<game name="Mutanoid Word Challenge (USA)">
+		<category>Educational</category>
+		<description>Mutanoid Word Challenge (USA)</description>
+		<rom name="Mutanoid Word Challenge (USA).cue" size="1718" crc="c146fd57" md5="dd0712d248d136c3f997acbbd56fc084" sha1="47affbaab850bf49e4b4a6ca9be33175936c5a3e"/>
+		<rom name="Mutanoid Word Challenge (USA) (Track 01).bin" size="4003104" crc="6223a654" md5="b023fc9dcf5f7414bb28c37b0cd98c0b" sha1="deb62c101b98f207ae61c4e8658569d64cb45f4c"/>
+		<rom name="Mutanoid Word Challenge (USA) (Track 02).bin" size="15876000" crc="9feca6c9" md5="239079deac1f9f7ffaf73eb01807dc10" sha1="0a49d30cbfdf345cd8ae4f86b660fc5d2844e37d"/>
+		<rom name="Mutanoid Word Challenge (USA) (Track 03).bin" size="12618480" crc="38362c0b" md5="4553be8ec0cd7066dfdd0f6a24981be4" sha1="a2978356a18ba02b6f0bbeaa65d25e2143ff98ad"/>
+		<rom name="Mutanoid Word Challenge (USA) (Track 04).bin" size="18180960" crc="e0ca2f64" md5="55113a37c5a59d03d361a2cbf3608034" sha1="6b43641eda5d36bfda58a39b3a2b2ee1ef7c8541"/>
+		<rom name="Mutanoid Word Challenge (USA) (Track 05).bin" size="17063760" crc="efaf1000" md5="0be46dc3a68af7f6a85cb6d44a3640e7" sha1="16f37ce3690e021ca65feef453cde1acc581cb78"/>
+		<rom name="Mutanoid Word Challenge (USA) (Track 06).bin" size="16358160" crc="fee6a6a9" md5="d1107384e15b3682ddb5446afceb2872" sha1="07bd3287a3280b06711468ff37269ef9e9cf741e"/>
+		<rom name="Mutanoid Word Challenge (USA) (Track 07).bin" size="14605920" crc="9bebfe9d" md5="5d50cb7b51c6325b419b711ac2ed256f" sha1="baebaa41361829e02687832c282ad74e2c0b3c71"/>
+		<rom name="Mutanoid Word Challenge (USA) (Track 08).bin" size="17839920" crc="096d3d8e" md5="bfd688b06ec710e12f6206691a8466f3" sha1="772032eebaae62f9cc98c37de0d940b8e718d3b7"/>
+		<rom name="Mutanoid Word Challenge (USA) (Track 09).bin" size="12531456" crc="a1e9a6f5" md5="1b4bad396dacf66eb632235fba0ef129" sha1="8ebef5e935e8711f52ebe59273c94ef59d6cc03b"/>
+		<rom name="Mutanoid Word Challenge (USA) (Track 10).bin" size="24354960" crc="ea26435c" md5="138c500f683e9914cabc86cc0b5dd78e" sha1="489c3c36b3971edadc84285d99e2543da2b30d31"/>
+		<rom name="Mutanoid Word Challenge (USA) (Track 11).bin" size="16703904" crc="5b0269f4" md5="22c8d0259f47de1a12230f1d20d26c95" sha1="725a1cdfe079590c6e9f6e687d677dd9949c7b89"/>
+		<rom name="Mutanoid Word Challenge (USA) (Track 12).bin" size="20003760" crc="97685750" md5="0c60b7a76ba9fad3ba7e9a70777cca7e" sha1="64f9fcebfa7e3a1d2bcea4c1fe6df21a578cf6fd"/>
+		<rom name="Mutanoid Word Challenge (USA) (Track 13).bin" size="15781920" crc="92c665bc" md5="e7e1ca4f3f267c9e12a1b6a60cd733f5" sha1="47c07d643ba689832e41f84b7b97c7f0b079b194"/>
+		<rom name="Mutanoid Word Challenge (USA) (Track 14).bin" size="13072416" crc="0e71194d" md5="741eacb34cfec6396de8e29aae31e393" sha1="f891857e70bd9a7c8051e9e3d80a36935404b643"/>
+	</game>
+	<game name="Our House featuring The Family Circus (USA)">
+		<category>Educational</category>
+		<description>Our House featuring The Family Circus (USA)</description>
+		<rom name="Our House featuring The Family Circus (USA).cue" size="109" crc="fb591092" md5="7976871d0d783c0217a9d1bb46c65a02" sha1="d64bda6b5738253e8d97c5b8a3415d28fc2b4e1b"/>
+		<rom name="Our House featuring The Family Circus (USA).bin" size="359061024" crc="de12f16b" md5="375afa9a368449f7c5f44835b41bf0b1" sha1="43c2b6e5ca13492a291fce352c20535c6c1d6791"/>
+	</game>
+	<game name="Peter and the Wolf - A Multimedia Storybook (USA)">
+		<category>Multimedia</category>
+		<description>Peter and the Wolf - A Multimedia Storybook (USA)</description>
+		<rom name="Peter and the Wolf - A Multimedia Storybook (USA).cue" size="291" crc="eeb33662" md5="d0b0c2dadbcd2fefa29a67983dd7e963" sha1="71606795c9cc70ffc3984af087f3b655913bd923"/>
+		<rom name="Peter and the Wolf - A Multimedia Storybook (USA) (Track 1).bin" size="7890960" crc="7b7175ed" md5="284e91dd5d34d82e17862c0ffa33dffd" sha1="bed37f3d9944540e4b088c80923e4d2599bdbd74"/>
+		<rom name="Peter and the Wolf - A Multimedia Storybook (USA) (Track 2).bin" size="296060352" crc="aa50926d" md5="a0c9bfd99af12d4c802f40c5998c283e" sha1="5dfaeadac48925802a4e2f36bcb6942f687ac636"/>
+	</game>
+	<game name="Playing with Language - Games in French (USA)">
+		<category>Educational</category>
+		<description>Playing with Language - Games in French (USA)</description>
+		<rom name="Playing with Language - Games in French (USA).cue" size="111" crc="7a10afcf" md5="b634319001b3cc640891e1c23234db20" sha1="5cf938a0ac6b7d649b4ae86944ad35c9c0d2a182"/>
+		<rom name="Playing with Language - Games in French (USA).bin" size="118651344" crc="e45c2861" md5="7d73272f26a2771568d0c6b77a0e1c4d" sha1="328ed886824b2a9f72850de037957d89055abbed"/>
+	</game>
+	<game name="Playing with Language - Games in Japanese (USA)">
+		<category>Educational</category>
+		<description>Playing with Language - Games in Japanese (USA)</description>
+		<rom name="Playing with Language - Games in Japanese (USA).cue" size="113" crc="ff253102" md5="08ea1519da26f642e26afcb679882488" sha1="5daee37ceecab94d8ba665b2c043a382e93f7d32"/>
+		<rom name="Playing with Language - Games in Japanese (USA).bin" size="138662160" crc="97353aa9" md5="836851ea0bb02d4f92698dec87cb862e" sha1="e80fd6702e7871368c0e718f9e92a66f1ba8a619"/>
+	</game>
+	<game name="Playing with Language - Games in Spanish (USA)">
+		<category>Educational</category>
+		<description>Playing with Language - Games in Spanish (USA)</description>
+		<rom name="Playing with Language - Games in Spanish (USA).cue" size="112" crc="272a80e2" md5="58f5ecc20e7cfc96fc2c9022734c1cbd" sha1="4eba4d5053367e8ae0450b0982332ed10754fa79"/>
+		<rom name="Playing with Language - Games in Spanish (USA).bin" size="125015856" crc="9685a133" md5="59491ed004d109050fb902535332d9d1" sha1="f1d3803a234c1dd065f0f3aa26ec391266721c37"/>
+	</game>
+	<game name="Race the Clock (USA) (En,Es)">
+		<category>Educational</category>
+		<description>Race the Clock (USA) (En,Es)</description>
+		<rom name="Race the Clock (USA) (En,Es).cue" size="94" crc="f9fffc4c" md5="cc086968ddbb25a71bb2e97c3b78104f" sha1="bbe5dd6612c4dbb4e3c23c2766d7783959759348"/>
+		<rom name="Race the Clock (USA) (En,Es).bin" size="433132560" crc="fcfbc855" md5="7ac372f446f574ef3ee2a7210be7b3f7" sha1="95f950fe625d0e375f325d033673ef876f75555c"/>
+	</game>
+	<game name="Rodney's Funscreen (USA)">
+		<category>Educational</category>
+		<description>Rodney's Funscreen (USA)</description>
+		<rom name="Rodney's Funscreen (USA).cue" size="113" crc="36bfadaa" md5="c56a1e22ef08cad403868f7dd60df787" sha1="20b0ede2e25fad5a367bf1c9093dfc812c92b868"/>
+		<rom name="Rodney's Funscreen (USA).bin" size="6449184" crc="af8a8200" md5="e41bba163d035a6bf4db993f5a237f69" sha1="608d7181dd65d4e5ac5a79ab319e3280fc5f5b77"/>
+	</game>
+	<game name="Sail with Columbus (USA)">
+		<category>Multimedia</category>
+		<description>Sail with Columbus (USA)</description>
+		<rom name="Sail with Columbus (USA).cue" size="90" crc="d9f7f839" md5="7fccaf4153103053593f4c6127184f3f" sha1="651cf6935a66dbffe705f24668b98bf65424a144"/>
+		<rom name="Sail with Columbus (USA).bin" size="392929824" crc="2521d521" md5="cd9b5102cb4ea59a8ec61deda33ded7a" sha1="109b605bf3614e8a4cb8334645b758d533afab3e"/>
+	</game>
+	<game name="Sherlock Holmes - Consulting Detective Volume II (USA)">
+		<category>Games</category>
+		<description>Sherlock Holmes - Consulting Detective Volume II (USA)</description>
+		<rom name="Sherlock Holmes - Consulting Detective Volume II (USA).cue" size="120" crc="d0a51dfb" md5="072f72445eeb81d6841cc192f54f96d7" sha1="e75634f52a488f19e1fe89ff1e4477bdc88b192e"/>
+		<rom name="Sherlock Holmes - Consulting Detective Volume II (USA).bin" size="462819504" crc="d84be8bc" md5="604ec5d1238f01a91bf3eef8225125ab" sha1="a45a0c1fe64f3b08e748a168fe82cd13936f8491"/>
+	</game>
+	<game name="Talking Stepping Stones - Bonus Pack (USA)">
+		<category>Educational</category>
+		<description>Talking Stepping Stones - Bonus Pack (USA)</description>
+		<rom name="Talking Stepping Stones - Bonus Pack (USA).cue" size="108" crc="bcada806" md5="66708282dc84b0a30e10a138addc9227" sha1="1ba0a9dddbaf8447b735e8947f11585916d6e567"/>
+		<rom name="Talking Stepping Stones - Bonus Pack (USA).bin" size="3697344" crc="3de7af11" md5="621a080017f1067c3a65239704561577" sha1="29d7eaa479fd5fb0d8fa3d637c517a7400fa83fc"/>
+	</game>
+	<game name="New Basics Electronic Cookbook, The (USA)">
+		<category>Multimedia</category>
+		<description>New Basics Electronic Cookbook, The (USA)</description>
+		<rom name="New Basics Electronic Cookbook, The (USA).cue" size="130" crc="12fca6a6" md5="bfa54fa449e6b7b2a26b4cf7207f1472" sha1="897607dd231704d75fb368756102ada5574c8de9"/>
+		<rom name="New Basics Electronic Cookbook, The (USA).bin" size="182559888" crc="0899cd26" md5="e2d5707e54777b9fcc310385b5d5537b" sha1="135c54f4c88663af6c8cae1a4ac69599cb0d7b30"/>
+	</game>
+	<game name="Time Table of History - Arts and Entertainment - 1993 Edition (USA)">
+		<category>Multimedia</category>
+		<description>Time Table of History - Arts and Entertainment - 1993 Edition (USA)</description>
+		<rom name="Time Table of History - Arts and Entertainment - 1993 Edition (USA).cue" size="156" crc="5f7d4d8c" md5="df4071fb7f19c3fadaa2194b4423669a" sha1="e6520951b0c3a5a0dca949e57175578744264d44"/>
+		<rom name="Time Table of History - Arts and Entertainment - 1993 Edition (USA).bin" size="339873408" crc="d1adeeca" md5="ca3b004aaac94455935161142d9d4ee3" sha1="41bfb7d7566167a040322eca0a05ad5355f3ab7b"/>
+	</game>
+	<game name="Time Table of History - Business, Politics &amp; Media - 1993 Edition (USA)">
+		<category>Multimedia</category>
+		<description>Time Table of History - Business, Politics &amp; Media - 1993 Edition (USA)</description>
+		<rom name="Time Table of History - Business, Politics &amp; Media - 1993 Edition (USA).cue" size="160" crc="204ec513" md5="1dc912471c79607463cee2ab3e3c492f" sha1="9c6e6c43a2dc82dde2e89b2478675a3a75cf9850"/>
+		<rom name="Time Table of History - Business, Politics &amp; Media - 1993 Edition (USA).bin" size="280666512" crc="bab59b4e" md5="6b99106204fabc08eac3b2af6c7f7e10" sha1="8d81fb925c3a314f3948c76b13c916452ebbf7c6"/>
+	</game>
+	<game name="Time Table of History - Science and Innovation - 1993 Edition (USA)">
+		<category>Multimedia</category>
+		<description>Time Table of History - Science and Innovation - 1993 Edition (USA)</description>
+		<rom name="Time Table of History - Science and Innovation - 1993 Edition (USA).cue" size="156" crc="efc144ef" md5="cb74964506caf9202b57d576a955e2d3" sha1="1fa7fd10cad26f014f0148419ca302e945f2289a"/>
+		<rom name="Time Table of History - Science and Innovation - 1993 Edition (USA).bin" size="286936944" crc="ba7fe268" md5="6cf553acd01d7bd2c65d861795c18367" sha1="d172c4a54ee2d6bccbb701ce701e6eb1bb859923"/>
+	</game>
+	<game name="World Vista (USA)">
+		<category>Multimedia</category>
+		<description>World Vista (USA)</description>
+		<rom name="World Vista (USA).cue" size="83" crc="0c2662cb" md5="5b6afafd0fc7643faf96ef16c0a86de9" sha1="d8c3676f4002824727e161cfcb112f3be447ad3a"/>
+		<rom name="World Vista (USA).bin" size="375002880" crc="b3a5e29b" md5="9361775829d1153b374cf16a72c8818e" sha1="fc326862dc7512039337d3ebfc2e08754fdab930"/>
+	</game>
+</datafile>

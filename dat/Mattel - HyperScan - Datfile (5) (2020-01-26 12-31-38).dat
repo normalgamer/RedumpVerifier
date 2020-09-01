@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Mattel - HyperScan</name>
+		<description>Mattel - HyperScan - Discs (5) (2020-01-26 12-31-38)</description>
+		<version>2020-01-26 12-31-38</version>
+		<date>2020-01-26 12-31-38</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Ben 10 (USA) (USE2)">
+		<category>Games</category>
+		<description>Ben 10 (USA) (USE2)</description>
+		<rom name="Ben 10 (USA) (USE2).cue" size="85" crc="028de5be" md5="9ddb5b1a8bd6e82341d98f39667b956b" sha1="f84fb055c7a5ce757513b79455f3183795230693"/>
+		<rom name="Ben 10 (USA) (USE2).bin" size="158433072" crc="d116c5bb" md5="d04e7d9d1fad6163df4926034d581220" sha1="1e4a8e7ed12eb43c4bd57ffe996265bfe6203497"/>
+	</game>
+	<game name="IWL - Interstellar Wrestling League (USA) (USE2)">
+		<category>Games</category>
+		<description>IWL - Interstellar Wrestling League (USA) (USE2)</description>
+		<rom name="IWL - Interstellar Wrestling League (USA) (USE2).cue" size="114" crc="f6d9f54d" md5="0a2bdc1f23c2418d12b5c1061e43c306" sha1="b69f86fdeaf7cb30db6c65fbdc7ed639ff0c4321"/>
+		<rom name="IWL - Interstellar Wrestling League (USA) (USE2).bin" size="84679056" crc="6222ddb6" md5="7e99a5ecaf9f3be58c867c22286efa47" sha1="cdb1a43b8a89ce47649d68b6cdf345532dd05982"/>
+	</game>
+	<game name="Marvel Heroes (USA) (USE2)">
+		<category>Games</category>
+		<description>Marvel Heroes (USA) (USE2)</description>
+		<rom name="Marvel Heroes (USA) (USE2).cue" size="92" crc="00d29ef1" md5="b56c0e7f0dab5708c0fe1ced6a20f79a" sha1="c3b9b9c25978223888ceb694489d83a2fee7544d"/>
+		<rom name="Marvel Heroes (USA) (USE2).bin" size="273563472" crc="2cb8185e" md5="5f84da11bbff06baebdfdfccfadc27c5" sha1="fa45105bbfdf05b595f0c0ca1003a909b258854c"/>
+	</game>
+	<game name="Spider-Man (USA)">
+		<category>Games</category>
+		<description>Spider-Man (USA)</description>
+		<rom name="Spider-Man (USA).cue" size="82" crc="48ac340b" md5="ea1526c07d2620e985175752119a1f14" sha1="a1d8d8fab98e86a8df22124fe26371406230bd63"/>
+		<rom name="Spider-Man (USA).bin" size="44916144" crc="c15c9eeb" md5="8006ed8c5794292984eecffb3480b0fe" sha1="7fc6d20fb34c1fd77addb05f08a7fc4589bd5e9c"/>
+	</game>
+	<game name="X-Men (USA) (USE2)">
+		<category>Games</category>
+		<description>X-Men (USA) (USE2)</description>
+		<rom name="X-Men (USA) (USE2).cue" size="84" crc="641676b9" md5="f62060f1793190f4e701719c795a5c9f" sha1="7cb61a21c7d1ace7dcf8384cdbf7bd26148d6382"/>
+		<rom name="X-Men (USA) (USE2).bin" size="172615632" crc="feca0915" md5="27326670e5aeb17f25cab36d6f3cf93a" sha1="4882077bc0f7580e6b4aab5a4b3498d293f571ed"/>
+	</game>
+</datafile>

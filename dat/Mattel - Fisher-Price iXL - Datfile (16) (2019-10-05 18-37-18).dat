@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Mattel - Fisher-Price iXL</name>
+		<description>Mattel - Fisher-Price iXL - Discs (16) (2019-10-05 18-37-18)</description>
+		<version>2019-10-05 18-37-18</version>
+		<date>2019-10-05 18-37-18</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="DreamWorks Kung-Fu Panda 2 (USA)">
+		<category>Games</category>
+		<description>DreamWorks Kung-Fu Panda 2 (USA)</description>
+		<rom name="DreamWorks Kung-Fu Panda 2 (USA).cue" size="98" crc="efa49440" md5="4d5351cd4a3deeea27467877a2a9964c" sha1="44e2391b7435aa45cffe0b6b7cac33edb9e0f0d5"/>
+		<rom name="DreamWorks Kung-Fu Panda 2 (USA).bin" size="94501008" crc="a3fb0b8a" md5="0858761b98e7e2773c6a93732d7892ee" sha1="4db3bd545442cb709a5e9b07d6e379ba09f9f9f3"/>
+	</game>
+	<game name="Batman - The Brave and the Bold (USA)">
+		<category>Games</category>
+		<description>Batman - The Brave and the Bold (USA)</description>
+		<rom name="Batman - The Brave and the Bold (USA).cue" size="103" crc="6201bc59" md5="927e648530a780430b592a0fe1879937" sha1="975a70f9962b21b4703b43695a222fe8bf9329b5"/>
+		<rom name="Batman - The Brave and the Bold (USA).bin" size="94381056" crc="e3ef225e" md5="8dd8aa244222ce9f90b8cc716acfb6d8" sha1="f9d25aabbaf42bdd33de73f6d17c689ebae0e575"/>
+	</game>
+	<game name="DreamWorks Shrek Forever After (USA)">
+		<category>Games</category>
+		<description>DreamWorks Shrek Forever After (USA)</description>
+		<rom name="DreamWorks Shrek Forever After (USA).cue" size="102" crc="af13e9c9" md5="b7832ac0e0b7f0e946c68b00da37d9e8" sha1="b21760e7b3afc46a7d9349059fbe64bbe9683498"/>
+		<rom name="DreamWorks Shrek Forever After (USA).bin" size="94508064" crc="9001182d" md5="27592c641b75e0a2b4f583526039d681" sha1="65691292e4ac454325a59d33e7900da72487298a"/>
+	</game>
+	<game name="Nickelodeon Dora the Explorer (USA)">
+		<category>Games</category>
+		<description>Nickelodeon Dora the Explorer (USA)</description>
+		<rom name="Nickelodeon Dora the Explorer (USA).cue" size="101" crc="4c84e4ed" md5="6d95d5c7bb7c7a4d5bec80ee83e9e78c" sha1="bad58a44a009cc124795286cae893781d5169d61"/>
+		<rom name="Nickelodeon Dora the Explorer (USA).bin" size="94501008" crc="b60f4b24" md5="e4c0a0f462e8c6314b4349d4f9216662" sha1="34da152f03d3488d727398c8959f28ae04c94e06"/>
+	</game>
+	<game name="Disney - Pixar Cars 2 (USA)">
+		<category>Games</category>
+		<description>Disney - Pixar Cars 2 (USA)</description>
+		<rom name="Disney - Pixar Cars 2 (USA).cue" size="93" crc="ea04f9fc" md5="ee264f43f807a4be38c0ee6ec054a194" sha1="893b5e637da8cd6832faa1032d9abb02ede68879"/>
+		<rom name="Disney - Pixar Cars 2 (USA).bin" size="94501008" crc="1dc6b70c" md5="3eb7a5b9d9d81a07119a615d0d683664" sha1="9282632fb1cdf4ea3462ab82511b447d397f54d8"/>
+	</game>
+	<game name="Green Lantern (USA)">
+		<category>Games</category>
+		<description>Green Lantern (USA)</description>
+		<rom name="Green Lantern (USA).cue" size="85" crc="f6c1fee8" md5="21e5765227fcbd865dd8508812e3f4e9" sha1="16e7779066b431899d43cc7901348899bde41c0a"/>
+		<rom name="Green Lantern (USA).bin" size="94501008" crc="d4b6efde" md5="999a8aed796ece6157b1d889a0a977df" sha1="7b7ba8c614fe21c3d01ada2994e44dd6653f57be"/>
+	</game>
+	<game name="Disney Princess (USA)">
+		<category>Games</category>
+		<description>Disney Princess (USA)</description>
+		<rom name="Disney Princess (USA).cue" size="87" crc="ae45797e" md5="33d8b447e904a0cccb93ed508af88863" sha1="3978e7163df4fefea79a173bbee48ffebb7b60c6"/>
+		<rom name="Disney Princess (USA).bin" size="155194368" crc="58b791a2" md5="40cea928f3e213565a6dce0287e66ccb" sha1="7e927d60800562a9cd8c1758ddaf51c941dcbe14"/>
+	</game>
+	<game name="Fisher-Price iXL (USA) (v2.0.1)">
+		<category>Games</category>
+		<description>Fisher-Price iXL (USA) (v2.0.1)</description>
+		<rom name="Fisher-Price iXL (USA) (v2.0.1).cue" size="97" crc="392c9b62" md5="4f0d5171e415c11764f1af100941bdaf" sha1="128f8040d1eba681d6fab6f374bebcf14866a2c8"/>
+		<rom name="Fisher-Price iXL (USA) (v2.0.1).bin" size="146343792" crc="4f6011cb" md5="55d3919b4c5b9ef797d7955c3d63a7c7" sha1="f2720bc0ae119bc66066fe6b53c7a38b6009d66a"/>
+	</game>
+	<game name="Nickelodeon Ni Hao, Kai-Lan (USA) (v2.0.0)">
+		<category>Games</category>
+		<description>Nickelodeon Ni Hao, Kai-Lan (USA) (v2.0.0)</description>
+		<rom name="Nickelodeon Ni Hao, Kai-Lan (USA) (v2.0.0).cue" size="108" crc="1e59e153" md5="b99c57591982adc6e2cadfebb07a2ae0" sha1="c17b66f0ad556a61ea54f042e44f037748737a6e"/>
+		<rom name="Nickelodeon Ni Hao, Kai-Lan (USA) (v2.0.0).bin" size="156299808" crc="12f12edd" md5="27b32dd54ee0046c51c6e4879cbb8bcf" sha1="1677ca2c20a728055c60842c099ab71d30495596"/>
+	</game>
+	<game name="Batman - The Brave and the Bold (USA) (v2.0.0)">
+		<category>Games</category>
+		<description>Batman - The Brave and the Bold (USA) (v2.0.0)</description>
+		<rom name="Batman - The Brave and the Bold (USA) (v2.0.0).cue" size="112" crc="e1a6d7b7" md5="cf0b93d524eda897cd630e6b8d44f79b" sha1="a011f2cc40c59c66e6e90fb0814bb41b6f221436"/>
+		<rom name="Batman - The Brave and the Bold (USA) (v2.0.0).bin" size="141482208" crc="31d7ccc8" md5="97f871cc60971e974765b8335eb1f3a5" sha1="ed0e31c654a4da45473269aa2063a531aef3858c"/>
+	</game>
+	<game name="Nickelodeon SpongeBob SquarePants (USA)">
+		<category>Games</category>
+		<description>Nickelodeon SpongeBob SquarePants (USA)</description>
+		<rom name="Nickelodeon SpongeBob SquarePants (USA).cue" size="105" crc="1794ff43" md5="fd45f4e611e14ca082cf2f00528fe87e" sha1="96caf08832c21a3c783f8a3400f669a9f1662362"/>
+		<rom name="Nickelodeon SpongeBob SquarePants (USA).bin" size="94508064" crc="434d8a80" md5="d36eb523ba693f8e9d8de996c683a8b6" sha1="ffbfe2e9a8f2a4a24629d31fe62ae9d37340b3f3"/>
+	</game>
+	<game name="Nickelodeon SpongeBob SquarePants (USA) (v2.0.0)">
+		<category>Games</category>
+		<description>Nickelodeon SpongeBob SquarePants (USA) (v2.0.0)</description>
+		<rom name="Nickelodeon SpongeBob SquarePants (USA) (v2.0.0).cue" size="114" crc="99451fbf" md5="7a0a5334b4afa55ba8363573fddde92c" sha1="1f7e83b1a5aebfa48ce3dadef6b773dcaa1cafa8"/>
+		<rom name="Nickelodeon SpongeBob SquarePants (USA) (v2.0.0).bin" size="150163440" crc="ca77bdd5" md5="52f65887443df38817062fff4bdc9869" sha1="bc6d27e30b005fe1176f9efddab39e01f1fdc0e0"/>
+	</game>
+	<game name="Disney - Pixar Toy Story 3 (USA) (v2.0.0)">
+		<category>Games</category>
+		<description>Disney - Pixar Toy Story 3 (USA) (v2.0.0)</description>
+		<rom name="Disney - Pixar Toy Story 3 (USA) (v2.0.0).cue" size="107" crc="c9ee11b2" md5="80f022c18ea71766bad8993c9f4793c7" sha1="7fbc4e939bb5054a35d091ca8bdc48fa9e26d904"/>
+		<rom name="Disney - Pixar Toy Story 3 (USA) (v2.0.0).bin" size="154034832" crc="8a725d7d" md5="5d1f1576216448e0009f5dd7c0f839ad" sha1="59e40d2b0577377fb57cbdb3ec13fd2ee9e064b6"/>
+	</game>
+	<game name="Disney Handy Manny (USA) (v2.0.0)">
+		<category>Games</category>
+		<description>Disney Handy Manny (USA) (v2.0.0)</description>
+		<rom name="Disney Handy Manny (USA) (v2.0.0).cue" size="99" crc="8f7cc632" md5="2792cc74231d3df12b35c70779158e8c" sha1="5c6cbc262c8d9936f76efa244fe77da62d3ca644"/>
+		<rom name="Disney Handy Manny (USA) (v2.0.0).bin" size="149704800" crc="f9811a7e" md5="201ece998056056166029c072fc903cf" sha1="8d4281cc962951bb37d59739001911f18f092f1b"/>
+	</game>
+	<game name="Imaginext (USA)">
+		<category>Games</category>
+		<description>Imaginext (USA)</description>
+		<rom name="Imaginext (USA).cue" size="81" crc="b0c05195" md5="bed09a6efa68b4fa0445a9ace2feb581" sha1="009eb957d25403b300e87d409555b5614df30839"/>
+		<rom name="Imaginext (USA).bin" size="94856160" crc="5db71248" md5="dca442ef185b1afc6ed62086175c871d" sha1="decb4ef898f88d7809c18b4d85fc081b84231ba8"/>
+	</game>
+	<game name="Nickelodeon The Penguins of Madagascar DreamWorks (USA)">
+		<category>Games</category>
+		<description>Nickelodeon The Penguins of Madagascar DreamWorks (USA)</description>
+		<rom name="Nickelodeon The Penguins of Madagascar DreamWorks (USA).cue" size="121" crc="5fad4b81" md5="9e5dabc105da951fd9fd1a55f0123af7" sha1="ecda16752be80b372969ec9499f4db317c3924de"/>
+		<rom name="Nickelodeon The Penguins of Madagascar DreamWorks (USA).bin" size="94856160" crc="d11d5a3b" md5="706d936d4e8b9a5c3fc981fbfe1f5d65" sha1="8bebe56b4d28d0193afaa3810d188d874a290506"/>
+	</game>
+</datafile>

@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Photo CD</name>
+		<description>Photo CD - Discs (18) (2020-08-23 15-36-13)</description>
+		<version>2020-08-23 15-36-13</version>
+		<date>2020-08-23 15-36-13</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Sakura Taisen - Teigeki Secret File (Japan)">
+		<category>Multimedia</category>
+		<description>Sakura Taisen - Teigeki Secret File (Japan)</description>
+		<rom name="Sakura Taisen - Teigeki Secret File (Japan).cue" size="540" crc="f273817a" md5="c725e128a18a833f10e6933dfe018be0" sha1="a8b01fc2b6bfd213203455799840af3a6fe88a8f"/>
+		<rom name="Sakura Taisen - Teigeki Secret File (Japan) (Track 1).bin" size="710304" crc="b3546331" md5="f4af0f5b937d792020c8c229abe994f8" sha1="2a8e184dcdead1de23dc2364a2e743167bf3a2f7"/>
+		<rom name="Sakura Taisen - Teigeki Secret File (Japan) (Track 2).bin" size="99960000" crc="447963d9" md5="a9f4678511124277e264efdf21e25271" sha1="ce6c7c07ce90dbb22737aeb008cc4593306de2be"/>
+		<rom name="Sakura Taisen - Teigeki Secret File (Japan) (Track 3).bin" size="6921936" crc="b19c30da" md5="0a2d0553df1aff962465d0ebc8da2b02" sha1="d1c67ad1f9e23ff1722475d4ef84fb94b8f2f723"/>
+		<rom name="Sakura Taisen - Teigeki Secret File (Japan) (Track 4).bin" size="32888016" crc="b015264a" md5="4d260d7806ff08d52eacae0bbf18a0b7" sha1="2e845547aba9e02ae00cb119b23077969ced7f05"/>
+	</game>
+	<game name="Langrisser - Seiken Secret File (Japan)">
+		<category>Multimedia</category>
+		<description>Langrisser - Seiken Secret File (Japan)</description>
+		<rom name="Langrisser - Seiken Secret File (Japan).cue" size="391" crc="4c0bcbfb" md5="312b84b503975945d8b9bb4e35800ae4" sha1="0ac399603108386e6d7b8ce2a185544e7e0f7af6"/>
+		<rom name="Langrisser - Seiken Secret File (Japan) (Track 1).bin" size="710304" crc="2c1a0b27" md5="d57b76d3692f11c3335a188094cf2755" sha1="6e1e3344819fb92e7f4531573fcf3a9a094538df"/>
+		<rom name="Langrisser - Seiken Secret File (Japan) (Track 2).bin" size="173090736" crc="56fd962a" md5="865a20030c15ec0707dc725fff714cc9" sha1="505e89faa85f65c68c249c976130fcdc4af7718e"/>
+		<rom name="Langrisser - Seiken Secret File (Japan) (Track 3).bin" size="7754544" crc="dc6c96d0" md5="738ec07a86bdcb073acb7162b168c3b9" sha1="588eeaeb5c29a386567f3fadba4402ce81f54934"/>
+	</game>
+	<game name="Steelwood - Private Eye (Japan)">
+		<category>Games</category>
+		<description>Steelwood - Private Eye (Japan)</description>
+		<rom name="Steelwood - Private Eye (Japan).cue" size="362" crc="b1397fb6" md5="65c8d86cc4faae06c68093d56b0c72ff" sha1="ba949e2eefcb99ac54b42040917c9d95aeebc49d"/>
+		<rom name="Steelwood - Private Eye (Japan) (Track 1).bin" size="710304" crc="ec1b83f8" md5="93a9764c9c85996ecae42c5cea206201" sha1="ff227c800a422600eb07251058db03a110ada1c3"/>
+		<rom name="Steelwood - Private Eye (Japan) (Track 2).bin" size="110743920" crc="10edc131" md5="df565de2b63e1bc88619704ed5c95745" sha1="b73b43d79b1299c60f41a6351c5c5487efc285fa"/>
+		<rom name="Steelwood - Private Eye (Japan) (Track 3).bin" size="184081632" crc="7db6544d" md5="7f5a1b3ef961389168efa90a37661543" sha1="2b34b9d8929acb77d7965d92f1430a1c090e3f3a"/>
+	</game>
+	<game name="Mars Blade (Japan)">
+		<category>Games</category>
+		<description>Mars Blade (Japan)</description>
+		<rom name="Mars Blade (Japan).cue" size="346" crc="7d12298c" md5="d11aa0b9f46b21cfc1cf7e04186ff55d" sha1="df0893e19a9e5df5e089b8baa39f99d5689820bc"/>
+		<rom name="Mars Blade (Japan) (Track 1).bin" size="997248" crc="31e305d8" md5="fbae28221fe9567938b9d87a3c4408ad" sha1="9d66a1330726685ea849a13ab93f061d99f0d348"/>
+		<rom name="Mars Blade (Japan) (Track 2).bin" size="235550448" crc="04949b0b" md5="019a5e5a770d4c28c0b319e9faac050c" sha1="f3ed5fd3296d624682cc609a3793c659e2f57f3b"/>
+		<rom name="Mars Blade (Japan) (Track 3).bin" size="148773408" crc="ace3744e" md5="693a752f36a562cf09dea955cf994401" sha1="547ce097bdbcbae17f99f8b614e6ed9d6dcb8be7"/>
+	</game>
+	<game name="Nympheas - La Musique des tableaux celebres (France) (Bundled with [SS] Photo CD Operating System)">
+		<category>Bonus Discs</category>
+		<description>Nympheas - La Musique des tableaux celebres (France) (Bundled with [SS] Photo CD Operating System)</description>
+		<rom name="Nympheas - La Musique des tableaux celebres (France) (Bundled with [SS] Photo CD Operating System).cue" size="586" crc="5e098ac8" md5="6c6442fbce4dc9b161a73a5c10e131aa" sha1="e04f022f3f224d841035febcddaddae27158a23d"/>
+		<rom name="Nympheas - La Musique des tableaux celebres (France) (Bundled with [SS] Photo CD Operating System) (Track 1).bin" size="710304" crc="3016db5a" md5="42cf10024c22df7a8cf1e52f2559d96c" sha1="2684408292df60e54eb0c5e9b0bf9033d37e88b2"/>
+		<rom name="Nympheas - La Musique des tableaux celebres (France) (Bundled with [SS] Photo CD Operating System) (Track 2).bin" size="98445312" crc="32a82384" md5="9228c5e8eb54e67ac560e9e7e350d65a" sha1="410e4e6893d8b800e5db7a7fd710a461287e68b4"/>
+		<rom name="Nympheas - La Musique des tableaux celebres (France) (Bundled with [SS] Photo CD Operating System) (Track 3).bin" size="485979648" crc="ea49cf57" md5="4d180d00e70e0c052e93ffd7c6d72206" sha1="61581ec3c9d991db0d5bc783e06ce088801c6f23"/>
+	</game>
+	<game name="Etsuko Nishio - Finger by Hajime Sawatari (Japan)">
+		<category>Multimedia</category>
+		<description>Etsuko Nishio - Finger by Hajime Sawatari (Japan)</description>
+		<rom name="Etsuko Nishio - Finger by Hajime Sawatari (Japan).cue" size="439" crc="d461946d" md5="f4a1ec7c35a905b16365c02c326a8014" sha1="4e731f1d9f1a3779c56660b9619016d3db5dc0fa"/>
+		<rom name="Etsuko Nishio - Finger by Hajime Sawatari (Japan) (Track 1).bin" size="710304" crc="bdbfdb82" md5="53fc24530814726d5aeeca540c333419" sha1="28d28afa85d5c62c5b39bdb7446d1914302123dc"/>
+		<rom name="Etsuko Nishio - Finger by Hajime Sawatari (Japan) (Track 2).bin" size="166521600" crc="0e619339" md5="dce2b9a0dede47bdc3743faa650e8b39" sha1="787b9c1cf1c266934129b21dccd661bc1cbbf522"/>
+		<rom name="Etsuko Nishio - Finger by Hajime Sawatari (Japan) (Track 3).bin" size="72011184" crc="e21947c0" md5="9c3e6e368620f5c7b4ef61e7160e7183" sha1="256d802d8f29eb5ebe601c43d69862da628fcd93"/>
+	</game>
+	<game name="Shimada Youko - Quatre (Japan)">
+		<category>Multimedia</category>
+		<description>Shimada Youko - Quatre (Japan)</description>
+		<rom name="Shimada Youko - Quatre (Japan).cue" size="359" crc="bdd5ac32" md5="a028a9d95902bf1b921314b6f8aefbb7" sha1="943dcf070b5e86097da8f316e80465fb20e584b8"/>
+		<rom name="Shimada Youko - Quatre (Japan) (Track 1).bin" size="710304" crc="7486a4ba" md5="43444d05d9233c364be108a31d68f107" sha1="fc9de651396afb4c22c96316c811becdfd187836"/>
+		<rom name="Shimada Youko - Quatre (Japan) (Track 2).bin" size="70087248" crc="63edb4bc" md5="9920046916d12cfe6833b0fd91e51e1c" sha1="9014569ca1686cf52106afa8b78ac2292a5df5ad"/>
+		<rom name="Shimada Youko - Quatre (Japan) (Track 3).bin" size="84192192" crc="334f0c6c" md5="4b7d59d9487d057136a38f859f64f4b5" sha1="c24f54f70e4c21a416816fc6eff95d4590b7b976"/>
+	</game>
+	<game name="Dazzling - Hara Kumiko by Tatsuo Watanabe (Japan)">
+		<category>Multimedia</category>
+		<description>Dazzling - Hara Kumiko by Tatsuo Watanabe (Japan)</description>
+		<rom name="Dazzling - Hara Kumiko by Tatsuo Watanabe (Japan).cue" size="416" crc="842c9900" md5="5d6ca40d51f5e17c9234f1e3e508947a" sha1="6dc980c26bdf406e4f22452a77c81a1f8c99cf59"/>
+		<rom name="Dazzling - Hara Kumiko by Tatsuo Watanabe (Japan) (Track 1).bin" size="710304" crc="5e1a7584" md5="f39bfc365a269b2b9c1aa2685c1520bc" sha1="56cafc754a857f3fcd848cc5069ba928ea22d8a5"/>
+		<rom name="Dazzling - Hara Kumiko by Tatsuo Watanabe (Japan) (Track 2).bin" size="74814768" crc="031af76a" md5="ee5334292b0b09c3a9e5b218bcff1466" sha1="8b025c29c484a9c0440e1324c0ed6556471ab32d"/>
+		<rom name="Dazzling - Hara Kumiko by Tatsuo Watanabe (Japan) (Track 3).bin" size="90584928" crc="90a83447" md5="6f716654be5bb696a5ba469275fb176e" sha1="455882b39f56cf3ed882fae32fb62808ab5ea842"/>
+	</game>
+	<game name="Profile of The Great F1 Driver - Ayrton Senna - Ayrton Senna no Shinjitsu (Japan)">
+		<category>Multimedia</category>
+		<description>Profile of The Great F1 Driver - Ayrton Senna - Ayrton Senna no Shinjitsu (Japan)</description>
+		<rom name="Profile of The Great F1 Driver - Ayrton Senna - Ayrton Senna no Shinjitsu (Japan).cue" size="535" crc="e6c36ea0" md5="e985b0bfd54a5d95a59030d7c9dbab2d" sha1="0e04895534dbb70638af2a86ae15763c5c17bc0f"/>
+		<rom name="Profile of The Great F1 Driver - Ayrton Senna - Ayrton Senna no Shinjitsu (Japan) (Track 1).bin" size="710304" crc="68f88f2d" md5="6a7ca765bc16338078f2cb0aaacb74e9" sha1="f73a78f069cbb44b36e5e4befc232e2753cb244a"/>
+		<rom name="Profile of The Great F1 Driver - Ayrton Senna - Ayrton Senna no Shinjitsu (Japan) (Track 2).bin" size="117355392" crc="2d7c78bc" md5="940a3bb5cf2017dc5ff48afab654ef4f" sha1="68d4b1ac8e7283caa0660070c0785fc3c4cb898e"/>
+		<rom name="Profile of The Great F1 Driver - Ayrton Senna - Ayrton Senna no Shinjitsu (Japan) (Track 3).bin" size="178022880" crc="b5963ef8" md5="3d7b727f0507dc68a01a60ea46998496" sha1="312d8739ceb7bdf9e2a6e27d82c19453df0d47ff"/>
+	</game>
+	<game name="Profile of The Great F1 Driver - Alain Prost - Alain Prost - Professor no Shouzou (Japan)">
+		<category>Multimedia</category>
+		<description>Profile of The Great F1 Driver - Alain Prost - Alain Prost - Professor no Shouzou (Japan)</description>
+		<rom name="Profile of The Great F1 Driver - Alain Prost - Alain Prost - Professor no Shouzou (Japan).cue" size="559" crc="29e07d4b" md5="a2be54758efbd5a462f93269e728b6e6" sha1="a94626ac84fb219cbaf7c2b2e2583e3b4f57343f"/>
+		<rom name="Profile of The Great F1 Driver - Alain Prost - Alain Prost - Professor no Shouzou (Japan) (Track 1).bin" size="710304" crc="e39f56fe" md5="aafc2c5ed27654ffba9cac773d5b88fa" sha1="03ced1fbac87c12d3a9ed4c8cf09078ed918c636"/>
+		<rom name="Profile of The Great F1 Driver - Alain Prost - Alain Prost - Professor no Shouzou (Japan) (Track 2).bin" size="114518880" crc="fd4b5bd1" md5="20c2df8a87e0bdd889c4867bbb40fb87" sha1="f8426c3f18417e37b1f8221b0a1f5d3b06af4f32"/>
+		<rom name="Profile of The Great F1 Driver - Alain Prost - Alain Prost - Professor no Shouzou (Japan) (Track 3).bin" size="231366240" crc="67e382b3" md5="59df13af8c875faa4b0f1b7d407e4e9b" sha1="14ad8cb218483ded6ab81da4c431fc8eff2edd88"/>
+	</game>
+	<game name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M)">
+		<category>Multimedia</category>
+		<description>Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M)</description>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M).cue" size="7344" crc="c462a3b2" md5="bf1f92e748efa6dd4cc95ed8757a9b82" sha1="5f2fb0e7fe50da83027f3ce6129cec325e03e34d"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 01).bin" size="710304" crc="2e01896c" md5="da1fa075678e96482c71719e53befe05" sha1="d645d11148e1cd803f31ac77adc61977851cad38"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 02).bin" size="106954848" crc="41e80d16" md5="a536d0e922c9141c992345119e865b9f" sha1="eeac62f6f0a6a1e8717e5570d14b86773f7ab244"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 03).bin" size="1234800" crc="05fdf5cd" md5="8271eca004a994ca04ce70ff61fa7b6c" sha1="c31c5ec21194e9081fc0bbe4c1ffeeeaa96c11cc"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 04).bin" size="16995552" crc="0387270a" md5="b18410f6a35b7f3c8b18c1f5d726230d" sha1="04971dc76d9f2f94a2298263412f9441e19179cb"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 05).bin" size="4593456" crc="3e2ae3ba" md5="d56998cede41a0b815bd002d92df1a15" sha1="b1fd56d069dcccf3b5cdc573d153c3983e452db9"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 06).bin" size="4294752" crc="95cf8e6d" md5="f78682a5553444527c5b7887311f0735" sha1="1812a507cd5e0cccf4f0a6074eed4fb9a61297b6"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 07).bin" size="4805136" crc="636edf35" md5="f3499c85f8b31e67c838744de8b962ff" sha1="5833c4f852985feb09843faa5ff30b82c467ef45"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 08).bin" size="3697344" crc="861a007a" md5="6e521431ce3d5e4517ccce050fb2f209" sha1="dcf054b3ae6b272b557c07450e7057030b395651"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 09).bin" size="5755344" crc="25059d7a" md5="1fe17ce459833d82e664c922a78db751" sha1="9cafb82d224ca377d2b1ef628e2e3af1745cd452"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 10).bin" size="7143024" crc="c06a8406" md5="b5b826394fd60d4664d2f5bcdbd0adc6" sha1="bdd93d6a8d6c8d8bdada58e06e617a074e4c89f6"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 11).bin" size="6907824" crc="3131d7b1" md5="4aad93fd821c6c271e21705ca704b16c" sha1="906a287744521ecf45245ef3864c2f567f74d221"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 12).bin" size="3890208" crc="31e2f5f3" md5="daa45b55a76e2c32d761a6e6bc909e38" sha1="06b359ed904665f2d32cc91bb511be9fc9bdfbe3"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 13).bin" size="9911328" crc="8840bfd6" md5="5cb23ff4e7e211ff4c7d40403a3cabcf" sha1="3d25a76592345634f341df768eab4e45611e0f6c"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 14).bin" size="8396640" crc="e791b86c" md5="feaff479b42451a93efc68c24f19f479" sha1="f9f4a1f1137b979e7dbb799d5b05cfc266304d10"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 15).bin" size="2453136" crc="67cf3a9a" md5="4cf8108a19c802da5b97de7f5ed882b8" sha1="4a2e5931ec933a6735826bf60c8f9e7d1761b4fa"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 16).bin" size="1105440" crc="528a2b8c" md5="09c1dd62b695d724f30a9be4a5dea695" sha1="046ac88f540ff21ec3e6d562a3e0984feaf90a7d"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 17).bin" size="5134416" crc="db02e343" md5="cea43ae2dfeed18501eca2f4df1fa2a8" sha1="9b3ec472daf234733babc2a158d75490c845e644"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 18).bin" size="8413104" crc="06837284" md5="fdda8c7ca551f4a34cfc36f613b7a132" sha1="63bbdddb0f6a5dd66bb248d30fda892fdfa67735"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 19).bin" size="3485664" crc="f76ccb94" md5="ae70b0e23b2f5c4442432ce75054b043" sha1="1add20e9fe9de58919d38f39d6298cc5a26381b4"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 20).bin" size="4976832" crc="638852a2" md5="9e30a408b2b6027f7495dec50ca7ea6d" sha1="b51676c3bde7e786fc1f0529d79aa7c5f76b1551"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 21).bin" size="9405648" crc="39a008cb" md5="82a0e8bb6161bbb323d9d2dbf76bf4f1" sha1="8714185471078eef75da21bb8e54f4867c19cf77"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 22).bin" size="12517344" crc="7eee980a" md5="61cbd60dd36e5086a56398af03dbc4b2" sha1="1074fa0dfd48bf0c4f5b9049e511f5fd224b27c2"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 23).bin" size="3266928" crc="f82c965a" md5="81876aecae83511dc65d8ad2b6dd6a57" sha1="422eb8e566e03cf60899ddbb00baecc5b4652e7a"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 24).bin" size="10412304" crc="574cea70" md5="ce930eda295d9fe8c835bcfd0453df9f" sha1="a8f51aa2257de0d54a2c8a7dbc4768df66df865d"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 25).bin" size="4598160" crc="622f83f1" md5="c6109f5db4336bce5209e8b86252b0f4" sha1="52b5d1c337db125c644b110e5ae3e0183ea39980"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 26).bin" size="3584448" crc="b268cd76" md5="1580ed7ee07dd372d238b96207f8a930" sha1="1a49e145739b40ae8105d8355b7a494760ae0184"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 27).bin" size="6752592" crc="fcc50809" md5="d7f0196086c5cf8c9fba85f7b2187cfd" sha1="3b432ce4e1fc9fe1f98c4716798338db5fc253bb"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 28).bin" size="4809840" crc="25c7ab3e" md5="f7620dd0eabd6fcb1ac75c7497e53314" sha1="e8c9c9f4fa610827be21a7ae058766216cf83373"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 29).bin" size="8180256" crc="6d20f2ae" md5="c9f0732851da0077b9259db22c8b0821" sha1="07032d1bdd7b863c96d8a783ec4c157f4662b6da"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 30).bin" size="3591504" crc="110e4732" md5="9911bbe3e76141a115ae4461e442238e" sha1="29450f870a369fe49bc26cd4c860fddbf26a516c"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 31).bin" size="7058352" crc="a58f0b54" md5="d6c5cc0c302f4ab8bb93733546ead62f" sha1="94746b44232cc523ad3516c9f5fa201ab880cf85"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 32).bin" size="6350400" crc="32d5baa6" md5="fa970d73d91410190d288e5b47dfe686" sha1="bf7e355c95537af34685a9e1595448afef317f46"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 33).bin" size="6964272" crc="e8eac7c5" md5="deaeab233c5cfdeb4227e60fea899a6c" sha1="384acf5859d8dbc0d64d0ed1b1b39b2b1074b392"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 34).bin" size="2413152" crc="bdc7452e" md5="5a9ef83b045c2e94b97b678099dd0f54" sha1="f3031e4d52663388fb2288656df64649cb2b7272"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 35).bin" size="9574992" crc="8ed2adc4" md5="3ebf464cea8ea2c86279f91e69708612" sha1="2d2f46777f6dc5cdb4d212cf825f1f6b51ad81db"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 36).bin" size="5752992" crc="53b3fe8e" md5="5ddc8053c557761927e1adc9eb1e0f5e" sha1="4162578de083d8468905065c5c86b4f96465648f"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 37).bin" size="9085776" crc="b6d0f9e6" md5="4531bb46cbf7584c49c3cc3847fbfe14" sha1="2647fb1b902c7a751ef27610556a3a59ed4dced5"/>
+		<rom name="Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M) (Track 38).bin" size="44793840" crc="f0ad3b4b" md5="d9acd95594259aa6828a01b7e3c759f8" sha1="73359d9b98d4b51eec3a110055d176216c69bbe5"/>
+	</game>
+	<game name="Pretty Soldier SailorMoon - Bishoujo Senshi Sailor Moon Vol. 1 - Dark Kingdom-hen (Japan)">
+		<category>Multimedia</category>
+		<description>Pretty Soldier SailorMoon - Bishoujo Senshi Sailor Moon Vol. 1 - Dark Kingdom-hen (Japan)</description>
+		<rom name="Pretty Soldier SailorMoon - Bishoujo Senshi Sailor Moon Vol. 1 - Dark Kingdom-hen (Japan).cue" size="559" crc="27346772" md5="a817b79cea1a2dd1beea2d2c19624308" sha1="6bd14740db3b721ab24e455180799a07f8e7b5be"/>
+		<rom name="Pretty Soldier SailorMoon - Bishoujo Senshi Sailor Moon Vol. 1 - Dark Kingdom-hen (Japan) (Track 1).bin" size="710304" crc="86b28bc1" md5="39a6293baff324b2fdabd609789275ec" sha1="681a30ccb256758b9305852c6e371c6364ae0197"/>
+		<rom name="Pretty Soldier SailorMoon - Bishoujo Senshi Sailor Moon Vol. 1 - Dark Kingdom-hen (Japan) (Track 2).bin" size="136272528" crc="4b619dbc" md5="b97daa52b5d815aaa13e57f9011ecee3" sha1="f0b347241582160b5819f4217aee30983f2c5e52"/>
+		<rom name="Pretty Soldier SailorMoon - Bishoujo Senshi Sailor Moon Vol. 1 - Dark Kingdom-hen (Japan) (Track 3).bin" size="155820000" crc="734b141a" md5="3b2e6532ad01967d306dbc6c82934b07" sha1="97ee3ed2a7423afd6a4e7852847d3d45f2301f12"/>
+	</game>
+	<game name="Pretty Soldier SailorMoon - Bishoujo Senshi Sailor Moon Vol. 2 - Black Moon-hen (Japan)">
+		<category>Multimedia</category>
+		<description>Pretty Soldier SailorMoon - Bishoujo Senshi Sailor Moon Vol. 2 - Black Moon-hen (Japan)</description>
+		<rom name="Pretty Soldier SailorMoon - Bishoujo Senshi Sailor Moon Vol. 2 - Black Moon-hen (Japan).cue" size="553" crc="60d2b0d4" md5="31519970a7f7501dd40ab59c56dc1812" sha1="a25c6363c23b0fc4f5a1aaf7063436ba6ca19977"/>
+		<rom name="Pretty Soldier SailorMoon - Bishoujo Senshi Sailor Moon Vol. 2 - Black Moon-hen (Japan) (Track 1).bin" size="710304" crc="4d469a07" md5="964cccf6239a4389af66fc0da901f416" sha1="e7e65834f0ff33e31f976a13cae0a5e040e44e80"/>
+		<rom name="Pretty Soldier SailorMoon - Bishoujo Senshi Sailor Moon Vol. 2 - Black Moon-hen (Japan) (Track 2).bin" size="123035472" crc="e91113c7" md5="1f25ca2b944e7073ce45ff4d66b6ba42" sha1="fe4e43d3fb8996a5c4fa1d3399e5396e64cc2afc"/>
+		<rom name="Pretty Soldier SailorMoon - Bishoujo Senshi Sailor Moon Vol. 2 - Black Moon-hen (Japan) (Track 3).bin" size="155227296" crc="89565f14" md5="00cb02c2b12432a68382c65fcb6fe6d2" sha1="f6dbbcac7fd7a6e0ba517562f74f6398dd1e4950"/>
+	</game>
+	<game name="Notte Mitai Ressha, Ittemitai Rosen Catalog - Tetsudou no Tabi Vol. 1 - Hokkaido, Touhoku (Japan)">
+		<category>Multimedia</category>
+		<description>Notte Mitai Ressha, Ittemitai Rosen Catalog - Tetsudou no Tabi Vol. 1 - Hokkaido, Touhoku (Japan)</description>
+		<rom name="Notte Mitai Ressha, Ittemitai Rosen Catalog - Tetsudou no Tabi Vol. 1 - Hokkaido, Touhoku (Japan).cue" size="583" crc="9e1dc584" md5="ce3dde1fd1de61b88ffca393a0225e7f" sha1="7304489c7115448093235b3fc6206f4a43509ade"/>
+		<rom name="Notte Mitai Ressha, Ittemitai Rosen Catalog - Tetsudou no Tabi Vol. 1 - Hokkaido, Touhoku (Japan) (Track 1).bin" size="710304" crc="fc44fb79" md5="5e57a4ecd95850384f44f04f7018ef24" sha1="2b38d2608531ffe8698be652b9e4fcefc9d4c337"/>
+		<rom name="Notte Mitai Ressha, Ittemitai Rosen Catalog - Tetsudou no Tabi Vol. 1 - Hokkaido, Touhoku (Japan) (Track 2).bin" size="293219136" crc="a48fc569" md5="dc57ceccf6842f54f2132c7d60349bf4" sha1="bde9df9cf38141aac28a6c7391742a474ad56bc7"/>
+		<rom name="Notte Mitai Ressha, Ittemitai Rosen Catalog - Tetsudou no Tabi Vol. 1 - Hokkaido, Touhoku (Japan) (Track 3).bin" size="324820608" crc="5e80ab54" md5="e7b066099e8a2b554301589df033a42d" sha1="1e1670304d6c1ae88e1bff613bc91ef5f9b01b25"/>
+	</game>
+	<game name="Mono CD Series Vol. 1 - Zippo Lighter no Sekai - Zippo Collection Manual (Japan)">
+		<category>Multimedia</category>
+		<description>Mono CD Series Vol. 1 - Zippo Lighter no Sekai - Zippo Collection Manual (Japan)</description>
+		<rom name="Mono CD Series Vol. 1 - Zippo Lighter no Sekai - Zippo Collection Manual (Japan).cue" size="509" crc="236a3882" md5="92f9dc795bd66fc473f871d056924da0" sha1="962c29af1ad7efcd355be25078e78fa4c8034f3a"/>
+		<rom name="Mono CD Series Vol. 1 - Zippo Lighter no Sekai - Zippo Collection Manual (Japan) (Track 1).bin" size="710304" crc="49c744ba" md5="326bd661f0c43a71181e02ef8eff70e7" sha1="6e6343081f9c0ab0508aa2be8bbbb3519ec1ba67"/>
+		<rom name="Mono CD Series Vol. 1 - Zippo Lighter no Sekai - Zippo Collection Manual (Japan) (Track 2).bin" size="159912480" crc="5e61ac49" md5="ac9edbf2044b0c29bd16388de5d22e39" sha1="6d0fa55c694f7eb7f3ce6bd3c684cd0e4ab98e99"/>
+		<rom name="Mono CD Series Vol. 1 - Zippo Lighter no Sekai - Zippo Collection Manual (Japan) (Track 3).bin" size="354204144" crc="8b0d0eee" md5="a15d966222b1cf8d7455d70cc6fd1b41" sha1="678cc02edf8efd5a976f5e58b8b1b97cbd139ef0"/>
+	</game>
+	<game name="Notte Mitai Ressha, Ittemitai Rosen Catalog - Tetsudou no Tabi Vol. 2 - Kantou, Koushinetsu, Toukai, Hokuriku (Japan)">
+		<category>Multimedia</category>
+		<description>Notte Mitai Ressha, Ittemitai Rosen Catalog - Tetsudou no Tabi Vol. 2 - Kantou, Koushinetsu, Toukai, Hokuriku (Japan)</description>
+		<rom name="Notte Mitai Ressha, Ittemitai Rosen Catalog - Tetsudou no Tabi Vol. 2 - Kantou, Koushinetsu, Toukai, Hokuriku (Japan).cue" size="643" crc="761f1f3b" md5="cc35aa8d1a7a796368415932ed35b4bd" sha1="23cbfc18bbbf1c9c546a15189fa106bb87a47708"/>
+		<rom name="Notte Mitai Ressha, Ittemitai Rosen Catalog - Tetsudou no Tabi Vol. 2 - Kantou, Koushinetsu, Toukai, Hokuriku (Japan) (Track 1).bin" size="710304" crc="03f5d3c8" md5="2aeb039628119667a99bd2988a319b6d" sha1="6c9edf6efb570283dc1feeaee137e5fdb4cf1e2c"/>
+		<rom name="Notte Mitai Ressha, Ittemitai Rosen Catalog - Tetsudou no Tabi Vol. 2 - Kantou, Koushinetsu, Toukai, Hokuriku (Japan) (Track 2).bin" size="291328128" crc="bada8575" md5="2117f598310ec7b08d31f58dd47d1bbf" sha1="b45ed49ebdfdb0ea70bf30abceed5fb571b1fbe7"/>
+		<rom name="Notte Mitai Ressha, Ittemitai Rosen Catalog - Tetsudou no Tabi Vol. 2 - Kantou, Koushinetsu, Toukai, Hokuriku (Japan) (Track 3).bin" size="340416720" crc="d9b6ed60" md5="03d27d1ef735e207c91e3f50737f0bf6" sha1="c9b910992438455ddf864be6731cafd92d8d7d10"/>
+	</game>
+	<game name="Kodak Photo CD - Discover Photo CD (USA) (Version 1)">
+		<category>Multimedia</category>
+		<description>Kodak Photo CD - Discover Photo CD (USA) (Version 1)</description>
+		<rom name="Kodak Photo CD - Discover Photo CD (USA) (Version 1).cue" size="302" crc="71d46df1" md5="82c6ace90283bfa21a4ca2d62972f11f" sha1="4aa1991f2dbbb8e90fb8d3114396b4b1d204fc81"/>
+		<rom name="Kodak Photo CD - Discover Photo CD (USA) (Version 1) (Track 1).bin" size="710304" crc="b8fc02a1" md5="c4ca2e40f460d95d5d08a62508d0ed3c" sha1="3f4fd937e42caf0a87899f7dbb8cfc53c7750904"/>
+		<rom name="Kodak Photo CD - Discover Photo CD (USA) (Version 1) (Track 2).bin" size="131011104" crc="3dd5043f" md5="3a13e48f5b655d935afebfade30814e9" sha1="e2936e9c398aa458758e1e81b1059f5993b2e9bf"/>
+	</game>
+	<game name="Dog's Eye, The - Conceptual Photo Album (Japan)">
+		<category>Bonus Discs</category>
+		<description>Dog's Eye, The - Conceptual Photo Album (Japan)</description>
+		<rom name="Dog's Eye, The - Conceptual Photo Album (Japan).cue" size="410" crc="c64b6301" md5="1ea473ab72ccf5b7eb653d1862282584" sha1="d4a965881393b317fbb07b7313224ab34877b96f"/>
+		<rom name="Dog's Eye, The - Conceptual Photo Album (Japan) (Track 1).bin" size="710304" crc="880a8c21" md5="676176bbb06da366b37316bc110c9a87" sha1="77cc5949a7db606f75d937d1a3b06049db9e2de1"/>
+		<rom name="Dog's Eye, The - Conceptual Photo Album (Japan) (Track 2).bin" size="273325920" crc="7c5ba3af" md5="e5aae6e4ef310b6be22718ea53a822ed" sha1="fdc76eac1292cd832aa8f7a32e2efdc030a7bddd"/>
+		<rom name="Dog's Eye, The - Conceptual Photo Album (Japan) (Track 3).bin" size="23444736" crc="d498576e" md5="70054680fb952d1977d76fa6b7de61e7" sha1="a0a00819991e3046fe1e70f2387047a923075048"/>
+	</game>
+</datafile>

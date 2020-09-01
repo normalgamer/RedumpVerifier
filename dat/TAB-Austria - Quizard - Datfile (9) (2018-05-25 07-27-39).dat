@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>TAB-Austria - Quizard</name>
+		<description>TAB-Austria - Quizard - Discs (9) (2018-05-25 07-27-39)</description>
+		<version>2018-05-25 07-27-39</version>
+		<date>2018-05-25 07-27-39</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Quizard (Austria) (v1.0)">
+		<category>Games</category>
+		<description>Quizard (Austria) (v1.0)</description>
+		<rom name="Quizard (Austria) (v1.0).cue" size="111" crc="0a1fe982" md5="60e246983d69b865b317d553137688ca" sha1="1e0c543b65bf1a145eed9961eb9367b865e0cd5b"/>
+		<rom name="Quizard (Austria) (v1.0).bin" size="161403648" crc="59ed16c2" md5="374f669bd902f9ceb1d5e43f832a4087" sha1="2dc5a2c0210993f64cd110778fc16892180e792b"/>
+	</game>
+	<game name="Quizard (Austria) (v1.7)">
+		<category>Games</category>
+		<description>Quizard (Austria) (v1.7)</description>
+		<rom name="Quizard (Austria) (v1.7).cue" size="111" crc="13b64aec" md5="eac47d02e6e5a9a34a547eacf640ce39" sha1="b64899af45920b9510ad43db93f7bb6cb9fbd9ac"/>
+		<rom name="Quizard (Austria) (v1.7).bin" size="175169904" crc="941a085c" md5="1ae7daaa2a3ca4c2ab8d3dca65509120" sha1="97cad205c1b01fc3484846d2f8fe235f83785f58"/>
+	</game>
+	<game name="Quizard (Austria) (v1.8)">
+		<category>Games</category>
+		<description>Quizard (Austria) (v1.8)</description>
+		<rom name="Quizard (Austria) (v1.8).cue" size="111" crc="ea3682bf" md5="958ff6f695f9d3ef7531ef7f8786a4c1" sha1="c1fbba037fc106f7721e398509581be053ed62a9"/>
+		<rom name="Quizard (Austria) (v1.8).bin" size="176581104" crc="7addb46d" md5="f9adfa3a7a097479826ab714a56135de" sha1="8b326ab7f6cd4e1067219e5eacb5b8c9174e75b3"/>
+	</game>
+	<game name="Quizard 2 (Austria) (v2.2)">
+		<category>Games</category>
+		<description>Quizard 2 (Austria) (v2.2)</description>
+		<rom name="Quizard 2 (Austria) (v2.2).cue" size="113" crc="2e514dd3" md5="0de09a0aa88635fd7b083c93e7c83298" sha1="3e01a71cc88780653e592a959779a7e4924f5e80"/>
+		<rom name="Quizard 2 (Austria) (v2.2).bin" size="112717248" crc="7a50f404" md5="c899609e853c6e7d4dd8da4c5b965c30" sha1="0b2c0c78769dbfa33760209dfc2b231a858f0a5a"/>
+	</game>
+	<game name="Quizard 2 (Austria) (v2.3)">
+		<category>Games</category>
+		<description>Quizard 2 (Austria) (v2.3)</description>
+		<rom name="Quizard 2 (Austria) (v2.3).cue" size="90" crc="db78c1f0" md5="ad57100c2fb471960833690005b60cb4" sha1="64341f57ba39d4993fbd2d8b7f6d5b0e0bc93478"/>
+		<rom name="Quizard 2 (Austria) (v2.3).bin" size="136009104" crc="1b911412" md5="5ace82469324dfae787039a061855083" sha1="fd72d62c40375c515d21162c0b2e3943db30f4aa"/>
+	</game>
+	<game name="Quizard 3 (Austria) (v3.2)">
+		<category>Games</category>
+		<description>Quizard 3 (Austria) (v3.2)</description>
+		<rom name="Quizard 3 (Austria) (v3.2).cue" size="113" crc="16081c9d" md5="cd0d08cb3348fe8591a04efbec8e4264" sha1="aafd7f9417a88523e09702ccd89a94154140bca0"/>
+		<rom name="Quizard 3 (Austria) (v3.2).bin" size="456351504" crc="f37b45d0" md5="96cde593e005617eee3d1b59b667fcb1" sha1="b48d7e8ea0296b4deb5a4a871a6c5ff8236d5523"/>
+	</game>
+	<game name="Quizard 3 (Austria) (v3.4)">
+		<category>Games</category>
+		<description>Quizard 3 (Austria) (v3.4)</description>
+		<rom name="Quizard 3 (Austria) (v3.4).cue" size="113" crc="c572317c" md5="f345af36c589ed67fed7c8f224459613" sha1="8aaa80635aaa978079fb4149a74df8123e07186f"/>
+		<rom name="Quizard 3 (Austria) (v3.4).bin" size="464113104" crc="7a4a9f4f" md5="03d76f1382ea4ec250a2bbe1892de24e" sha1="f2afb67b383085ab24eaa461414fb3c73b11c3ac"/>
+	</game>
+	<game name="Quizard 4 - Rainbow (Austria) (v4.1)">
+		<category>Games</category>
+		<description>Quizard 4 - Rainbow (Austria) (v4.1)</description>
+		<rom name="Quizard 4 - Rainbow (Austria) (v4.1).cue" size="100" crc="3756e57f" md5="8ca739016b107a79eed81b551d5e61c5" sha1="f87e1d99fba37b5cae02cca58ac56046099ce5a9"/>
+		<rom name="Quizard 4 - Rainbow (Austria) (v4.1).bin" size="588465696" crc="e7abd484" md5="b30a10915a7f67cb8bcf7dfa58b43caa" sha1="1a8bb832520f69d50359baf19e5fb3cc8cbf20d0"/>
+	</game>
+	<game name="Quizard 4 - Rainbow (Austria) (v4.2)">
+		<category>Games</category>
+		<description>Quizard 4 - Rainbow (Austria) (v4.2)</description>
+		<rom name="Quizard 4 - Rainbow (Austria) (v4.2).cue" size="123" crc="1e416f4f" md5="0beb857c930a50e3ec8d60578ad35ed6" sha1="1c417e9461df79e63aa44454f90accfcb842a5e3"/>
+		<rom name="Quizard 4 - Rainbow (Austria) (v4.2).bin" size="588056448" crc="7deef68c" md5="362d4d400876f6e6a9a0e426bc483fe4" sha1="aee7c6f1231bc65d3fcec5013fe47942630ec306"/>
+	</game>
+</datafile>

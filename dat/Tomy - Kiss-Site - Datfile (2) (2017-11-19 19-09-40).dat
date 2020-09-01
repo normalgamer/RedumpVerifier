@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Tomy - Kiss-Site</name>
+		<description>Tomy - Kiss-Site - Discs (2) (2017-11-19 19-09-40)</description>
+		<version>2017-11-19 19-09-40</version>
+		<date>2017-11-19 19-09-40</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Dance Karaoke Series 03 - Happy Summer Wedding - Nanda Kanda (Japan)">
+		<category>Video</category>
+		<description>Dance Karaoke Series 03 - Happy Summer Wedding - Nanda Kanda (Japan)</description>
+		<rom name="Dance Karaoke Series 03 - Happy Summer Wedding - Nanda Kanda (Japan).cue" size="645" crc="a5f2c581" md5="892058ae8b2a0b41a4ea0fb619b45ed6" sha1="2395aa11ef3517e97ea276fe220d310266cc6796"/>
+		<rom name="Dance Karaoke Series 03 - Happy Summer Wedding - Nanda Kanda (Japan) (Track 1).bin" size="729120" crc="aba19f27" md5="c6cd853096b67803b105544f1a5a525b" sha1="d299974725c5faa6b9eab300a637aae26444fdb8"/>
+		<rom name="Dance Karaoke Series 03 - Happy Summer Wedding - Nanda Kanda (Japan) (Track 2).bin" size="2495472" crc="adcf8ab8" md5="cfcf73bb1641ed5dc9447027b8de357e" sha1="1a81881ab1fe486e7705436dc9b12ab95714f5be"/>
+		<rom name="Dance Karaoke Series 03 - Happy Summer Wedding - Nanda Kanda (Japan) (Track 3).bin" size="52066224" crc="e66359b6" md5="ac7a41c58deba804bc87aff094a238de" sha1="5e1f04e0a8524ce8e4b090ed35aecd6450129bc7"/>
+		<rom name="Dance Karaoke Series 03 - Happy Summer Wedding - Nanda Kanda (Japan) (Track 4).bin" size="37309776" crc="6ff0d93e" md5="66bd0cb3e5ec9359918080b3a966e9fd" sha1="75a2fd55ab4eb9ebb502a4ed3f56319dc600d7a5"/>
+	</game>
+	<game name="Movie Karaoke Series - Best Selection - Ballade 1 (Japan)">
+		<category>Video</category>
+		<description>Movie Karaoke Series - Best Selection - Ballade 1 (Japan)</description>
+		<rom name="Movie Karaoke Series - Best Selection - Ballade 1 (Japan).cue" size="1754" crc="ed97bb37" md5="46c5e7d5f16a425e6c6b560fa4553a4c" sha1="cf12d96414a0d6c070796e4e228283f986ed815a"/>
+		<rom name="Movie Karaoke Series - Best Selection - Ballade 1 (Japan) (Track 01).bin" size="3880800" crc="425425a1" md5="811c335940a6936322e34371c9d52577" sha1="05cca6e8e14fad1ef3546de98179fe91206c2d09"/>
+		<rom name="Movie Karaoke Series - Best Selection - Ballade 1 (Japan) (Track 02).bin" size="1771056" crc="797c64af" md5="ac6f964d33aff4f41f15996f58eca0ec" sha1="848191ad465a93a6d5f0803096d85a019b04053a"/>
+		<rom name="Movie Karaoke Series - Best Selection - Ballade 1 (Japan) (Track 03).bin" size="46924752" crc="b4b06e31" md5="87cfa34b7b7a89cce2603c3071b87d62" sha1="8082481166bea724f2e593b06773654e0e231c5d"/>
+		<rom name="Movie Karaoke Series - Best Selection - Ballade 1 (Japan) (Track 04).bin" size="38137680" crc="c641b3d7" md5="b0ea46694ee3c524e8b91b7dff030088" sha1="ac5c48d279ddfe76c49f21c97fd50871d857a1f9"/>
+		<rom name="Movie Karaoke Series - Best Selection - Ballade 1 (Japan) (Track 05).bin" size="49093296" crc="a8cd2007" md5="5b20cc195d089b72281ce9e5c9539330" sha1="9760c4998644947305d86451d894fc04a59c62df"/>
+		<rom name="Movie Karaoke Series - Best Selection - Ballade 1 (Japan) (Track 06).bin" size="59331552" crc="78e42fad" md5="95054a37587b77913e8058b11c5bba02" sha1="e28dc86c736a2783a2750a7bdb43177d8cd362f5"/>
+		<rom name="Movie Karaoke Series - Best Selection - Ballade 1 (Japan) (Track 07).bin" size="46567248" crc="04d6fc2f" md5="9737b336bfc627eb500ad2f04cff735e" sha1="5364843d113ac0613f031ee8ab3ac87476afeac3"/>
+		<rom name="Movie Karaoke Series - Best Selection - Ballade 1 (Japan) (Track 08).bin" size="58755312" crc="f49237a9" md5="cbf3188009a4b1d010b697d2478ea250" sha1="09708410db91338ed589bd4d5b0148cfbc94f07b"/>
+		<rom name="Movie Karaoke Series - Best Selection - Ballade 1 (Japan) (Track 09).bin" size="60921504" crc="bf2cd223" md5="ab117ec662c80f24ee2c6bd97f49e9ff" sha1="d8fee9628c1ef264232413c85acefd87aa737796"/>
+		<rom name="Movie Karaoke Series - Best Selection - Ballade 1 (Japan) (Track 10).bin" size="67803456" crc="cbce0979" md5="93307830d0dd6a57ca56006e7996b50c" sha1="ad2113a452c0c8d3605f8199787621de497fc99d"/>
+	</game>
+</datafile>

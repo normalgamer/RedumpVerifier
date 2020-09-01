@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Atari - Jaguar CD Interactive Multimedia System</name>
+		<description>Atari - Jaguar CD Interactive Multimedia System - Discs (10) (2019-08-27 00-06-32)</description>
+		<version>2019-08-27 00-06-32</version>
+		<date>2019-08-27 00-06-32</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Vid Grid (USA)">
+		<category>Games</category>
+		<description>Vid Grid (USA)</description>
+		<rom name="Vid Grid (USA).cue" size="2094" crc="c97f55d2" md5="2b0066b5ce0995dd82d95002e63f2702" sha1="20606bb05166c93b8fb625b25082419d78efafb7"/>
+		<rom name="Vid Grid (USA) (Track 01).bin" size="2756544" crc="33bfcdab" md5="3f7731e34269027110056719620b41a1" sha1="48b9136a746d88b4d5ad61065af70d763359ab4b"/>
+		<rom name="Vid Grid (USA) (Track 02).bin" size="1053696" crc="b4b246b7" md5="c441ad87f2ddfa60d5019512b208731f" sha1="3f16a892cdd9ea82c4435dc3227e4b219bd14cec"/>
+		<rom name="Vid Grid (USA) (Track 03).bin" size="1404144" crc="d9e9eeaa" md5="338d5647763243cb57050343e59cd4d7" sha1="f0c03eae1681a47331ec4dddc164ab8b1d737097"/>
+		<rom name="Vid Grid (USA) (Track 04).bin" size="1404144" crc="739bd7e3" md5="26f8006d016fa5ba64674a78c6181f69" sha1="5e0707f0cbbc35e540e58d3148e909e3b7d22149"/>
+		<rom name="Vid Grid (USA) (Track 05).bin" size="6771408" crc="5980684d" md5="9920f2cd03c4e8037cab9438c6711d35" sha1="9efe8d15d000488c3b2ed26b10d3057c6b8ba077"/>
+		<rom name="Vid Grid (USA) (Track 06).bin" size="71009232" crc="6cf533bb" md5="af8f3d1a362abd1da090634d4c324190" sha1="2b5e6fd704f0279a9fac01839b8cc620e25e0821"/>
+		<rom name="Vid Grid (USA) (Track 07).bin" size="61881120" crc="1749497b" md5="3345fafc6bd48a4f81136395b403e457" sha1="768e1e9afa172e186bc68258573741c4842fa153"/>
+		<rom name="Vid Grid (USA) (Track 08).bin" size="51174816" crc="d04a785a" md5="d0adfc15a54456a58a244f853dc75835" sha1="f54df732f10b550b46fe68be8a0fce7a05fed7f8"/>
+		<rom name="Vid Grid (USA) (Track 09).bin" size="62490288" crc="06db4a1a" md5="583963933a75d9fdacd99b3b88af6456" sha1="5a7326e0389b5d789c95c0ca49dc93ac36787ad1"/>
+		<rom name="Vid Grid (USA) (Track 10).bin" size="128548560" crc="6d22fed4" md5="9cff3af7aa9cb1527949d7ef800ddc13" sha1="63022f5c5caf8ea5af5fc42a8df35a815abbd38b"/>
+		<rom name="Vid Grid (USA) (Track 11).bin" size="103565616" crc="88857145" md5="74f031a7df5470e43c40f7e18b9348b2" sha1="0bb09d12c6999ea2cf0fd9818c7d025c76e29a1b"/>
+		<rom name="Vid Grid (USA) (Track 12).bin" size="52538976" crc="7ec53b98" md5="5c907b0eb4593a8f4c275c21e6764b92" sha1="34420a75bb283922792fbf91fcdb07470ad2954a"/>
+		<rom name="Vid Grid (USA) (Track 13).bin" size="60441696" crc="f5aae67a" md5="df56e7067f4876a898a470075f520a60" sha1="7e8b9ff94c5dbe3d1928e37451a0d4d66f0e68f9"/>
+		<rom name="Vid Grid (USA) (Track 14).bin" size="63732144" crc="71a8a752" md5="2ee7d6623e3fc0108ae440b44f661082" sha1="94ddf425c44aff2a03ac3074e6f44490e31aaec6"/>
+		<rom name="Vid Grid (USA) (Track 15).bin" size="57668688" crc="debca39d" md5="71e58a0e14927113d4710180e399c1bc" sha1="82fb32097aa097588f2747da22c05e0dbe29ad8b"/>
+		<rom name="Vid Grid (USA) (Track 16).bin" size="4595808" crc="eb338fbd" md5="c0b560315a15b8d6bf8d7e045cf23e90" sha1="fc6b5184814da2c64f7b6ccbff9fe55b12e39828"/>
+		<rom name="Vid Grid (USA) (Track 17).bin" size="1401792" crc="74678161" md5="fcf936e84504648714deaa43b95eb345" sha1="e256d25feb4daea7536d1dd73b42f89844b573b2"/>
+	</game>
+	<game name="Baldies (USA) (Rev 1)">
+		<category>Games</category>
+		<description>Baldies (USA) (Rev 1)</description>
+		<rom name="Baldies (USA) (Rev 1).cue" size="1427" crc="5e339c95" md5="e1c27147817a1df2a0d1b2d8dc27d2ba" sha1="f2f7b80b12e8cdf83307c412c386d2e0012b85dd"/>
+		<rom name="Baldies (USA) (Rev 1) (Track 01).bin" size="11207280" crc="2b34a071" md5="fb178fd05481b3b15bb703895248f5fd" sha1="e4144cede37559516685d96c383b66af51db0814"/>
+		<rom name="Baldies (USA) (Rev 1) (Track 02).bin" size="1046640" crc="ac17fdbf" md5="0cba9f573eda197cd4c4814d5aebfb40" sha1="c96e7ed4b24700130afc601f9f8ba0f4f2891c75"/>
+		<rom name="Baldies (USA) (Rev 1) (Track 03).bin" size="11110848" crc="131f1a0a" md5="1eef178c2057f10ed6dc273add8a1ad7" sha1="2a162bc77500972930c68944ed4448f8ed5d8ec6"/>
+		<rom name="Baldies (USA) (Rev 1) (Track 04).bin" size="3499776" crc="c708eddc" md5="da27b1adda3683b1c183866ee9e6037d" sha1="b1d58ff0610479fd6a0f00dc2dd82743bb038501"/>
+		<rom name="Baldies (USA) (Rev 1) (Track 05).bin" size="28146384" crc="f6d1f0f1" md5="00d46d85ab9d651deda0582c0577c1b1" sha1="4cc6f255881fad91bef8fcc5371a7481bae2bdfc"/>
+		<rom name="Baldies (USA) (Rev 1) (Track 06).bin" size="1404144" crc="d05b4cb1" md5="2b6141aea180f2f288188f05fc458236" sha1="840937d7963b8c35eb5198b784c7574f18d59a00"/>
+		<rom name="Baldies (USA) (Rev 1) (Track 07).bin" size="1404144" crc="dbcf41bd" md5="d30acf246f357baae11daed2f9b25bf9" sha1="fb36558e5022aed6d6a43f5264ade68386170414"/>
+		<rom name="Baldies (USA) (Rev 1) (Track 08).bin" size="1406496" crc="01083da4" md5="c974c3a06fdfb5b4fcf411fed5efbe99" sha1="3bd09d62db1dd7d7397071e65ff55c76c3fed486"/>
+		<rom name="Baldies (USA) (Rev 1) (Track 09).bin" size="1401792" crc="00750774" md5="7450c076f927488142fead50eadcb16a" sha1="c214f9f57a310f610c39b61c506f6e3c7d9a24f9"/>
+		<rom name="Baldies (USA) (Rev 1) (Track 10).bin" size="2667168" crc="311c1b15" md5="db7d667eb3e04e793145e9ab07e04a01" sha1="c55b4545c5391a1815df39c9bf7313a422a0ee26"/>
+		<rom name="Baldies (USA) (Rev 1) (Track 11).bin" size="1401792" crc="722de216" md5="ff70371271b8200300a3587449c5df75" sha1="3ec5923eaff3115c4ea6cc68fe77bf2760ac0841"/>
+	</game>
+	<game name="Battle Morph (USA)">
+		<category>Games</category>
+		<description>Battle Morph (USA)</description>
+		<rom name="Battle Morph (USA).cue" size="1266" crc="f421439b" md5="83c623aa46f4e58da0c96c3d1c607709" sha1="137ca0bc64c6869ddd1f66223e6efa155335332f"/>
+		<rom name="Battle Morph (USA) (Track 01).bin" size="9699648" crc="10ba56a4" md5="4e629cf21deaf09ce21e6c43487b0b6f" sha1="0d3c73be5642e47383002ad4c32bf4e7e3d26e59"/>
+		<rom name="Battle Morph (USA) (Track 02).bin" size="1053696" crc="936e7a8c" md5="cba15b005c4b128084fbf48b3f2f2683" sha1="d158a6e26dbf31326b50ff9adcb37fc0d322669e"/>
+		<rom name="Battle Morph (USA) (Track 03).bin" size="138314064" crc="49cc3c91" md5="7fed5987e36636e1db472ad326cfedb1" sha1="b7414923c18462ad45d13f7443b8cc566d1fba9c"/>
+		<rom name="Battle Morph (USA) (Track 04).bin" size="52094448" crc="d6f48bd5" md5="810ef7c3ba1d9a70a4dece103fd63fb6" sha1="591101706e7459f1374515ab5f8b070320c0cb13"/>
+		<rom name="Battle Morph (USA) (Track 05).bin" size="82762176" crc="d6a72780" md5="63314dee99bfe7bc126b3fc39eefc3a4" sha1="c7c709231360a2b81082ec458ec6cb6a59a5b5ec"/>
+		<rom name="Battle Morph (USA) (Track 06).bin" size="82644576" crc="c8f98688" md5="4d4c33eec2f10a19d658825e016d4909" sha1="103e8ecb65eb4e2572410562c5506f15f0529068"/>
+		<rom name="Battle Morph (USA) (Track 07).bin" size="82809216" crc="1c952e4d" md5="90d6ae778aafb3f35bcf17c63ed2c382" sha1="4053fc1df2a76d0432bfa8803c8d9a272865965f"/>
+		<rom name="Battle Morph (USA) (Track 08).bin" size="81997776" crc="634dd753" md5="94de2b93c19002d2c2217a40da9c5a48" sha1="4b5a5fdc5abb9d386b67071a5a9e9fbc5f79a1f7"/>
+		<rom name="Battle Morph (USA) (Track 09).bin" size="82762176" crc="d707c189" md5="5e95dbef9b7160a144f96b3ef72ca314" sha1="0cbf360e78b6798071b1b01a790729d4ee3645ab"/>
+		<rom name="Battle Morph (USA) (Track 10).bin" size="1401792" crc="0744d24f" md5="95d7f4ddf9f0ea1f36da1d69ec69732f" sha1="ceee0c8acb98bb043e8147ac668363eb63e592db"/>
+	</game>
+	<game name="Blue Lightning (USA)">
+		<category>Games</category>
+		<description>Blue Lightning (USA)</description>
+		<rom name="Blue Lightning (USA).cue" size="1416" crc="f84ce004" md5="ce80364bc4b4604d4bd2615e2be0c226" sha1="727772e8667f7bead446cb30afe3abde0c6bd638"/>
+		<rom name="Blue Lightning (USA) (Track 01).bin" size="38196480" crc="c92ef50c" md5="af59b709d1c3d1deb6e48e6e27619aba" sha1="8647ab667265953cd9043553696a1a2485896acb"/>
+		<rom name="Blue Lightning (USA) (Track 02).bin" size="1053696" crc="a6dd3088" md5="b6782eb7c1732818e61656426ac99bd4" sha1="5782f0daf44da7c29a10d044b6fc52088a76e4af"/>
+		<rom name="Blue Lightning (USA) (Track 03).bin" size="119142912" crc="7ce3d35f" md5="8ff0979e382984d5218650641d3776cd" sha1="ee14fb4eedefbee01e1059f5ea6015fa66773e09"/>
+		<rom name="Blue Lightning (USA) (Track 04).bin" size="49770672" crc="403e8a26" md5="0b5130761e66e8fabf3031309ee444c9" sha1="3542d95142cb230c4deda2d24f16deea55212bd4"/>
+		<rom name="Blue Lightning (USA) (Track 05).bin" size="77966448" crc="10952895" md5="d40015bb984541d9e10861cd9be52d91" sha1="c0c206d2aaa849ddee807bb864224944a3ace5c7"/>
+		<rom name="Blue Lightning (USA) (Track 06).bin" size="65162160" crc="08cfe34e" md5="b65e407ade82ed241658d8488d0eef78" sha1="5108f90e614ebce5c607b54cfc91ec6a9aae2342"/>
+		<rom name="Blue Lightning (USA) (Track 07).bin" size="48352416" crc="e111669f" md5="5d727e7e8932fde3712249b820e25084" sha1="6cd80c92dfa66afdcc7e50d78c0f4c10b92af298"/>
+		<rom name="Blue Lightning (USA) (Track 08).bin" size="48352416" crc="210b5981" md5="0572615ec13e2146dbab16fdbd422712" sha1="38b890b0a74d101e6718986676b281764073eebf"/>
+		<rom name="Blue Lightning (USA) (Track 09).bin" size="48354768" crc="d2e55747" md5="0e0bf9a869db98540ad4e17a90d15a00" sha1="4d9d7762c7a6a684b6bcf82869fd68122576e4c3"/>
+		<rom name="Blue Lightning (USA) (Track 10).bin" size="48350064" crc="83034efd" md5="32f998bc90b43dfd36c382a81393c3d0" sha1="915bb59ed1242df2c6bcc984e2d3b66f2083f090"/>
+		<rom name="Blue Lightning (USA) (Track 11).bin" size="1401792" crc="df73f3c1" md5="b3662419e1716f240530c84dea7b7a4f" sha1="6493d1e0869a04664694cffb5aec5b1b555779a7"/>
+	</game>
+	<game name="Highlander - The Last of the MacLeods (USA)">
+		<category>Games</category>
+		<description>Highlander - The Last of the MacLeods (USA)</description>
+		<rom name="Highlander - The Last of the MacLeods (USA).cue" size="1354" crc="25c01a46" md5="e7f96d9e1b74b50d13f01065909128d9" sha1="76efb4149d1bac51fa4aca45393e3a25b06e3312"/>
+		<rom name="Highlander - The Last of the MacLeods (USA) (Track 1).bin" size="24630144" crc="2c636532" md5="8d487ce884f034369dc50795f2ea859b" sha1="30fc93c4c0e6a20d82dc78058389aeb0c260a56e"/>
+		<rom name="Highlander - The Last of the MacLeods (USA) (Track 2).bin" size="1053696" crc="e46b103c" md5="b4680ef4d4785824dea15763981d2eeb" sha1="c569d6440d8911c011e228775d30c1f2ea59e33a"/>
+		<rom name="Highlander - The Last of the MacLeods (USA) (Track 3).bin" size="6682032" crc="24350111" md5="7ef253c9defc66e5c7accb014a5620eb" sha1="1e356515e8687298395dcdde91e62286bc1b9c3f"/>
+		<rom name="Highlander - The Last of the MacLeods (USA) (Track 4).bin" size="174219696" crc="e2656f7a" md5="68ba6f1a45606c65465fb59f5615d20f" sha1="a7381a64461a2e723a86e69d60c69854ffe7a18c"/>
+		<rom name="Highlander - The Last of the MacLeods (USA) (Track 5).bin" size="4706352" crc="36ea815b" md5="d0c25281b4a39b4ebf47ec7db3b6e901" sha1="64e8468d50ac04b791c1d5d175fc6585902c81cd"/>
+		<rom name="Highlander - The Last of the MacLeods (USA) (Track 6).bin" size="5367264" crc="5e2ef9ea" md5="ef37dd8f4515cc802d50c25f055b0c9f" sha1="17ccb233e75cb8a6522232823a32540e226c0ad2"/>
+		<rom name="Highlander - The Last of the MacLeods (USA) (Track 7).bin" size="240557856" crc="d3acb3c7" md5="b56ab62f94e952ab8d05476b5a31a5b1" sha1="27af868fed7d0bc35fd4ba45c51cc2a6bdd692df"/>
+		<rom name="Highlander - The Last of the MacLeods (USA) (Track 8).bin" size="1676976" crc="b740f44c" md5="1d3382e39e89733023a39883efcc6c1e" sha1="73d0a6a65c08492f164840769208b8d0a0636750"/>
+		<rom name="Highlander - The Last of the MacLeods (USA) (Track 9).bin" size="1401792" crc="43a161d1" md5="4adb6c80d1c70a2a124916a5a7b4c263" sha1="fcf5fb36c9cc3b4211cd06c945c7f602da31557e"/>
+	</game>
+	<game name="Hover Strike - Unconquered Lands (USA)">
+		<category>Games</category>
+		<description>Hover Strike - Unconquered Lands (USA)</description>
+		<rom name="Hover Strike - Unconquered Lands (USA).cue" size="9162" crc="76d22d90" md5="dd8eca6b6f902394dcae367e6c3bed4e" sha1="fb7f62159e65e824100f9ed27e59497f8975b6ec"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 01).bin" size="705600" crc="f7640c5b" md5="3a640d1be0cf95ea71890a557427b453" sha1="519ebfdd7bb003abe9e9e9dcf33fdedd2f2d69aa"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 02).bin" size="155354304" crc="46e7f3aa" md5="1a99a8be0a3ca546fd93f51d36d3541f" sha1="8b2a7f48470277c723087d67867cacd2f94f4135"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 03).bin" size="49471968" crc="6b070d9a" md5="03920548ca8d6b5ab57d12df683301ab" sha1="32976634a2b941b8b7a8ff612643b261487ef94a"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 04).bin" size="7378224" crc="fce07e2f" md5="f73d22f33bf3ed8b16e8b305ae4507e8" sha1="81c7a7cb055ae315c6c5c9db5a967dbbad802ec9"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 05).bin" size="29562288" crc="e958dd46" md5="d0c9e8538e881a06cb8eaa511c31f9b2" sha1="cf8498e6cd0b7627e11a5f78a203e6e4a25bb19f"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 06).bin" size="1255968" crc="ed300715" md5="acb95922464a655235e7987172915e6b" sha1="afb13f6c4a70a740f6a55fa92d79f0987be80357"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 07).bin" size="1970976" crc="657caa97" md5="d3d9fdd1d83c31636777db3b31a7fbbf" sha1="7f52abbacac5c335cafa2e7c3e3ef3251e90179f"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 08).bin" size="1615824" crc="cb16522e" md5="66ebfface809ad73eff581e94d784d15" sha1="350aaf0dec24af45a25a9b19f9439f98c2be8bab"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 09).bin" size="1780464" crc="0714b2e1" md5="05d218379aac5f4921c7f687876ff8cc" sha1="5853648a16da9932f7fb833bd92d84970ab1397c"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 10).bin" size="1724016" crc="270cd5ff" md5="36e5d0241fca6446db71b8b206c3de3b" sha1="d1b3ed56d9c7e3b652927628f28fe624e459eba3"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 11).bin" size="53181072" crc="9fce3d1f" md5="e01730ae5076e6b69aec8a2fa684088f" sha1="0701a77439fb4316a3dc6f77329e1358d9e36d6e"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 12).bin" size="5249664" crc="e16ada0e" md5="d299ad01b0af11ee55b7530e44033954" sha1="ea29eea834c5aba1546fffc9288ddd75c93c41e5"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 13).bin" size="7345296" crc="6dfbcad6" md5="b5072687c6a0cdf7cdb9d33f983314a9" sha1="e141467a12d0e63c0c54419ff78cf0c7d889ecf1"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 14).bin" size="7818048" crc="1ef27060" md5="80f71b8b159a2c5d0d2f75b7eb4df373" sha1="814b6883afb8435b0fcb23e5b662054c7ff61695"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 15).bin" size="6216336" crc="0750b20e" md5="2db7a4c362dfba5a22438f820992ce44" sha1="c4bf994c454c4f9e473f6a543e5d066450ab65ce"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 16).bin" size="1898064" crc="889644a1" md5="031bc576210c0fd702f77b652c5b391d" sha1="7510a8ddd21d6e2d90f8d77ab9c6c2d5504e55a4"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 17).bin" size="1829856" crc="ec713b1e" md5="364e21541ad6a105bd93ef62e9c709a6" sha1="a0c45a379bfbb2ee66a4b0f7395eb63dcebe4e6a"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 18).bin" size="1644048" crc="9204a404" md5="a0e36ce16b4f07f8657e486f95aa6a38" sha1="f702cd03dc2c6fce55d012cafdfa751471acfbb0"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 19).bin" size="1862784" crc="baf00f19" md5="118c12c2024b19dbe78dcdc8de2b24d1" sha1="97e2a679111088f093e707b62b19151ed48ab1b9"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 20).bin" size="1766352" crc="a42c70a8" md5="bcc8358722a0459f2e1180b50af8ba65" sha1="3772b3c59c50fcc72349c24b94ed46511b889756"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 21).bin" size="1855728" crc="79c3a167" md5="4cf06d01d174683dba75d6c6c4858f9e" sha1="309cdbd575c475f82c9a6e6ddef36918c6a1d2a9"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 22).bin" size="1780464" crc="2d9af2ed" md5="806eec761a3dac74fc5ee91b3a93bd63" sha1="177369c7ccfbfe6683de4adf34ea556e2f5827ed"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 23).bin" size="1636992" crc="bef2c496" md5="c698ae5e070508ba9ef3fa79f12bbb30" sha1="d110bc8d9f3dfa0cb422ed0ba3531c0b6a110016"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 24).bin" size="1874544" crc="0ab1bed5" md5="71a82ebe126bad0916bf1ce9cfa2e9dc" sha1="30bc0a08e1b0e5dc47aba4fab4abe7785662b73f"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 25).bin" size="1862784" crc="a18b22c9" md5="a0499cd1df59610357fbae15dc77d775" sha1="a434b27df6e20df8d84d5dfc46f56d5431d37452"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 26).bin" size="1705200" crc="f2dd9402" md5="72e757810298a6ad13d27b1dcba49686" sha1="9815e38eb7bd036ae0da66f5b502f96b95f665db"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 27).bin" size="1876896" crc="f9e92b99" md5="522866919658a4c0611fdb7f194d9ef5" sha1="89c45e557e87ec0bc9290091f01c36d7c8614449"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 28).bin" size="1702848" crc="6cfc7c23" md5="c96f555b55874fb5aa67d2a8310cf417" sha1="067b18029ae0726ed862219189e8632aba254749"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 29).bin" size="1872192" crc="eec3ba77" md5="b937b8e3b1dee1fab4433258d81de0cb" sha1="6ed1d95b876cb8ba105f7288aabcade592b67416"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 30).bin" size="1709904" crc="9c77063c" md5="8df8627307a75085a0a8fb98439b445e" sha1="13bdd8d44dd5c636402d78c9c6d0f78a7b9c1d0b"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 31).bin" size="1691088" crc="06c0efa9" md5="692638f0bace65849d0da5ffa7f91f42" sha1="8d24a4bdf4d219507cd608204e321cb850e5de71"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 32).bin" size="1883952" crc="b2d3bbcc" md5="4dbbc4a97a73880aaa3a55a8d6979e27" sha1="28a23738b02dfd2b899f335e5166d9d3edeebb0f"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 33).bin" size="1883952" crc="bd57274a" md5="e8ee4011199a5d43cafcac2beef5f2bc" sha1="f237af4ea763ebde2a6e390d7c01445ea2726ada"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 34).bin" size="1858080" crc="7d94fd1c" md5="f4f320b4adc794951b34e2dcd9fbe775" sha1="6d804b9afaacac3b4cc2f649afbeaac73add3822"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 35).bin" size="1876896" crc="50739953" md5="18197fe9161e55c5328c9081cc92c36f" sha1="548567c21ebfd2056f120d8176866b8bccb6b14b"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 36).bin" size="1853376" crc="c938a816" md5="e8473769ed8d4bb24ab3d66732f3cb2b" sha1="a18aa9af7859fe6830a1fa13424a93f47841bd58"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 37).bin" size="1822800" crc="35e30c9f" md5="2a3d074cd11e0a7ee89c9f5ac7ed317f" sha1="6ffc135add93d0d00005a0593ee0f38002f42dd5"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 38).bin" size="1806336" crc="cb1ed944" md5="c7e1149c53f25c964659970c8c75af67" sha1="f3a0620b63a3f8d1001b72a974f0539e1e8597b8"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 39).bin" size="1747536" crc="32663fa8" md5="aa30683ffdb3dd417368dcf39ffe9d6f" sha1="a6163a0a3e72a2112f7d76b15f7a7d2fb9fec035"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 40).bin" size="1869840" crc="bfb2c928" md5="88c5331fbcbbdc89af860262cc7bb5c7" sha1="17da13ab3a86e1e12bf6dc40abefa86b58d22883"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 41).bin" size="1862784" crc="f13bb38a" md5="ba474426d6671b7756f9e0981be09995" sha1="4edd0ddbf5937423dcdd3f45fdcb1b83827a8c99"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 42).bin" size="1789872" crc="7cb3bc82" md5="c3bf3731a2be40b25d4f4a229a48291e" sha1="333f27af57d89a5e4c8278700a90fd2185d0dbf8"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 43).bin" size="1883952" crc="d4299a8b" md5="c05b2aa08aa5c64ba6665f677b90a937" sha1="77e2cfa386ff086984edf6ac688db2d42cc241a0"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 44).bin" size="1764000" crc="4b877612" md5="79ff3c6dd2b9b17de23d32f0777d01cc" sha1="00454fecf3634f2a06eecb4962aeb50725599a46"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 45).bin" size="1879248" crc="9c2223c7" md5="959addd8a46335a7c720cfb1b9397da9" sha1="ec8a48b46163a78050910cc1d9f58df86fe7be52"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 46).bin" size="1883952" crc="f7c274bc" md5="8525d45db6b7c81ddb79bd559773ffd6" sha1="cf1092a03ee6a820c489d4dee7636309789206df"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 47).bin" size="1695792" crc="b99c8d21" md5="791393c07a39cf7c4af70380c0549650" sha1="f3df874b0082d9a5105c8472bfc31c4a802f0814"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 48).bin" size="1876896" crc="6747d9c0" md5="f220eaf189330317ff6a19a648804b35" sha1="f9d43382f2f24cf12148d51c00a7cc2e783edce6"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 49).bin" size="1867488" crc="dd9ce587" md5="3fba1d115f28c310107522479ff9ed10" sha1="277727755f18e5654a29cfc35ab28800e3e16ccb"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 50).bin" size="1712256" crc="03ea06ee" md5="bcb77ffe5c2bc34d44961db076de7200" sha1="8eb87ee9c09667f2f05249c417ce90f08ee80112"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 51).bin" size="1869840" crc="0cd8d76e" md5="381520fbf12a5a7364cb9f5eb1e9937f" sha1="3e51bc917d607d43b977d40da7a464bd59ba7fae"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 52).bin" size="1834560" crc="2451a145" md5="254660a7acb906b4421c24862b04c0a5" sha1="ad03c1dad4ae0c0a48832361a5c7bb0ad904b0f7"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 53).bin" size="1883952" crc="e85e382b" md5="70a06d324bccda9ac6b1b1b10c9fc9de" sha1="dac2d43ed6fd49faf8d2614418a7afc2d3bd5c3a"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 54).bin" size="1846320" crc="3a17d199" md5="5d1407786c6294a0a9df6b1cf833e146" sha1="d524753327dae63173024fedaab8dc093a2b0ab9"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 55).bin" size="1679328" crc="a3d41231" md5="52cdb955bcd01f88297de796ba3240fd" sha1="ca54eadff37e8be9e22e21c469be81739557509e"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 56).bin" size="1876896" crc="a1e9a5a6" md5="19352415a079a92b76915476b34e62ad" sha1="415900e2dbd428c109fc0a8089e470620f31e4c9"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 57).bin" size="1796928" crc="d82d3fff" md5="3c9da68a25edf61afc264561d0c53d83" sha1="393f2a0f6d0d6838faade097e382c2d8a9ccac86"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 58).bin" size="1651104" crc="cfcd7903" md5="e74bc0bdfb526f3d5064981d0d0937dc" sha1="0f1e8826d819c3438cafdd913e8a37565c708a9c"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 59).bin" size="1688736" crc="b56edf6b" md5="fa3a9c14eb07290593c558a0901e1e70" sha1="02dcfefb32643561555add9c3728b6478ef15c84"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 60).bin" size="1698144" crc="972fb1cf" md5="ebe339e927ed7b59aeafc48e82ae7dff" sha1="013d4e2fceb26d55f028230dacd56a19385817b8"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 61).bin" size="1752240" crc="d3b35788" md5="f0b7b91c393cfa6fe3378d1f5870d347" sha1="a2767009d2208aadf76db077eb81c51e2a4ce079"/>
+		<rom name="Hover Strike - Unconquered Lands (USA) (Track 62).bin" size="1401792" crc="63cc38b7" md5="fbd21d6f379599174031016f64522e90" sha1="4864c777afb6494459b8e64626611271e33e461a"/>
+	</game>
+	<game name="Myst (USA)">
+		<category>Games</category>
+		<description>Myst (USA)</description>
+		<rom name="Myst (USA).cue" size="1186" crc="f70cf87d" md5="42a8b16e604d44664a10178e11f20712" sha1="97c3215e3bcbec0e52c9010d6e250b7d18baaeb3"/>
+		<rom name="Myst (USA) (Track 01).bin" size="16739184" crc="259f107b" md5="7b55dfd59fcd44664741589a01047c2b" sha1="dbd5b96ae8a1f07dcc48e935571699c7cb6b0c74"/>
+		<rom name="Myst (USA) (Track 02).bin" size="1056048" crc="51483e8f" md5="eaedbe9c298eb2192cb6690648393921" sha1="06dbf45723156e88a1bdd8575f8746e8bfa72fb1"/>
+		<rom name="Myst (USA) (Track 03).bin" size="2187360" crc="ab687b0f" md5="ac7049ab12f4f9a15dc228cb98c00550" sha1="e3f88de76e8a37ed9bb8131d4488f5d861bccb2c"/>
+		<rom name="Myst (USA) (Track 04).bin" size="264912816" crc="98392e5a" md5="2e3f3d04edaa62a2f91513cf11df90ca" sha1="ab62811220b17e8fb5691985dee603dd1ba5cb94"/>
+		<rom name="Myst (USA) (Track 05).bin" size="43681344" crc="bf73f641" md5="40473eb1153b02a4b25ef3ba81d65eb5" sha1="4fcf5263601f1f63f563dc113d9c7ca114728f1f"/>
+		<rom name="Myst (USA) (Track 06).bin" size="84695520" crc="c0f79434" md5="5ae9e4d9b7fc6aae34de15a01dfad8d8" sha1="956e81bb6563d53bb60383c0058dd5679e8df4ce"/>
+		<rom name="Myst (USA) (Track 07).bin" size="34122816" crc="2b947bd6" md5="f3f41faf519d54a0b9753d97aeb27284" sha1="b3f9fc712714c48e6d47dfa297244538a9c59337"/>
+		<rom name="Myst (USA) (Track 08).bin" size="73921008" crc="c0a59d2d" md5="ce3e9038c0daedec4ff9e7bb41457dc5" sha1="9ddfd3868e4d8214be3b88e5a3d9650294ef3664"/>
+		<rom name="Myst (USA) (Track 09).bin" size="36634752" crc="a93c924b" md5="cf3720068cf4c9a6196fb43980aae7b6" sha1="21c4527d9c724c5c02c1e33b8ab24b9df26fcc78"/>
+		<rom name="Myst (USA) (Track 10).bin" size="1404144" crc="74d912dc" md5="41529cfb5e131e98c240de4b7534ab63" sha1="3170e4147b4ea17b1cebe23d79f8dd195150b78d"/>
+	</game>
+	<game name="Myst (USA) (Demo)">
+		<category>Demos</category>
+		<description>Myst (USA) (Demo)</description>
+		<rom name="Myst (USA) (Demo).cue" size="490" crc="ed3733c9" md5="40792c83835fedbfd42b07947778576d" sha1="c8cb8fa0a22eba2e7e4004781ec0268f9b555dad"/>
+		<rom name="Myst (USA) (Demo) (Track 1).bin" size="16739184" crc="41d20db6" md5="a9383cec09094068e9a4575a69424cc6" sha1="0654e0ce6b0dbc2649239f9b0c75442f5c116af1"/>
+		<rom name="Myst (USA) (Demo) (Track 2).bin" size="1053696" crc="ab7a025a" md5="d870aaebcfdb3df9c75034b4dfba3165" sha1="c21dd59753a821d39cf632ef3a48d25e8c01b6dd"/>
+		<rom name="Myst (USA) (Demo) (Track 3).bin" size="62360928" crc="b7155567" md5="c6d4b3bd1dc834ff600452a7c257136b" sha1="cbde593911a05f72f9ca49aefb975b73df569692"/>
+		<rom name="Myst (USA) (Demo) (Track 4).bin" size="1401792" crc="78a4b3f9" md5="199462e985ad6fbe9dbf61b8f68d6653" sha1="7200b51ace37f3a70d2a99c102643a96c7a467d7"/>
+	</game>
+	<game name="Primal Rage (USA)">
+		<category>Games</category>
+		<description>Primal Rage (USA)</description>
+		<rom name="Primal Rage (USA).cue" size="4177" crc="5dda6aff" md5="6cfa402d554e302f846c904f033bcc8c" sha1="a8ad95ada6c24f048840c86cc3e27f8c542ee188"/>
+		<rom name="Primal Rage (USA) (Track 01).bin" size="1107792" crc="c15afeb7" md5="975f88be1adabd3e23c7e064d27bc54c" sha1="05e68b398cf5b4ab1802692d09af06f780ea80ee"/>
+		<rom name="Primal Rage (USA) (Track 02).bin" size="2043888" crc="bd64f94a" md5="7f568c82f419ce79acb993d455ee31d2" sha1="31e945b4fd2df8433059fceaa9815a9e2a6d7156"/>
+		<rom name="Primal Rage (USA) (Track 03).bin" size="1721664" crc="74d6235b" md5="c8b12e3bf56ae6cdfea832f3c4c9eeec" sha1="5d78bd13bc63129b0b2a1210aa04ce7a001e6cd3"/>
+		<rom name="Primal Rage (USA) (Track 04).bin" size="1239504" crc="d5488701" md5="82e556a1f0a5a2f41030a58440f25b8e" sha1="de31195f230bc890c500728a9aaddd190f627227"/>
+		<rom name="Primal Rage (USA) (Track 05).bin" size="6098736" crc="faa59d1a" md5="b20e86e367532b59cb9c72d63a046576" sha1="5eb2cf3e8027ca1197baf0d588d8a7db59cdc553"/>
+		<rom name="Primal Rage (USA) (Track 06).bin" size="1239504" crc="ea4c7a05" md5="47e82c613acc59ed830bf864bae242ec" sha1="a0be4145ade6fceafa52be5b1ba27017a516bd59"/>
+		<rom name="Primal Rage (USA) (Track 07).bin" size="1945104" crc="9b6c7cc5" md5="5925c184634b4c6b779a1ba2730a9054" sha1="869a852d48a3626f46cfbadae024b5aff6325abd"/>
+		<rom name="Primal Rage (USA) (Track 08).bin" size="13476960" crc="53accd5f" md5="86bc6cea7c92cc1987818ee6fe5c2632" sha1="7292f18c8e98385097cdd3ef84218a2f0d395483"/>
+		<rom name="Primal Rage (USA) (Track 09).bin" size="1239504" crc="181f59f4" md5="27066042c5ff93df9371c69e93d2f68e" sha1="802621eff20fc312f17ce662522f79078018e242"/>
+		<rom name="Primal Rage (USA) (Track 10).bin" size="5160288" crc="27867ff7" md5="3cbe83f403bba91500e253167a517214" sha1="abed0cf2068a64c1c9b8fbc3baee8d051555a948"/>
+		<rom name="Primal Rage (USA) (Track 11).bin" size="1239504" crc="accaf398" md5="f48b17a7999407a50e7a6235ceacce0f" sha1="7db8257a9ac730d72ab17d67dc857980970a0212"/>
+		<rom name="Primal Rage (USA) (Track 12).bin" size="6576192" crc="d9346fb4" md5="d1274cc2e7725332bf9da0fa77f0025d" sha1="b335f7a62c468de55932f284034e944466587515"/>
+		<rom name="Primal Rage (USA) (Track 13).bin" size="15010464" crc="6da9b236" md5="09e399ea176b363332969d6362cffa47" sha1="048290646d87f46cf35f49d0644763c57c86db5e"/>
+		<rom name="Primal Rage (USA) (Track 14).bin" size="6148128" crc="d3d562e7" md5="8d2bb8656372b71cace1e15ae8959cb6" sha1="528ae9d0c4b218233446a80c91f56bddaa2fc3c1"/>
+		<rom name="Primal Rage (USA) (Track 15).bin" size="7625184" crc="b38d7631" md5="2a13a88ac81d8b8195556d2d693c740d" sha1="f2fc81d90b064f47c8f313e1dc4ece3efaa8317f"/>
+		<rom name="Primal Rage (USA) (Track 16).bin" size="1545264" crc="04df57be" md5="ea1c3b2ad4859a4d318b4afa963d9da9" sha1="f207856542798321c4dfafbd626114307410301f"/>
+		<rom name="Primal Rage (USA) (Track 17).bin" size="6750240" crc="ec60d065" md5="742beb681c9a92236fd101a848231c7d" sha1="26e9acaec13b420491be37ecc87b4886d1686582"/>
+		<rom name="Primal Rage (USA) (Track 18).bin" size="13434624" crc="4818614c" md5="95a44e4cff3028249dd9e431f14b46a8" sha1="9e28ed43f27f24792bba8e5dae03b46b2267ca71"/>
+		<rom name="Primal Rage (USA) (Track 19).bin" size="1237152" crc="c5894f92" md5="c79a6096bb0323792e6563de1c5e7604" sha1="3d51a346e5482f68a0feb75c2d3a61c5181e5473"/>
+		<rom name="Primal Rage (USA) (Track 20).bin" size="15280944" crc="79e5a550" md5="00437926f8062b9da5a04c0f0488ca7a" sha1="83c3d257573acb335b0966d672dcbcb38bef1250"/>
+		<rom name="Primal Rage (USA) (Track 21).bin" size="14831712" crc="45144e03" md5="04e9c8c5108177883232524252227f06" sha1="c2adb7ef9a068fbf8929f2fef078e66e4af7e461"/>
+		<rom name="Primal Rage (USA) (Track 22).bin" size="15170400" crc="aa830654" md5="7cfa5524635f080a4ac664378369e94f" sha1="2883a9b0ad0179f64184455df0ca3fe32bf1881b"/>
+		<rom name="Primal Rage (USA) (Track 23).bin" size="20177808" crc="c8fb785d" md5="a07ee37cf9bcf897d566b88ccfdf1c6e" sha1="699c9dbca0bda75011fce6fec9ffca37afc53332"/>
+		<rom name="Primal Rage (USA) (Track 24).bin" size="14269584" crc="bd63c02b" md5="6000d56c4768c184d02e853e74768a38" sha1="b96decc70525dfb9658a94b9cf08c530295d389b"/>
+		<rom name="Primal Rage (USA) (Track 25).bin" size="14434224" crc="f02c1742" md5="516c077640a86be8e3e67aa91adca4da" sha1="9b2419675c0f11bd8c718d2a07e1e06a2ec4dfa6"/>
+		<rom name="Primal Rage (USA) (Track 26).bin" size="13905024" crc="258865d5" md5="b7538010c0699ea97cf654521ed4f7d6" sha1="618f3ec4b15133f829cfb8758df67586e0aacbad"/>
+		<rom name="Primal Rage (USA) (Track 27).bin" size="15038688" crc="2889e2a7" md5="917ccd282113ff986bbaf6ca0f68d42b" sha1="d2b554992777b02de374d59f9501bf28b7b0ae7d"/>
+		<rom name="Primal Rage (USA) (Track 28).bin" size="15342096" crc="e08b7eea" md5="9b739c26fb70912b33c4c3a07d429d95" sha1="4a5f84ed59a0b064a6695d9e06a6baa84c2bbb68"/>
+		<rom name="Primal Rage (USA) (Track 29).bin" size="14187264" crc="3c294be5" md5="7a26f59f9c3d2f470793659551f07dab" sha1="8146b23b36af18ef0388ca73f53ea1ca6607de2c"/>
+		<rom name="Primal Rage (USA) (Track 30).bin" size="1053696" crc="dbe05c5f" md5="e78aa94045f80e6bb018e5a9d8b96390" sha1="21540baa18041738539c3953b5a3c3a4d0a24d44"/>
+		<rom name="Primal Rage (USA) (Track 31).bin" size="1404144" crc="1563c6e6" md5="bb97fece01f11e238d3c7d1a8588dc9c" sha1="102f05a3a6fe779f8a1e1a9074225f6156b4cd96"/>
+		<rom name="Primal Rage (USA) (Track 32).bin" size="51414720" crc="460100e8" md5="69718eb5eda01e6b7cde5e25f5dd00a4" sha1="4d3e67b954ccfbc1e47b149fbd3f0924af7b8355"/>
+		<rom name="Primal Rage (USA) (Track 33).bin" size="1401792" crc="5bd8c9c6" md5="26074ef2c96b52b5e74e610da83e31b3" sha1="3771429bca6f2af728835e40ddea92f60ce77af0"/>
+	</game>
+	<game name="Myst (USA) (Demo) (Alt)">
+		<category>Demos</category>
+		<description>Myst (USA) (Demo) (Alt)</description>
+		<rom name="Myst (USA) (Demo) (Alt).cue" size="514" crc="08d8224d" md5="a41174533853c1569443a61abb7c2c87" sha1="96edf8b9e6566b20d53b331ff0181229dc350c71"/>
+		<rom name="Myst (USA) (Demo) (Alt) (Track 1).bin" size="16739184" crc="2eac4300" md5="57b8a0440cd56195c4ec14a460bd9017" sha1="8d35c3059d314b18cc75236c3980ead27908e468"/>
+		<rom name="Myst (USA) (Demo) (Alt) (Track 2).bin" size="1053696" crc="ab7a025a" md5="d870aaebcfdb3df9c75034b4dfba3165" sha1="c21dd59753a821d39cf632ef3a48d25e8c01b6dd"/>
+		<rom name="Myst (USA) (Demo) (Alt) (Track 3).bin" size="62360928" crc="729577ad" md5="f70bbba2f9dd24610c7d1422fb881320" sha1="8c8e481df39aa0753ac3dd17f5868777299ba294"/>
+		<rom name="Myst (USA) (Demo) (Alt) (Track 4).bin" size="1401792" crc="89fae76f" md5="4c09ac9bad29efa2912f02f0b7033243" sha1="d72e974b7dd91c756dad885654476d031fbb13ef"/>
+	</game>
+</datafile>

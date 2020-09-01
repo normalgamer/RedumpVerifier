@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>funworld - Photo Play</name>
+		<description>funworld - Photo Play - Discs (3) (2020-01-21 18-23-57)</description>
+		<version>2020-01-21 18-23-57</version>
+		<date>2020-01-21 18-23-57</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Snake II (Europe)">
+		<category>Games</category>
+		<description>Snake II (Europe)</description>
+		<rom name="Snake II (Europe).cue" size="83" crc="5650129b" md5="d38144c3972efa5d43aa6dcfedf21f0a" sha1="567f80b1dc31b76558bce4c2f87d1ad831765d93"/>
+		<rom name="Snake II (Europe).bin" size="632302272" crc="ce91b76c" md5="a6b8687411419350cb0ac2dc4550f799" sha1="16603595c6821b845f83a42354a5c428cca44dac"/>
+	</game>
+	<game name="Change Your Games. Update 2001 (Europe) (Disc 1)">
+		<category>Games</category>
+		<description>Change Your Games. Update 2001 (Europe) (Disc 1)</description>
+		<rom name="Change Your Games. Update 2001 (Europe) (Disc 1).cue" size="114" crc="e203ab49" md5="7fb8de577635dee5a3889c381d6da334" sha1="ad6bfa4715f230cc39b7f48937481eaaa790cb4b"/>
+		<rom name="Change Your Games. Update 2001 (Europe) (Disc 1).bin" size="662826528" crc="e5cefa54" md5="08da900dc34e4cf136e87ae2fe5fb2ef" sha1="ed1e73f60bfb5b1608a3867f470941316e841a23"/>
+	</game>
+	<game name="Change Your Games. Update 2001 (Europe) (Disc 2)">
+		<category>Games</category>
+		<description>Change Your Games. Update 2001 (Europe) (Disc 2)</description>
+		<rom name="Change Your Games. Update 2001 (Europe) (Disc 2).cue" size="114" crc="e35e8d98" md5="0cc98ccff6fd6b820deeb051b76af7fc" sha1="3eb7c589873a96da3a7e311e338399722034ea2c"/>
+		<rom name="Change Your Games. Update 2001 (Europe) (Disc 2).bin" size="743728272" crc="cadd4990" md5="b72630754821190aa312bfcffffc70a9" sha1="5248881684b861b87ad66c3ec4bdeaf2bfe88b61"/>
+	</game>
+</datafile>

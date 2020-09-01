@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Arcade - Namco - Sega - Nintendo - Triforce</name>
+		<description>Arcade - Namco - Sega - Nintendo - Triforce - Discs (20) (2020-01-15 22-48-13)</description>
+		<version>2020-01-15 22-48-13</version>
+		<date>2020-01-15 22-48-13</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan) (Rev C)">
+		<category>Games</category>
+		<description>Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan) (Rev C)</description>
+		<rom name="Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan) (Rev C).cue" size="528" crc="c192d131" md5="45469b0781199851232201f5fac28c5e" sha1="0443686345f4d7aef0f0b545d2809f6dd9e4f0d1"/>
+		<rom name="Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan) (Rev C) (Track 1).bin" size="2090928" crc="bab170cb" md5="1600341dee522eeeb5e1e0d2e243ff78" sha1="a35c8d23b29e9544f0f477118f9e0468e1d8922a"/>
+		<rom name="Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan) (Rev C) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan) (Rev C) (Track 3).bin" size="1185760800" crc="4b830cd2" md5="d4466a737366d9547710c5dd928fd4a2" sha1="42d80cf0cf47ba382bd431115537dcc4713e483f"/>
+	</game>
+	<game name="TRF GDROM Boot Update (Japan)">
+		<category>Applications</category>
+		<description>TRF GDROM Boot Update (Japan)</description>
+		<rom name="TRF GDROM Boot Update (Japan).cue" size="381" crc="a608e211" md5="af4ff0d8af769c83c047931c2fbc8aed" sha1="4ec273487e69f4dabde8c572e0adefefc6199a95"/>
+		<rom name="TRF GDROM Boot Update (Japan) (Track 1).bin" size="1058400" crc="195a3b84" md5="e289b7e283f63e9e922e8ffb2c9629a8" sha1="17842e4044c7f15018301ee86dbc087a0ef93fc3"/>
+		<rom name="TRF GDROM Boot Update (Japan) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="TRF GDROM Boot Update (Japan) (Track 3).bin" size="1185760800" crc="389c43da" md5="f6c544107359ea96672a632e2bc38add" sha1="6c47202165009c173f5a70a851d6bdb5f383faef"/>
+	</game>
+	<game name="Virtua Striker 4 (Japan) (Rev E)">
+		<category>Games</category>
+		<description>Virtua Striker 4 (Japan) (Rev E)</description>
+		<rom name="Virtua Striker 4 (Japan) (Rev E).cue" size="390" crc="0e31040d" md5="febc5e4b6a293d6d33aab92f7e72f09a" sha1="a678e64b784ae42ba0eb44e80f6c17b2a29a7172"/>
+		<rom name="Virtua Striker 4 (Japan) (Rev E) (Track 1).bin" size="705600" crc="fc01913c" md5="a5056a5648c15256bdda9df4e1a9d6d4" sha1="151d3691ede197830e5784168e0b98443b996d2c"/>
+		<rom name="Virtua Striker 4 (Japan) (Rev E) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Virtua Striker 4 (Japan) (Rev E) (Track 3).bin" size="1185760800" crc="33d278d0" md5="aab71d5ab9c6a9c6ee2fc93686c79d7a" sha1="f378e17318e28cb22c2e3bc7ea6d0795421976ca"/>
+	</game>
+	<game name="Virtua Striker 2002 (Japan)">
+		<category>Games</category>
+		<description>Virtua Striker 2002 (Japan)</description>
+		<rom name="Virtua Striker 2002 (Japan).cue" size="375" crc="fed079ab" md5="bfb9499e557807ad4f8687d1092e5a09" sha1="cb89a3b9079da465b8cf597e34ed05fdbaf7cfea"/>
+		<rom name="Virtua Striker 2002 (Japan) (Track 1).bin" size="705600" crc="1b6d79fa" md5="d700c900c87c8b1ba22aaae8c1348a5a" sha1="350d0f8e329cbb889f2711ebcb11bc109698ca9b"/>
+		<rom name="Virtua Striker 2002 (Japan) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Virtua Striker 2002 (Japan) (Track 3).bin" size="1185760800" crc="f8de6b0e" md5="ae92425057826129c932aad141cb041c" sha1="4ea68e94dd13a713cdc2e57274f00592c5fa01ea"/>
+	</game>
+	<game name="Avalon no Kagi (Main) (Japan) (Rev A)">
+		<category>Games</category>
+		<description>Avalon no Kagi (Main) (Japan) (Rev A)</description>
+		<rom name="Avalon no Kagi (Main) (Japan) (Rev A).cue" size="405" crc="02636eef" md5="f9f9bbca527debf5244918bf2d93e82e" sha1="4a1d3f58d112010899eeedc822909c37c83367ed"/>
+		<rom name="Avalon no Kagi (Main) (Japan) (Rev A) (Track 1).bin" size="1058400" crc="1f3fd386" md5="c29a5e41e51f0b6ee7167987137609af" sha1="7850e85eff9bb2aec11695903f2fb58916d22b20"/>
+		<rom name="Avalon no Kagi (Main) (Japan) (Rev A) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Avalon no Kagi (Main) (Japan) (Rev A) (Track 3).bin" size="1185760800" crc="c43527d8" md5="dd28fac777eef7f8781b389b21d55c16" sha1="567d316c7caa4220d731c110c439dbf23123c0b6"/>
+	</game>
+	<game name="Avalon no Kagi (Main) (Japan) (Rev C)">
+		<category>Games</category>
+		<description>Avalon no Kagi (Main) (Japan) (Rev C)</description>
+		<rom name="Avalon no Kagi (Main) (Japan) (Rev C).cue" size="405" crc="20088433" md5="5b9eb06c9a57cc2c8556f61a91e23316" sha1="de7d374c3ce24219467b9024031c0133474391c5"/>
+		<rom name="Avalon no Kagi (Main) (Japan) (Rev C) (Track 1).bin" size="1058400" crc="1917a3a2" md5="f9f01bab30ca073023f69f64f78def6a" sha1="527b4cf27ad6f0ead3c98cc02c1c10aa835e68e9"/>
+		<rom name="Avalon no Kagi (Main) (Japan) (Rev C) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Avalon no Kagi (Main) (Japan) (Rev C) (Track 3).bin" size="1185760800" crc="62e25e96" md5="d2d5e8abcc7724e4f7c2a060bd5f6d4a" sha1="01805773a8e029777fa7c7cd59a20715ce93535c"/>
+	</game>
+	<game name="Avalon no Kagi (Main) (Japan) (Rev F)">
+		<category>Games</category>
+		<description>Avalon no Kagi (Main) (Japan) (Rev F)</description>
+		<rom name="Avalon no Kagi (Main) (Japan) (Rev F).cue" size="405" crc="75eaa4e5" md5="25f80ff1f5ee90c572049fcc9b4c052e" sha1="382a146c255f051d177f8b3a71465868988bef6f"/>
+		<rom name="Avalon no Kagi (Main) (Japan) (Rev F) (Track 1).bin" size="1058400" crc="58d434af" md5="681732f44e27783843b694802d4ad6d1" sha1="62cc17d2ddc140fc575ebd8adf8cedcd7ce67da5"/>
+		<rom name="Avalon no Kagi (Main) (Japan) (Rev F) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Avalon no Kagi (Main) (Japan) (Rev F) (Track 3).bin" size="1185760800" crc="10eb434e" md5="a253a28af59e72928cd7f99af5c84a21" sha1="9127ce397226ffd7eabdc832254aabc4b84f1844"/>
+	</game>
+	<game name="Avalon no Kagi (Main) (Japan) (Rev G)">
+		<category>Games</category>
+		<description>Avalon no Kagi (Main) (Japan) (Rev G)</description>
+		<rom name="Avalon no Kagi (Main) (Japan) (Rev G).cue" size="405" crc="64df518b" md5="dc438d8c25d6150d51964207b0e849e4" sha1="d1d6f6cd6e21afa85e2c44410da677c1b16f5869"/>
+		<rom name="Avalon no Kagi (Main) (Japan) (Rev G) (Track 1).bin" size="1058400" crc="db79b61b" md5="c53e231ff13be9512cb635057e57dc0f" sha1="d6ae195107851d1ae19b5e5cb56849cbbea7cabf"/>
+		<rom name="Avalon no Kagi (Main) (Japan) (Rev G) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Avalon no Kagi (Main) (Japan) (Rev G) (Track 3).bin" size="1185760800" crc="a6081af7" md5="5473fba762c8383aafc36f231a1e94e3" sha1="28695581429bc7d14e3c7d0f5e7b78cdca5d3d80"/>
+	</game>
+	<game name="Avalon no Kagi (Satellite) (Japan) (Rev A)">
+		<category>Games</category>
+		<description>Avalon no Kagi (Satellite) (Japan) (Rev A)</description>
+		<rom name="Avalon no Kagi (Satellite) (Japan) (Rev A).cue" size="420" crc="b4f1ac50" md5="dc32ae552ca989e1d986d55a521419ee" sha1="d8dc8941009baedca2a0260127afc1339b4f2378"/>
+		<rom name="Avalon no Kagi (Satellite) (Japan) (Rev A) (Track 1).bin" size="1058400" crc="f40be8f1" md5="c5b89f758e28984e032e62f7e73e0544" sha1="c4344041505a1e7592514aa1d7ae85b78bc180a5"/>
+		<rom name="Avalon no Kagi (Satellite) (Japan) (Rev A) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Avalon no Kagi (Satellite) (Japan) (Rev A) (Track 3).bin" size="1185760800" crc="afa00174" md5="bed168c12f277f727858d578a84699c8" sha1="b3d2ee5018165d36bd06dd6c5a487550a25b2c2a"/>
+	</game>
+	<game name="Avalon no Kagi (Satellite) (Japan) (Rev C)">
+		<category>Games</category>
+		<description>Avalon no Kagi (Satellite) (Japan) (Rev C)</description>
+		<rom name="Avalon no Kagi (Satellite) (Japan) (Rev C).cue" size="420" crc="614466cc" md5="bdd020f766f3efda6d2cab5bca1fdaf1" sha1="308e94147186068497f8b30fc1fd8940fa88ad1b"/>
+		<rom name="Avalon no Kagi (Satellite) (Japan) (Rev C) (Track 1).bin" size="1058400" crc="0e6bdbb7" md5="c254add20fa6b8827b4544bb65335a02" sha1="9aba23f268492015874cf50012c541d786eb1fee"/>
+		<rom name="Avalon no Kagi (Satellite) (Japan) (Rev C) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Avalon no Kagi (Satellite) (Japan) (Rev C) (Track 3).bin" size="1185760800" crc="1f8c51f4" md5="8b5366ec1a0886031b2d14b7f7fc65aa" sha1="55b69b5cede6a065fe38023d5ccf909108d015ee"/>
+	</game>
+	<game name="Avalon no Kagi (Satellite) (Japan) (Rev F)">
+		<category>Games</category>
+		<description>Avalon no Kagi (Satellite) (Japan) (Rev F)</description>
+		<rom name="Avalon no Kagi (Satellite) (Japan) (Rev F).cue" size="420" crc="7b8410fb" md5="a1bd41e706fd69e097fb5886e135bb08" sha1="c7db9d915664ebf0aee907f6b64c2bc62c2b4ba9"/>
+		<rom name="Avalon no Kagi (Satellite) (Japan) (Rev F) (Track 1).bin" size="1058400" crc="27cc8991" md5="a7ed0404dff3aacbe096df6f15136826" sha1="6b794e0f657dafd4b2aee042211377a65c4b86dd"/>
+		<rom name="Avalon no Kagi (Satellite) (Japan) (Rev F) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Avalon no Kagi (Satellite) (Japan) (Rev F) (Track 3).bin" size="1185760800" crc="59b80931" md5="0b172446df0f3c5e00e4d05275a4d357" sha1="4c6924519d7a7a68796f368dbbd02506822f4a56"/>
+	</game>
+	<game name="Avalon no Kagi (Main) (Japan) (Rev E)">
+		<category>Games</category>
+		<description>Avalon no Kagi (Main) (Japan) (Rev E)</description>
+		<rom name="Avalon no Kagi (Main) (Japan) (Rev E).cue" size="405" crc="46b4bb57" md5="3a2461359b2151943bb0546df03963ae" sha1="9985418e1eb4e39109b77d7db601da395727a952"/>
+		<rom name="Avalon no Kagi (Main) (Japan) (Rev E) (Track 1).bin" size="1058400" crc="353a9e36" md5="75cf789308aa6060344018a29cc81069" sha1="496740b4382dedb0ace9a8331332ed0e58a7ba76"/>
+		<rom name="Avalon no Kagi (Main) (Japan) (Rev E) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Avalon no Kagi (Main) (Japan) (Rev E) (Track 3).bin" size="1185760800" crc="6f80c4e7" md5="555bf39aa92425701c42565a97c844bc" sha1="9c33b89c51f72dfc6824a34e38e178efa933ff62"/>
+	</game>
+	<game name="Avalon no Kagi Ni - Kagi Seisen (Main) (Japan) (Rev A)">
+		<category>Games</category>
+		<description>Avalon no Kagi Ni - Kagi Seisen (Main) (Japan) (Rev A)</description>
+		<rom name="Avalon no Kagi Ni - Kagi Seisen (Main) (Japan) (Rev A).cue" size="456" crc="58b46df5" md5="8c990ba6937647cf397509def4eab958" sha1="da760f116c7e9e61649795778021ffe109199d3b"/>
+		<rom name="Avalon no Kagi Ni - Kagi Seisen (Main) (Japan) (Rev A) (Track 1).bin" size="1058400" crc="a3d787a0" md5="91d473eb3de3fcfd1b4d491db7bc567d" sha1="237b5ff82270a2c6fb09421b7c20647c63838379"/>
+		<rom name="Avalon no Kagi Ni - Kagi Seisen (Main) (Japan) (Rev A) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Avalon no Kagi Ni - Kagi Seisen (Main) (Japan) (Rev A) (Track 3).bin" size="1185760800" crc="bb3a372c" md5="2c2a8210df4b81009f8f5257f321682a" sha1="3a6346ab9cbd03cd3f0cb92e4dea433377f66cb2"/>
+	</game>
+	<game name="Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev A)">
+		<category>Games</category>
+		<description>Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev A)</description>
+		<rom name="Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev A).cue" size="471" crc="635dd24c" md5="f3c71899b75c35df34ec81206a51cd40" sha1="8dd09a45883cb4c856d1c85f8a464bde7ab26d04"/>
+		<rom name="Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev A) (Track 1).bin" size="1058400" crc="69570d1c" md5="1621622ea0f085876bc5f73471c43e0d" sha1="ddcfe31a7aa4ec9dce35f5e701c6369a71f90633"/>
+		<rom name="Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev A) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev A) (Track 3).bin" size="1185760800" crc="f1d1812c" md5="fc5a630d35147d657dfc48c9b7624dbf" sha1="74cd6970556df3dbccefa4e1022d940d5ab55ec1"/>
+	</game>
+	<game name="Virtua Striker 4 (World)">
+		<category>Games</category>
+		<description>Virtua Striker 4 (World)</description>
+		<rom name="Virtua Striker 4 (World).cue" size="366" crc="7c8a397a" md5="082266c9f248046d3a0d7c6272ebf9f1" sha1="bb024ab82de53447e7485a84a9f0ae633edb4c02"/>
+		<rom name="Virtua Striker 4 (World) (Track 1).bin" size="705600" crc="4b2ab822" md5="54fa5f075511e2b9fedcb50c0c85e5a9" sha1="a5864a4de7bdc8b176a8021729187de57533a49d"/>
+		<rom name="Virtua Striker 4 (World) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Virtua Striker 4 (World) (Track 3).bin" size="1185760800" crc="00a4cf9a" md5="95f1b12260d76194c9e9f59c96cfd546" sha1="d7f2ade8d3a0b67f7110f234819a5bbe708e7436"/>
+	</game>
+	<game name="Virtua Striker 2002 (World)">
+		<category>Games</category>
+		<description>Virtua Striker 2002 (World)</description>
+		<rom name="Virtua Striker 2002 (World).cue" size="375" crc="6320a98d" md5="70ff9c868ea117bae449545767014e6f" sha1="e41b877008e8dc13e2c3cee7997624c1ab053e23"/>
+		<rom name="Virtua Striker 2002 (World) (Track 1).bin" size="705600" crc="5b21dede" md5="5061295ab8c25efbeca24abd57f975d7" sha1="1526dbdbc204b5be2f5d55a80e1ae9104db4d047"/>
+		<rom name="Virtua Striker 2002 (World) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Virtua Striker 2002 (World) (Track 3).bin" size="1185760800" crc="28f68b49" md5="b6e19372efe020a42dbe62a4c7ac9e05" sha1="0004cbb9aa041c3be3eed83af71a7c0cba7f60a4"/>
+	</game>
+	<game name="Virtua Striker 4 (Asia)">
+		<category>Games</category>
+		<description>Virtua Striker 4 (Asia)</description>
+		<rom name="Virtua Striker 4 (Asia).cue" size="363" crc="bad67a1c" md5="14697b1f9d8700d868ebff99f13793f4" sha1="be25ccb7e9b1c57057bb2957f48d14003ab69d44"/>
+		<rom name="Virtua Striker 4 (Asia) (Track 1).bin" size="705600" crc="12a3895d" md5="daa948090992f32bfd9ca8f718a0a6d7" sha1="ab95743a0d44a603713597063ff0bddc6c8e852a"/>
+		<rom name="Virtua Striker 4 (Asia) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Virtua Striker 4 (Asia) (Track 3).bin" size="1185760800" crc="ca986bb9" md5="c52e23b0d0856093c56687655105046a" sha1="20af71a8ae350ab143cb7bbf5aa4c207af0d2b9e"/>
+	</game>
+	<game name="Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev B)">
+		<category>Games</category>
+		<description>Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev B)</description>
+		<rom name="Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev B).cue" size="471" crc="ec639fa1" md5="a458b7fa7720b29b355136cc3eb3fd08" sha1="af8a25eb0b9b91dd85dfb76ea570d0eccd00e93b"/>
+		<rom name="Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev B) (Track 1).bin" size="1058400" crc="f6a362b2" md5="ee23108acd2d76fa21cd55e9966d69fc" sha1="56fc6bf555ac74c658cac99e7fd8e9a55eb18312"/>
+		<rom name="Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev B) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev B) (Track 3).bin" size="1185760800" crc="1bf3ef1b" md5="f1fefb6e0fba5b1805960d275ed9b734" sha1="e0daadc2be4656070e5a1029e24c78d9cb8bf29d"/>
+	</game>
+	<game name="Virtua Striker 4 Ver. 2006 (Japan) (Rev B)">
+		<category>Games</category>
+		<description>Virtua Striker 4 Ver. 2006 (Japan) (Rev B)</description>
+		<rom name="Virtua Striker 4 Ver. 2006 (Japan) (Rev B).cue" size="420" crc="199afccd" md5="d8f46e18a5134c37c75b703bc1def61c" sha1="a2ad3c7fbd6dae5f5978c1318a9102cfa8877e09"/>
+		<rom name="Virtua Striker 4 Ver. 2006 (Japan) (Rev B) (Track 1).bin" size="705600" crc="201ed31b" md5="2ba9da122267a516d5c7c752eb2e5fd6" sha1="27dda7e106aec20aae8da274c94aa6f7e3ed3c08"/>
+		<rom name="Virtua Striker 4 Ver. 2006 (Japan) (Rev B) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Virtua Striker 4 Ver. 2006 (Japan) (Rev B) (Track 3).bin" size="1185760800" crc="35fcf311" md5="98a052e22f1f5d1c3e13617b80672690" sha1="712823c0aec1c6bbc9c332c3a73340ee87d54f6a"/>
+	</game>
+	<game name="Virtua Striker 4 Ver. 2006 (Japan) (Rev D)">
+		<category>Games</category>
+		<description>Virtua Striker 4 Ver. 2006 (Japan) (Rev D)</description>
+		<rom name="Virtua Striker 4 Ver. 2006 (Japan) (Rev D).cue" size="420" crc="bc35a528" md5="ee63ca470f5ca83106dce5469b380a65" sha1="ee43aadc27c194caf6286f68090dfb6cc7780ace"/>
+		<rom name="Virtua Striker 4 Ver. 2006 (Japan) (Rev D) (Track 1).bin" size="705600" crc="2e35f5e6" md5="6b1bd807aa10ea192a8d1b77ba0f5343" sha1="7503da8b83f7a37a6533a8651cb3dc3532007adc"/>
+		<rom name="Virtua Striker 4 Ver. 2006 (Japan) (Rev D) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Virtua Striker 4 Ver. 2006 (Japan) (Rev D) (Track 3).bin" size="1185760800" crc="8708b155" md5="d860ab377ba10760072263708ae11f87" sha1="f6cd3117675f13b1f1f4176a61c0eb70afcacf5f"/>
+	</game>
+</datafile>

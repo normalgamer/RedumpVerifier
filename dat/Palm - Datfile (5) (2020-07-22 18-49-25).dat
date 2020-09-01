@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Palm</name>
+		<description>Palm - Discs (5) (2020-07-22 18-49-25)</description>
+		<version>2020-07-22 18-49-25</version>
+		<date>2020-07-22 18-49-25</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Bomberman for Palm OS (Japan)">
+		<category>Games</category>
+		<description>Bomberman for Palm OS (Japan)</description>
+		<rom name="Bomberman for Palm OS (Japan).cue" size="95" crc="5e0443c7" md5="b19fbd1c6fb4cbec76aa294df635e5e7" sha1="3db12d176d1492db05a5a73fd3dca2fe81607169"/>
+		<rom name="Bomberman for Palm OS (Japan).bin" size="3017616" crc="df397ec7" md5="0fe5a769d9f8c11b9f8d564c02745ef3" sha1="1031c56e8991871aa0e8e0f0731f458247afceb7"/>
+	</game>
+	<game name="Puzzle Bobble for Palm (Japan)">
+		<category>Games</category>
+		<description>Puzzle Bobble for Palm (Japan)</description>
+		<rom name="Puzzle Bobble for Palm (Japan).cue" size="96" crc="967212dd" md5="c327b5a6222d20641c562a6ef352a93d" sha1="aba2759cd138032a700b932c43d15dc17c3421d7"/>
+		<rom name="Puzzle Bobble for Palm (Japan).bin" size="88658640" crc="79a6460c" md5="8ba31e7258ec67e61467de4acec97c22" sha1="3204ab9413d287b40b0b846988b97ad5f32879b0"/>
+	</game>
+	<game name="Tetris Classic Game Pak (USA)">
+		<category>Games</category>
+		<description>Tetris Classic Game Pak (USA)</description>
+		<release name="Tetris Classic Game Pak (USA)" region="USA"/>
+		<rom name="Tetris Classic Game Pak (USA).cue" size="95" crc="78ebea86" md5="9a34f54d9c498f564f560834885efe9d" sha1="bb1ae46977ab47ab1fd348119c181112f4761ac6"/>
+		<rom name="Tetris Classic Game Pak (USA).bin" size="398830992" crc="b8f7c905" md5="3a6706f83e2cbd87df86b105633ec217" sha1="d211f650496992146eb6d34ffe1e47a9d2cdc917"/>
+	</game>
+	<game name="Rayman (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Rayman (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Rayman (Europe) (En,Fr,De,Es,It).cue" size="98" crc="4c99236f" md5="462d51a69ec150d637b1fe4ee3220594" sha1="ee1f51249f334190ed8c057d491d24a2ba4bd0c0"/>
+		<rom name="Rayman (Europe) (En,Fr,De,Es,It).bin" size="34988352" crc="1a979d0c" md5="5231bce039ada328ee3eb1ff6946de11" sha1="38f3d586095ae142952ed638c9aaa15b2cc2a0b8"/>
+	</game>
+	<game name="200+ Palm Games (USA)">
+		<category>Games</category>
+		<description>200+ Palm Games (USA)</description>
+		<rom name="200+ Palm Games (USA).cue" size="87" crc="331c6ae9" md5="ea576d76c3a213b91119832025b54cc7" sha1="28e3c5253ff9e51afb0bf2af7c7a55ae1d710e23"/>
+		<rom name="200+ Palm Games (USA).bin" size="65514960" crc="bf5b1340" md5="f22ce3ba46200996170e78d66cd55394" sha1="f77854dc3f604b611e12f769c97c7b54576672e0"/>
+	</game>
+</datafile>
