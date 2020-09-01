@@ -1,5 +1,5 @@
 # RedumpVerifier
-This script verifies Gamecube and Wii ISOs against the Redump hashes
+This script verifies Gamecube and Wii ISOs against the Redump hashes. Python 3 is needed to run it.
 
 ## Changelog
 
