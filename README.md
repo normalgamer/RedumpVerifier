@@ -1,5 +1,5 @@
 # RedumpVerifier
-This script verifies game ISOs against the Redump hashes. Python 3 is needed to run it.
+This script verifies game ISOs against the Redump hashes. It supports all the systems with downloadable dats plus the Wii dat, which is missing a few ISOs. Python 3 is needed to run it.
 
 ## Changelog
 v1.3 - Fixed dat typo
