@@ -6,7 +6,7 @@ v1.4 - You no longer need to select the system
 
 v1.3 - Fixed dat typo,
 
-MD5 hash is now displayed even if it doesn't match a Redump hash
+       MD5 hash is now displayed even if it doesn't match a Redump hash
 
 v1.2 - Added support for all the platforms in the Redump dats
 
