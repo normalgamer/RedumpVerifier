@@ -2,6 +2,8 @@
 This script verifies game ISOs against the Redump hashes. It supports all the systems with downloadable dats plus the Wii dat, which is missing a few ISOs. Python 3 is needed to run it. [Download latest release](https://github.com/normalgamer/RedumpVerifier/releases/latest).
 
 ## Changelog
+- 1.4.3: Code cleanup (rather than opening the dat 3 times (noice), open it once and do everything)
+
 - v1.4.2b: Changed version number (I forgot on the previous 2)
 
 - v1.4.2: Updated Wii dat (old: 2020/05, new: 2020/11)
