@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Palm</name>
+		<description>Palm - Discs (11) (2020-10-16 10-28-41)</description>
+		<version>2020-10-16 10-28-41</version>
+		<date>2020-10-16 10-28-41</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Bomberman for Palm OS (Japan)">
+		<category>Games</category>
+		<description>Bomberman for Palm OS (Japan)</description>
+		<rom name="Bomberman for Palm OS (Japan).cue" size="95" crc="5e0443c7" md5="b19fbd1c6fb4cbec76aa294df635e5e7" sha1="3db12d176d1492db05a5a73fd3dca2fe81607169"/>
+		<rom name="Bomberman for Palm OS (Japan).bin" size="3017616" crc="df397ec7" md5="0fe5a769d9f8c11b9f8d564c02745ef3" sha1="1031c56e8991871aa0e8e0f0731f458247afceb7"/>
+	</game>
+	<game name="Tetris Classic Game Pak (USA)">
+		<category>Games</category>
+		<description>Tetris Classic Game Pak (USA)</description>
+		<release name="Tetris Classic Game Pak (USA)" region="USA"/>
+		<rom name="Tetris Classic Game Pak (USA).cue" size="95" crc="78ebea86" md5="9a34f54d9c498f564f560834885efe9d" sha1="bb1ae46977ab47ab1fd348119c181112f4761ac6"/>
+		<rom name="Tetris Classic Game Pak (USA).bin" size="398830992" crc="b8f7c905" md5="3a6706f83e2cbd87df86b105633ec217" sha1="d211f650496992146eb6d34ffe1e47a9d2cdc917"/>
+	</game>
+	<game name="Rayman (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Rayman (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Rayman (Europe) (En,Fr,De,Es,It).cue" size="98" crc="4c99236f" md5="462d51a69ec150d637b1fe4ee3220594" sha1="ee1f51249f334190ed8c057d491d24a2ba4bd0c0"/>
+		<rom name="Rayman (Europe) (En,Fr,De,Es,It).bin" size="34988352" crc="1a979d0c" md5="5231bce039ada328ee3eb1ff6946de11" sha1="38f3d586095ae142952ed638c9aaa15b2cc2a0b8"/>
+	</game>
+	<game name="200+ Palm Games (USA)">
+		<category>Games</category>
+		<description>200+ Palm Games (USA)</description>
+		<rom name="200+ Palm Games (USA).cue" size="87" crc="331c6ae9" md5="ea576d76c3a213b91119832025b54cc7" sha1="28e3c5253ff9e51afb0bf2af7c7a55ae1d710e23"/>
+		<rom name="200+ Palm Games (USA).bin" size="65514960" crc="bf5b1340" md5="f22ce3ba46200996170e78d66cd55394" sha1="f77854dc3f604b611e12f769c97c7b54576672e0"/>
+	</game>
+	<game name="BT Mahjong for PalmOS (Japan)">
+		<category>Games</category>
+		<description>BT Mahjong for PalmOS (Japan)</description>
+		<rom name="BT Mahjong for PalmOS (Japan).cue" size="95" crc="211515fc" md5="6f209156d257f7f82847561925777478" sha1="51193a09cfc95dc288623a4a704aa2dc5aade078"/>
+		<rom name="BT Mahjong for PalmOS (Japan).bin" size="1413552" crc="d4c5b878" md5="4045f0abb95f9ee5877d8f0103e88df6" sha1="231c10a43c36872088b942d4cfe7521cefe5fb3c"/>
+	</game>
+	<game name="Golf (Japan)">
+		<category>Games</category>
+		<description>Golf (Japan)</description>
+		<rom name="Golf (Japan).cue" size="78" crc="67e2c540" md5="b709512b8a546382466c76ccc11124cc" sha1="6c3efe736ffc26240de639e4ad25987d7cabab38"/>
+		<rom name="Golf (Japan).bin" size="5273184" crc="5c3f4ef7" md5="5fc2ef732f82dbb747ffaf42853c0ee1" sha1="b827a2d710c839cb8e977058b643462fb4db6c02"/>
+	</game>
+	<game name="Palm Hanafuda (Japan)">
+		<category>Games</category>
+		<description>Palm Hanafuda (Japan)</description>
+		<rom name="Palm Hanafuda (Japan).cue" size="87" crc="6bbc5e3b" md5="2d9ae386a9db237c34f0ffa3823f6c7c" sha1="18a7d0a59c65251f6fb2e77ea64aae645b008e6f"/>
+		<rom name="Palm Hanafuda (Japan).bin" size="3974880" crc="2c88a23d" md5="2b6ca0da5f37054d9afa31d08473d1aa" sha1="c36917e9c55db8cc81fab68fbb29f9765554a575"/>
+	</game>
+	<game name="Palm Mahjong (Japan)">
+		<category>Games</category>
+		<description>Palm Mahjong (Japan)</description>
+		<rom name="Palm Mahjong (Japan).cue" size="86" crc="d203bd99" md5="58d5b9069d33435956549226ea46ef13" sha1="7e467386fd9a1b1f9bbe123d207f784552deb03d"/>
+		<rom name="Palm Mahjong (Japan).bin" size="7058352" crc="1fbc20e8" md5="cceec3fc39fd48990a9141e67c6f5125" sha1="7abbe43ad9291f092571c3a283a9d6016ac5c0f6"/>
+	</game>
+	<game name="Puzzle Bobble for Palm (Japan)">
+		<category>Games</category>
+		<description>Puzzle Bobble for Palm (Japan)</description>
+		<rom name="Puzzle Bobble for Palm (Japan).cue" size="96" crc="967212dd" md5="c327b5a6222d20641c562a6ef352a93d" sha1="aba2759cd138032a700b932c43d15dc17c3421d7"/>
+		<rom name="Puzzle Bobble for Palm (Japan).bin" size="88658640" crc="9790cfb6" md5="22e77863337aef15d1809142bd51cfe8" sha1="058ba3113c27db0274dd12c32a709c8e43896cd6"/>
+	</game>
+	<game name="Afro Ken Graffiti - Tenohira Size ni mo Naru (Japan)">
+		<category>Games</category>
+		<description>Afro Ken Graffiti - Tenohira Size ni mo Naru (Japan)</description>
+		<rom name="Afro Ken Graffiti - Tenohira Size ni mo Naru (Japan).cue" size="118" crc="af436022" md5="eefcc1f6f10f4d98d23a1c3a829aaee1" sha1="34128f240ac5290d66e75c9a57bfad7b4f400f0d"/>
+		<rom name="Afro Ken Graffiti - Tenohira Size ni mo Naru (Japan).bin" size="5555424" crc="1aaa3aaa" md5="b6ba0986105ff4b3804637b521fb631d" sha1="cf1fcac4d57527521c7a2134a1922c8b6c0b4588"/>
+	</game>
+	<game name="Rayman (USA)">
+		<category>Games</category>
+		<description>Rayman (USA)</description>
+		<rom name="Rayman (USA).cue" size="78" crc="74ad1b1b" md5="d2a97c5444669031d9d1d4985a6d6896" sha1="8fbfed4e8e6c0136a67c5d694c32772e31f42f24"/>
+		<rom name="Rayman (USA).bin" size="36244320" crc="324951c5" md5="9dc630e2ebd3a91b811854774f91e24b" sha1="f1f7608e186994e2ef10b4e079ed71c275d2e2f6"/>
+	</game>
+</datafile>

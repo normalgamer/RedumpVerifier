@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>VTech - V.Flash &amp; V.Smile Pro</name>
+		<description>VTech - V.Flash &amp; V.Smile Pro - Discs (37) (2020-09-18 14-28-58)</description>
+		<version>2020-09-18 14-28-58</version>
+		<date>2020-09-18 14-28-58</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Incredibles, The - Mission Incredible (USA)">
+		<category>Games</category>
+		<description>Incredibles, The - Mission Incredible (USA)</description>
+		<rom name="Incredibles, The - Mission Incredible (USA).cue" size="109" crc="c6212a97" md5="a393eb1485ff0f707fa0ff031a956bdf" sha1="6b6bc9877ea95585be81caf6b15151ecdbd4e4a6"/>
+		<rom name="Incredibles, The - Mission Incredible (USA).bin" size="358705872" crc="8fffffeb" md5="7be97725dff4fdd59bb26c6305dc0edf" sha1="859bab005788a5c23bb7c40c0e729eed04da6750"/>
+	</game>
+	<game name="Amazing Spider-Man, The - Countdown to Doom (USA) (Rev 1)">
+		<category>Games</category>
+		<description>Amazing Spider-Man, The - Countdown to Doom (USA) (Rev 1)</description>
+		<rom name="Amazing Spider-Man, The - Countdown to Doom (USA) (Rev 1).cue" size="123" crc="3b8bdc09" md5="2f4560a3449c4e8d7a2e56c6d510c45c" sha1="48c13ac40dbb09850d5cc9e1ec90b9edf5ff6110"/>
+		<rom name="Amazing Spider-Man, The - Countdown to Doom (USA) (Rev 1).bin" size="377164368" crc="1e971cfe" md5="63b755c424376ed5001cb16585f66c8b" sha1="f8e5886d0821478db7596c4fa0a23cb01f8d606b"/>
+	</game>
+	<game name="Bratz - Fashion Pixiez - The Secret Necklace (USA)">
+		<category>Games</category>
+		<description>Bratz - Fashion Pixiez - The Secret Necklace (USA)</description>
+		<rom name="Bratz - Fashion Pixiez - The Secret Necklace (USA).cue" size="116" crc="3b839ef9" md5="d2bb33ce80501cfc6107cb99e1d32743" sha1="e684b48f76a3710e4402db993c21882f0aa92fb1"/>
+		<rom name="Bratz - Fashion Pixiez - The Secret Necklace (USA).bin" size="559354992" crc="46e8e1fd" md5="ee5ea1200d6077c11171ad918a5bc81e" sha1="d63b998729e990ceb7f1fa3842fd1c9e58f57bbe"/>
+	</game>
+	<game name="Disney Princess - The Crystal Ball Adventure (USA)">
+		<category>Games</category>
+		<description>Disney Princess - The Crystal Ball Adventure (USA)</description>
+		<rom name="Disney Princess - The Crystal Ball Adventure (USA).cue" size="116" crc="093460b9" md5="01a183d9af7d7948cdd42aa318938839" sha1="57d150380b1210df4901113cbaa620f3860932c6"/>
+		<rom name="Disney Princess - The Crystal Ball Adventure (USA).bin" size="470098944" crc="49f568d1" md5="89da78bb92eeba6235cf27956c658cf3" sha1="b5dd0d446da323db37b671a06d14ba4d6a900ea7"/>
+	</game>
+	<game name="Nickelodeon SpongeBob SquarePants - Idea Sponge (USA) (Rev 2)">
+		<category>Games</category>
+		<description>Nickelodeon SpongeBob SquarePants - Idea Sponge (USA) (Rev 2)</description>
+		<rom name="Nickelodeon SpongeBob SquarePants - Idea Sponge (USA) (Rev 2).cue" size="127" crc="d99e21ba" md5="febc3ea819ab5e15d3405d8c736eacc4" sha1="cddfd0e74e8bad170abeca30e1a76674f272d156"/>
+		<rom name="Nickelodeon SpongeBob SquarePants - Idea Sponge (USA) (Rev 2).bin" size="373038960" crc="f3dcd059" md5="a5e9a13e2cd70e40c724fd79c96a28c2" sha1="bc70d3a4017b6282bea065e4ed8a05c601471069"/>
+	</game>
+	<game name="Scooby-Doo! Ancient Adventure (USA) (Rev 1)">
+		<category>Games</category>
+		<description>Scooby-Doo! Ancient Adventure (USA) (Rev 1)</description>
+		<rom name="Scooby-Doo! Ancient Adventure (USA) (Rev 1).cue" size="109" crc="91facd96" md5="75e1f4d95f10a16ead360813cfb24929" sha1="ae284ce6d797b88feca7d51266fd0166e9ba29d1"/>
+		<rom name="Scooby-Doo! Ancient Adventure (USA) (Rev 1).bin" size="638582112" crc="d6d3c531" md5="df166d1c3ba243a372264b18c28730b3" sha1="24e753c394d8a6d9aed462be4c0c2b41dd6e79e6"/>
+	</game>
+	<game name="Wacky Race on Jumpin' Bean Island (USA) (Rev 3)">
+		<category>Games</category>
+		<description>Wacky Race on Jumpin' Bean Island (USA) (Rev 3)</description>
+		<rom name="Wacky Race on Jumpin' Bean Island (USA) (Rev 3).cue" size="113" crc="4ffe1356" md5="5eb207d93cb170a32257e7c0a517a4f1" sha1="a52b6679c97e43a21568d00f408447600d967210"/>
+		<rom name="Wacky Race on Jumpin' Bean Island (USA) (Rev 3).bin" size="394752624" crc="6af8435e" md5="f438c0f7a042be1bf7db03de5778561c" sha1="b643d8fd3f0f46459d2313e2c256bc6b5f33fd54"/>
+	</game>
+	<game name="Amazing Spider-Man, The - Countdown to Doom (USA) (Rev 2)">
+		<category>Games</category>
+		<description>Amazing Spider-Man, The - Countdown to Doom (USA) (Rev 2)</description>
+		<rom name="Amazing Spider-Man, The - Countdown to Doom (USA) (Rev 2).cue" size="123" crc="3ad6fad8" md5="d12b344dec26285677f9519326ac26ae" sha1="1c1d7b93145a4458e7b9feacbe56d919ca9983fa"/>
+		<rom name="Amazing Spider-Man, The - Countdown to Doom (USA) (Rev 2).bin" size="377178480" crc="8b81146a" md5="a3f58172b73a46fc256e9fe04f1ee8aa" sha1="eb1627908b34bedfab60d61088d5ff67069ffb48"/>
+	</game>
+	<game name="Cars - In the Fast Lane (USA)">
+		<category>Games</category>
+		<description>Cars - In the Fast Lane (USA)</description>
+		<rom name="Cars - In the Fast Lane (USA).cue" size="95" crc="7ec4f616" md5="407bdb49d4e6bbbeab2d9134b1558e25" sha1="4da9155117691562c10e53e90d710ed6842c3980"/>
+		<rom name="Cars - In the Fast Lane (USA).bin" size="506049264" crc="b4ef6bf0" md5="ae13989512cf59cc86429155fb6ef6f7" sha1="0df1c4b019aad47bcf78fcb8124ec7c5af1ca752"/>
+	</game>
+	<game name="Cars - In the Fast Lane (USA) (Rev 3)">
+		<category>Games</category>
+		<description>Cars - In the Fast Lane (USA) (Rev 3)</description>
+		<rom name="Cars - In the Fast Lane (USA) (Rev 3).cue" size="103" crc="c18ddf78" md5="c8bac0120ebdfe8f0e786fee636d5aad" sha1="94d48432374788b61c6b8ccf942fac806228a2ed"/>
+		<rom name="Cars - In the Fast Lane (USA) (Rev 3).bin" size="505884624" crc="27f1e33f" md5="bff9c53e5d77eeae9b2217819129a4ea" sha1="73676fed26539ad7d770cb7950de80ed9467b3e4"/>
+	</game>
+	<game name="Wacky Race on Jumpin' Bean Island (USA) (Rev 2)">
+		<category>Games</category>
+		<description>Wacky Race on Jumpin' Bean Island (USA) (Rev 2)</description>
+		<rom name="Wacky Race on Jumpin' Bean Island (USA) (Rev 2).cue" size="113" crc="f9e5f326" md5="99d10a1e4c187852e814bcf53c45098e" sha1="c153a2c5a8095b5c8a297afef88f16cbd3e597ff"/>
+		<rom name="Wacky Race on Jumpin' Bean Island (USA) (Rev 2).bin" size="394651488" crc="fd17a03c" md5="8548f0914c618cb2da08dbeebf6155d0" sha1="9dcd612d05f13ce650188a89764e69103f404487"/>
+	</game>
+	<game name="Shrek the Third - The Search for Arthur (USA)">
+		<category>Games</category>
+		<description>Shrek the Third - The Search for Arthur (USA)</description>
+		<rom name="Shrek the Third - The Search for Arthur (USA).cue" size="111" crc="14ab2aad" md5="5f0da75612da6162ed18f402ce0fdaf2" sha1="c6162d17394aa39c86e8cc748c25838d7fa63056"/>
+		<rom name="Shrek the Third - The Search for Arthur (USA).bin" size="614031936" crc="6c27be68" md5="3ee572ee6603fe2828ee4c4bc758ab72" sha1="e671b64b248cbe976a131c6e5bc229d26f0c60c6"/>
+	</game>
+	<game name="Disney Princess - Das zauberhafte Maerchen-Abenteuer (Germany)">
+		<category>Games</category>
+		<description>Disney Princess - Das zauberhafte Maerchen-Abenteuer (Germany)</description>
+		<rom name="Disney Princess - Das zauberhafte Maerchen-Abenteuer (Germany).cue" size="128" crc="3ce5715b" md5="dbd2eb12fa8746c10bbc9033895df907" sha1="96a1cff3894bcf2956052793cb84e2f166168bb8"/>
+		<rom name="Disney Princess - Das zauberhafte Maerchen-Abenteuer (Germany).bin" size="467570544" crc="f919071f" md5="113931a8190127d723fa4348f92d6b4f" sha1="d50f91fb7c79b8851cb3b6fbb80b66d78def511e"/>
+	</game>
+	<game name="Unglaublichen, Die (The Incredibles) - In unglaublicher Mission (Germany)">
+		<category>Games</category>
+		<description>Unglaublichen, Die (The Incredibles) - In unglaublicher Mission (Germany)</description>
+		<rom name="Unglaublichen, Die (The Incredibles) - In unglaublicher Mission (Germany).cue" size="139" crc="e2f0f1a2" md5="f07b1c321f79a5ad8e943ec46dde87c9" sha1="e94e2314a5afdb73d3f9a6c326b82ffee9bd7225"/>
+		<rom name="Unglaublichen, Die (The Incredibles) - In unglaublicher Mission (Germany).bin" size="365481984" crc="4ac35678" md5="c3b8bae31a1335b642bae83f8ee3ccd5" sha1="6745971dab69942f85d32a4e1484b9d79c2163ee"/>
+	</game>
+	<game name="Nick SpongeBob Schwammkopf - Ein Schwamm voller Ideen (Germany)">
+		<category>Games</category>
+		<description>Nick SpongeBob Schwammkopf - Ein Schwamm voller Ideen (Germany)</description>
+		<rom name="Nick SpongeBob Schwammkopf - Ein Schwamm voller Ideen (Germany).cue" size="129" crc="1c0bc2c5" md5="7b03f4e7933c7a54937e6520ab73fbae" sha1="a94e375accb37777a94cdf0b751cbb8c0bb78759"/>
+		<rom name="Nick SpongeBob Schwammkopf - Ein Schwamm voller Ideen (Germany).bin" size="475449744" crc="a608ea69" md5="e958a8482837a60b5c01d4e52f472670" sha1="ad066c51cccaaf13ae5a06f9a109821980f96c7a"/>
+	</game>
+	<game name="Spider-Man - Angriff der Super-Schurken (Germany)">
+		<category>Games</category>
+		<description>Spider-Man - Angriff der Super-Schurken (Germany)</description>
+		<rom name="Spider-Man - Angriff der Super-Schurken (Germany).cue" size="115" crc="c54478c0" md5="16cd233a48cdaa9bdb982ce787033796" sha1="4c626427b282061a557d1dad0e0dd92d82c0d202"/>
+		<rom name="Spider-Man - Angriff der Super-Schurken (Germany).bin" size="378956592" crc="5039f062" md5="3ccc0abb06dc62402b7a4ad1ba28b550" sha1="80a0ae321273a4b7190ba79854b21fdfb96b75f4"/>
+	</game>
+	<game name="Cars - Auf der Ueberholspur (Germany)">
+		<category>Games</category>
+		<description>Cars - Auf der Ueberholspur (Germany)</description>
+		<rom name="Cars - Auf der Ueberholspur (Germany).cue" size="103" crc="d0b8afd5" md5="a0df0893e6901cf28b33a108f1c8be5e" sha1="fa8be7bcd8df3474c02a9b8e4902fc06b09040c0"/>
+		<rom name="Cars - Auf der Ueberholspur (Germany).bin" size="562353792" crc="e487ef85" md5="cb4e68d95acd4346d3726da2201f37d7" sha1="2794bb37d03435c1318ee632d067d64aaecbbebf"/>
+	</game>
+	<game name="Das verrueckte Rennen der Huepf-Bohnen Insel (Germany)">
+		<category>Games</category>
+		<description>Das verrueckte Rennen der Huepf-Bohnen Insel (Germany)</description>
+		<rom name="Das verrueckte Rennen der Huepf-Bohnen Insel (Germany).cue" size="120" crc="62946f0b" md5="b99b5bea9e1a4a7950104b7ab1ff7155" sha1="e03faff74d0b6c80c72f16f5112ccb9027a4ce1b"/>
+		<rom name="Das verrueckte Rennen der Huepf-Bohnen Insel (Germany).bin" size="457901472" crc="92a0ebe0" md5="84192c291bc3398657d96a4c9a83b688" sha1="a3a8e54d5f12094bfc0c89954987cc793d83d3f9"/>
+	</game>
+	<game name="Shrek der Dritte - Die Suche nach Arthus (Germany)">
+		<category>Games</category>
+		<description>Shrek der Dritte - Die Suche nach Arthus (Germany)</description>
+		<rom name="Shrek der Dritte - Die Suche nach Arthus (Germany).cue" size="116" crc="4ccb3801" md5="1786ca6e849729617b3b5e9bbab79888" sha1="4e54ebeea9f07765d8b03763fe85c6b0b02586d4"/>
+		<rom name="Shrek der Dritte - Die Suche nach Arthus (Germany).bin" size="623663376" crc="968ff493" md5="da49780987a087a415dc321928421a93" sha1="28c486e6b5b9c6e4e79aa3151be82534f0f1245f"/>
+	</game>
+	<game name="Multisports (Germany)">
+		<category>Games</category>
+		<description>Multisports (Germany)</description>
+		<rom name="Multisports (Germany).cue" size="87" crc="fd7e75b9" md5="3e4ed8e30a8c94c0b98af07f521a4040" sha1="536711b8461bf8aea55c0d89aa2fa5112634c75b"/>
+		<rom name="Multisports (Germany).bin" size="295248912" crc="fd73e33a" md5="f3170b78bb5fa0263f6fb619400e5968" sha1="091567e473d996182c5157f2f34b729f2bc7dcff"/>
+	</game>
+	<game name="Increibles, Los - Mision Increible (Spain)">
+		<category>Games</category>
+		<description>Increibles, Los - Mision Increible (Spain)</description>
+		<rom name="Increibles, Los - Mision Increible (Spain).cue" size="108" crc="3147b8f1" md5="aa4418fa735643774f6374bd0b8339e7" sha1="8984b01e5b2a8d302457dc691dbb9ebd2ba8253d"/>
+		<rom name="Increibles, Los - Mision Increible (Spain).bin" size="357440496" crc="9ddf13bc" md5="8e781b68470e3131138a53875a5849f9" sha1="4539863ac08788c3b67b555066b4c6e79ae6dfe1"/>
+	</game>
+	<game name="Asombroso Spider-Man, El - Persecucion en la Ciudad (Spain)">
+		<category>Games</category>
+		<description>Asombroso Spider-Man, El - Persecucion en la Ciudad (Spain)</description>
+		<rom name="Asombroso Spider-Man, El - Persecucion en la Ciudad (Spain).cue" size="125" crc="d44ae4f4" md5="403db60445d274a715f31ca84fe98cdb" sha1="3490ff95ef19a8d048b52691d0802045d43f097b"/>
+		<rom name="Asombroso Spider-Man, El - Persecucion en la Ciudad (Spain).bin" size="379869168" crc="f8586771" md5="7c308de353f00b8cb067719b589772e4" sha1="e21a6195dff27ce31c436088eab7f51061cfdb4f"/>
+	</game>
+	<game name="Nickelodeon SpongeBob SquarePants - Idea Sponge (USA) (Rev 1)">
+		<category>Games</category>
+		<description>Nickelodeon SpongeBob SquarePants - Idea Sponge (USA) (Rev 1)</description>
+		<rom name="Nickelodeon SpongeBob SquarePants - Idea Sponge (USA) (Rev 1).cue" size="127" crc="d8c3076b" md5="0fdc46348ae75e8485fb462cb070aa0a" sha1="f2bee97cb6aff68fa84ed84094c2e15497968554"/>
+		<rom name="Nickelodeon SpongeBob SquarePants - Idea Sponge (USA) (Rev 1).bin" size="432937344" crc="b600eff5" md5="5bfe7b0fc92486e90ec3cd0586b86696" sha1="82c7a04c306baa463ff893c7e5e81cdad5bf0764"/>
+	</game>
+	<game name="Cars - El Carril Rapido (Spain)">
+		<category>Games</category>
+		<description>Cars - El Carril Rapido (Spain)</description>
+		<rom name="Cars - El Carril Rapido (Spain).cue" size="97" crc="e5e66c8a" md5="064d6bfa1e185eeb7b1d71238e378129" sha1="aba77549005e038ae99a6ddb9a0b7c672d777411"/>
+		<rom name="Cars - El Carril Rapido (Spain).bin" size="547032864" crc="1dc57b07" md5="59b1ea0bd4ebfbf538287a5f22e817c8" sha1="513c1453eb0f74a2bad8c20896ecedf9d85f8913"/>
+	</game>
+	<game name="Carrera Loca en la Isla de las Vainas Fritas (Spain) (Rev 1)">
+		<category>Games</category>
+		<description>Carrera Loca en la Isla de las Vainas Fritas (Spain) (Rev 1)</description>
+		<rom name="Carrera Loca en la Isla de las Vainas Fritas (Spain) (Rev 1).cue" size="126" crc="0e96e266" md5="03d8b1988e99fc10c7343c687e383284" sha1="54c7a0d0b2c27b2d11acd066cc79c947db16236c"/>
+		<rom name="Carrera Loca en la Isla de las Vainas Fritas (Spain) (Rev 1).bin" size="443638944" crc="0c7dff14" md5="11a4101a1cad9b392670b6fb354e090a" sha1="056b7974ff60c56790aa43e382681b1c96d17b9d"/>
+	</game>
+	<game name="Disney Princess - El Castillo de las Princesas (Spain)">
+		<category>Games</category>
+		<description>Disney Princess - El Castillo de las Princesas (Spain)</description>
+		<rom name="Disney Princess - El Castillo de las Princesas (Spain).cue" size="120" crc="f2397d30" md5="b8d9993085fdc5ba50027c6522de323e" sha1="df4839e2c84b6c72867996273c2de15fcc28c0bb"/>
+		<rom name="Disney Princess - El Castillo de las Princesas (Spain).bin" size="431876592" crc="37ee2273" md5="e56056501943e726e93c2c19ba465474" sha1="460deadcd71d46e51db714a4ac4f2efe659f9051"/>
+	</game>
+	<game name="Scooby-Doo - Viaje al Pasado (Spain)">
+		<category>Games</category>
+		<description>Scooby-Doo - Viaje al Pasado (Spain)</description>
+		<rom name="Scooby-Doo - Viaje al Pasado (Spain).cue" size="102" crc="da67fa43" md5="8e1e2ca291f23e00f5f6320fff3988bc" sha1="70b5fccfd8cbde3b2d525f1f9377053f7d2913b4"/>
+		<rom name="Scooby-Doo - Viaje al Pasado (Spain).bin" size="641766720" crc="92a181b3" md5="88cbc7a897a57fb411e33933c9bf9e2b" sha1="4f6913204032132c99ac894007eaca6f250af97c"/>
+	</game>
+	<game name="Disney Princess - The Crystal Ball Adventure (USA) (Alt)">
+		<category>Games</category>
+		<description>Disney Princess - The Crystal Ball Adventure (USA) (Alt)</description>
+		<rom name="Disney Princess - The Crystal Ball Adventure (USA) (Alt).cue" size="122" crc="fb2b459d" md5="1694c10a786bd064de335c420644180e" sha1="cfb19a12824d70bd6adfe459f9fd6655de8e5cef"/>
+		<rom name="Disney Princess - The Crystal Ball Adventure (USA) (Alt).bin" size="469750848" crc="6e86d3f1" md5="9197cbe56409db518627ffd1c56b1bf1" sha1="adc967fc856208be2bdfaf5d6f4f64bd77d20122"/>
+	</game>
+	<game name="Cars - In the Fast Lane (USA) (Rev 1)">
+		<category>Games</category>
+		<description>Cars - In the Fast Lane (USA) (Rev 1)</description>
+		<rom name="Cars - In the Fast Lane (USA) (Rev 1).cue" size="103" crc="76cb19d9" md5="16bf68f02e7753424d1db788b4f6e35b" sha1="67f73a99f1f4782c71f03e55bd9a6bc3358c896d"/>
+		<rom name="Cars - In the Fast Lane (USA) (Rev 1).bin" size="506249184" crc="33b3b437" md5="71fa399ce6d3e6d4baad6d3b607ae258" sha1="b7522abe11f1dab3e5adc56ae4cdc2c9f9957a3a"/>
+	</game>
+	<game name="Bratz - El Misterio del Collar (Spain)">
+		<category>Games</category>
+		<description>Bratz - El Misterio del Collar (Spain)</description>
+		<rom name="Bratz - El Misterio del Collar (Spain).cue" size="104" crc="0aff784d" md5="7645dacb69d1bcb392a5ac5b4ee124ec" sha1="9ca9d248b712a2bf6835d06baca5738176d25816"/>
+		<rom name="Bratz - El Misterio del Collar (Spain).bin" size="567161280" crc="f58a656f" md5="2f51d37b1b5b4b9cd3065d8370930c29" sha1="879366712219b4577594a414dedad9a8e69bd662"/>
+	</game>
+	<game name="Nickelodeon Bob Esponja - Mision Esponja (Spain)">
+		<category>Games</category>
+		<description>Nickelodeon Bob Esponja - Mision Esponja (Spain)</description>
+		<rom name="Nickelodeon Bob Esponja - Mision Esponja (Spain).cue" size="114" crc="8af54018" md5="a7409d4b2ca12db44029bd97a3ad9bf3" sha1="9a4e07e099cec331be50f80a245cb20659eb83ff"/>
+		<rom name="Nickelodeon Bob Esponja - Mision Esponja (Spain).bin" size="415450224" crc="09134f50" md5="581c4abb08fb593dfc8ca69b1a51b56c" sha1="5280687403e8933abf2321d5720e47fe8a50e86f"/>
+	</game>
+	<game name="Shrek Tercero - Donde Esta Arturo (Spain)">
+		<category>Games</category>
+		<description>Shrek Tercero - Donde Esta Arturo (Spain)</description>
+		<rom name="Shrek Tercero - Donde Esta Arturo (Spain).cue" size="107" crc="2a76e63e" md5="9ceea73debc794b3a89de5364e6811c1" sha1="3d611fa136a49f67722d742722d484213a4226bd"/>
+		<rom name="Shrek Tercero - Donde Esta Arturo (Spain).bin" size="618655968" crc="542d16e5" md5="d4d8397328b4f3507fa428b554f96643" sha1="67a3df45cf47f9bba9b103c090aba93fafaade86"/>
+	</game>
+	<game name="Shrek the Third - The Search for Arthur (UK)">
+		<category>Games</category>
+		<description>Shrek the Third - The Search for Arthur (UK)</description>
+		<rom name="Shrek the Third - The Search for Arthur (UK).cue" size="110" crc="be02a965" md5="e436b468284043ac8a374bd2a2451522" sha1="06f7a322e468be7a1bfc53bc5bb7015422917ce7"/>
+		<rom name="Shrek the Third - The Search for Arthur (UK).bin" size="613055856" crc="b63070b1" md5="2033a0c18eb7636225f63fdb62801965" sha1="6fa99fb64e6cb7e4ceda68e0a3de9811dad3c5fb"/>
+	</game>
+	<game name="Wacky Race on Jumpin' Bean Island (UK)">
+		<category>Games</category>
+		<description>Wacky Race on Jumpin' Bean Island (UK)</description>
+		<rom name="Wacky Race on Jumpin' Bean Island (UK).cue" size="104" crc="eba53008" md5="cd17efe7bbc475b9fe055d86d5f20411" sha1="27d9e1441693075ce9f47ea169886c4b3bb828b6"/>
+		<rom name="Wacky Race on Jumpin' Bean Island (UK).bin" size="449511888" crc="24bb78e5" md5="91d703b16b7a77063a6c744d92f6a85e" sha1="a5328837c0025052c498ea00efb62194cf896c1a"/>
+	</game>
+	<game name="Spider-Man Course-Poursuite a Manhattan (France)">
+		<category>Games</category>
+		<description>Spider-Man Course-Poursuite a Manhattan (France)</description>
+		<rom name="Spider-Man Course-Poursuite a Manhattan (France).cue" size="114" crc="acc02ac1" md5="4d1269fa6ba2aab2144e60b6c2fd020f" sha1="97cef5ed422747738356f35fdcc55725c7f6d291"/>
+		<rom name="Spider-Man Course-Poursuite a Manhattan (France).bin" size="371766528" crc="4bb8afec" md5="7ae1c3c854fe625ebe7b9a566e140e3e" sha1="03eb17eb561cb579b9e1aaf416e3d86612c1057a"/>
+	</game>
+	<game name="Disney Princess - The Crystal Ball Adventure (USA) (Alt 2)">
+		<category>Games</category>
+		<description>Disney Princess - The Crystal Ball Adventure (USA) (Alt 2)</description>
+		<rom name="Disney Princess - The Crystal Ball Adventure (USA) (Alt 2).cue" size="124" crc="d0801284" md5="64620bb6ab9b2b9498201ac81c769bb9" sha1="13eb2532f858ad5f8e63758aeb8d26eed7cd0a19"/>
+		<rom name="Disney Princess - The Crystal Ball Adventure (USA) (Alt 2).bin" size="471912336" crc="99743337" md5="399e77a4d5e61c8532baf57d34b3b9a9" sha1="31143026e7f1f9b8986ecadfaaa6ef88f9e57abe"/>
+	</game>
+	<game name="Scooby-Doo! Ancient Adventure (USA)">
+		<category>Games</category>
+		<description>Scooby-Doo! Ancient Adventure (USA)</description>
+		<rom name="Scooby-Doo! Ancient Adventure (USA).cue" size="101" crc="b185ee77" md5="3de145979710eaf9f8f1a237af5ec798" sha1="1ab4e4956be6aa3ca5bab320ef270a4930317fe4"/>
+		<rom name="Scooby-Doo! Ancient Adventure (USA).bin" size="638629152" crc="42abc660" md5="002b4f5818d84517dc856515e354f79e" sha1="f5224fa4ad9661fea25e03d5b0d10d0ed2815ecd"/>
+	</game>
+</datafile>

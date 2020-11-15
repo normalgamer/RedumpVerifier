@@ -1,0 +1,277 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Bandai - Playdia Quick Interactive System</name>
+		<description>Bandai - Playdia Quick Interactive System - Discs (38) (2020-09-27 17-04-00)</description>
+		<version>2020-09-27 17-04-00</version>
+		<date>2020-09-27 17-04-00</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Bishoujo Senshi Sailor Moon S - Quiz Taiketsu! Sailor Power Shuketsu!! (Japan)">
+		<category>Games</category>
+		<description>Bishoujo Senshi Sailor Moon S - Quiz Taiketsu! Sailor Power Shuketsu!! (Japan)</description>
+		<rom name="Bishoujo Senshi Sailor Moon S - Quiz Taiketsu! Sailor Power Shuketsu!! (Japan).cue" size="308" crc="c4b568aa" md5="98e4f1b8e865d8377544638e0582bee5" sha1="fc83f3a064200489aa39a2fe804975cd596241f0"/>
+		<rom name="Bishoujo Senshi Sailor Moon S - Quiz Taiketsu! Sailor Power Shuketsu!! (Japan) (Track 1).bin" size="9878400" crc="f3c5d99d" md5="81b05d88dead971e5effd25450b20344" sha1="ac16ee10d24a763d001f4349a9cce1f0097c0db3"/>
+		<rom name="Bishoujo Senshi Sailor Moon S - Quiz Taiketsu! Sailor Power Shuketsu!! (Japan) (Track 2).bin" size="735517440" crc="285f7ed3" md5="e2d002c93857d8801c3decde4a7ce047" sha1="2b5bd9a62d7b88f77e8e8ee3581450ffe8e4b73d"/>
+	</game>
+	<game name="SD Gundam - Daizukan (Japan)">
+		<category>Games</category>
+		<description>SD Gundam - Daizukan (Japan)</description>
+		<rom name="SD Gundam - Daizukan (Japan).cue" size="94" crc="ffc4eea7" md5="d70b4f54189eb19891f218deacbc22a9" sha1="f6cda7d3c40b6914fd5779f7b9927f4619ac8698"/>
+		<rom name="SD Gundam - Daizukan (Japan).bin" size="777618240" crc="8d3fc12f" md5="bbb44fe24d202605efdd271c28875c29" sha1="df2a289e12f18724f36cd39e08cd178f0fa674f3"/>
+	</game>
+	<game name="Hello Kitty - Yume no Kuni Daiboken (Japan)">
+		<category>Games</category>
+		<description>Hello Kitty - Yume no Kuni Daiboken (Japan)</description>
+		<rom name="Hello Kitty - Yume no Kuni Daiboken (Japan).cue" size="238" crc="3d4e4481" md5="58ef76ff42b67853e41295bd3366769c" sha1="0a05a6968026fa3488bd18b6177222dd9c13841e"/>
+		<rom name="Hello Kitty - Yume no Kuni Daiboken (Japan) (Track 1).bin" size="9878400" crc="b6098bfc" md5="5bab80e059540c87ad13c21db365a5be" sha1="d7a662fd807479a6e38d62ffb42e54a80e0d00a4"/>
+		<rom name="Hello Kitty - Yume no Kuni Daiboken (Japan) (Track 2).bin" size="702577680" crc="58ff96fa" md5="4c75970eb67145df9214756ac3d93b7f" sha1="ae35a49cb2aa99730a5acf7b392aa93b1ec26117"/>
+	</game>
+	<game name="Newton Museum - Kyoryu Nendaiki Kohen (Japan)">
+		<category>Multimedia</category>
+		<description>Newton Museum - Kyoryu Nendaiki Kohen (Japan)</description>
+		<rom name="Newton Museum - Kyoryu Nendaiki Kohen (Japan).cue" size="242" crc="57b5ec80" md5="4449129882f970db0c7afbfda23fd8e3" sha1="45f7fb37049ca307acf5f042439e18c2f1874329"/>
+		<rom name="Newton Museum - Kyoryu Nendaiki Kohen (Japan) (Track 1).bin" size="9878400" crc="522fbd17" md5="9a97a608b3e29d25ff023e0793852607" sha1="40ae2ee3c94ee36c6780f6de6ea8b4881ccd310d"/>
+		<rom name="Newton Museum - Kyoryu Nendaiki Kohen (Japan) (Track 2).bin" size="753345600" crc="4dc70be1" md5="5bfb25dcc6b2e1d77663d174a590a656" sha1="f4ce03257ebf60434a64d7ef1cf6597c0183bd7e"/>
+	</game>
+	<game name="Shuppatsu! Dobutsu Tankentai (Japan)">
+		<category>Games</category>
+		<description>Shuppatsu! Dobutsu Tankentai (Japan)</description>
+		<rom name="Shuppatsu! Dobutsu Tankentai (Japan).cue" size="224" crc="02c6690b" md5="8e2b4aafd7e6eea37cf634fcb3b33c56" sha1="180066310caaa06634741e31fdf5103395f120eb"/>
+		<rom name="Shuppatsu! Dobutsu Tankentai (Japan) (Track 1).bin" size="9878400" crc="96512f2c" md5="12dc8192a633e7a95b0132cd2bc4048a" sha1="e8f54ee521197b794563ae11dc53831e5d939f85"/>
+		<rom name="Shuppatsu! Dobutsu Tankentai (Japan) (Track 2).bin" size="737540160" crc="02567b96" md5="ab7cd86446e46a2dd8c84a2643df0fb5" sha1="94154e3c6c96c1f8ef6fd5017fa46d9abd17a36b"/>
+	</game>
+	<game name="Ultraman Powered - Kaiju Gekimetsu Sakusen (Japan)">
+		<category>Games</category>
+		<description>Ultraman Powered - Kaiju Gekimetsu Sakusen (Japan)</description>
+		<rom name="Ultraman Powered - Kaiju Gekimetsu Sakusen (Japan).cue" size="252" crc="c63bbb28" md5="3764138f838a902fa4d2485c2f5677f3" sha1="18770bbfffca91db15d19138709c55e32227a65c"/>
+		<rom name="Ultraman Powered - Kaiju Gekimetsu Sakusen (Japan) (Track 1).bin" size="9878400" crc="3ea92165" md5="7d574d5c5dfb48b0ffc8d7957063b5d7" sha1="0a18800a20657a872a639a55bc78db6d78394aa1"/>
+		<rom name="Ultraman Powered - Kaiju Gekimetsu Sakusen (Japan) (Track 2).bin" size="685466880" crc="9b32e232" md5="869c2403ac0d2f7b62fc9a7a9e282443" sha1="7d3a74484f4010c342484695d663a5ffe126c1c1"/>
+	</game>
+	<game name="Aqua Adventure - Blue Lilty (Japan)">
+		<category>Games</category>
+		<description>Aqua Adventure - Blue Lilty (Japan)</description>
+		<rom name="Aqua Adventure - Blue Lilty (Japan).cue" size="222" crc="54a1d459" md5="035c512fc06f543734dbda389596665f" sha1="15ab942aacadf210cdd90bdb94d631869c04057b"/>
+		<rom name="Aqua Adventure - Blue Lilty (Japan) (Track 1).bin" size="9878400" crc="0d3ba84b" md5="5811e0f5894e32f7f3e6a2c0a02497fa" sha1="e7f017a50e21a606647189119d3662e398edb55c"/>
+		<rom name="Aqua Adventure - Blue Lilty (Japan) (Track 2).bin" size="714890400" crc="8a934bcf" md5="688c3568d8263a46ccfd0f45470b25d7" sha1="7aecdcf1edc024b1cc1fe6a78866b3c191df1cf7"/>
+	</game>
+	<game name="Newton Museum - Kyoryu Nendaiki Zenpen (Japan)">
+		<category>Multimedia</category>
+		<description>Newton Museum - Kyoryu Nendaiki Zenpen (Japan)</description>
+		<rom name="Newton Museum - Kyoryu Nendaiki Zenpen (Japan).cue" size="244" crc="efb0abbf" md5="03c1bcbf733c74b73cf2c0ab5dafbe52" sha1="55c359d5e21104f0910d1592ce7e495a7e4d5f25"/>
+		<rom name="Newton Museum - Kyoryu Nendaiki Zenpen (Japan) (Track 1).bin" size="9878400" crc="21657d5a" md5="a7fc60a2c9cd7ecbded2002ab2dd2e22" sha1="420b7e284c41a9458e04b005ea7a474921243299"/>
+		<rom name="Newton Museum - Kyoryu Nendaiki Zenpen (Japan) (Track 2).bin" size="762377280" crc="389967f4" md5="44d367feff60a2aec901584e3c21d661" sha1="89720fedcd4b225dd162a3a230fa798021944d0f"/>
+	</game>
+	<game name="Playdia iQ Kids - Soreike! Anpanman - Picnic de Obenkyou (Japan)">
+		<category>Games</category>
+		<description>Playdia iQ Kids - Soreike! Anpanman - Picnic de Obenkyou (Japan)</description>
+		<rom name="Playdia iQ Kids - Soreike! Anpanman - Picnic de Obenkyou (Japan).cue" size="280" crc="2a0bd3a9" md5="4be8bb1983f623d1c04cf76b07aea4ff" sha1="dd81ba54c56f1e97af0654b5dcfeb25cdbd026b8"/>
+		<rom name="Playdia iQ Kids - Soreike! Anpanman - Picnic de Obenkyou (Japan) (Track 1).bin" size="9878400" crc="c358dc2f" md5="d68adf8195fd017ea5d8fc6d631278b9" sha1="8610bd987f64c89d8e9c77279df798612ccf79b4"/>
+		<rom name="Playdia iQ Kids - Soreike! Anpanman - Picnic de Obenkyou (Japan) (Track 2).bin" size="765246720" crc="e7207678" md5="ba59cac5e6112d2aaa9b86c32bbb2f79" sha1="b34fbbd00829cb22507ebacd094e1f693da03361"/>
+	</game>
+	<game name="Dragon Ball Z - Shin Saiyajin Zetsumetsu Keikaku - Chikyuu Hen (Japan)">
+		<category>Games</category>
+		<description>Dragon Ball Z - Shin Saiyajin Zetsumetsu Keikaku - Chikyuu Hen (Japan)</description>
+		<rom name="Dragon Ball Z - Shin Saiyajin Zetsumetsu Keikaku - Chikyuu Hen (Japan).cue" size="292" crc="7a683015" md5="8ab115edbd8f818c57c24c11565ee979" sha1="c055a05413a205177c065c405badd02d240d9fde"/>
+		<rom name="Dragon Ball Z - Shin Saiyajin Zetsumetsu Keikaku - Chikyuu Hen (Japan) (Track 1).bin" size="9878400" crc="cb454835" md5="4077ac536ac7d5f14363c341936d6439" sha1="59092d132c05ce582b2660a814d2ff93d0c5d619"/>
+		<rom name="Dragon Ball Z - Shin Saiyajin Zetsumetsu Keikaku - Chikyuu Hen (Japan) (Track 2).bin" size="761848080" crc="e65d9ddb" md5="8e8dced4d2d2566627242148b2c6321d" sha1="3acaddf81f312d5af00462890d501185c4a99bc1"/>
+	</game>
+	<game name="Ultra Seven - Chikyu Boei Sakusen (Japan)">
+		<category>Games</category>
+		<description>Ultra Seven - Chikyu Boei Sakusen (Japan)</description>
+		<rom name="Ultra Seven - Chikyu Boei Sakusen (Japan).cue" size="234" crc="3587f7db" md5="b6ed8a0a592817ab9528c846ed6672e7" sha1="aea7edc1274afcb0b92f4ea3c2ae74653a729fb7"/>
+		<rom name="Ultra Seven - Chikyu Boei Sakusen (Japan) (Track 1).bin" size="9878400" crc="b4b0885f" md5="2393e57d75ffb0b8004a6f8e9f7a474d" sha1="e0f0de0ac7e58c1b6c64c8d09476bc3afd3baa17"/>
+		<rom name="Ultra Seven - Chikyu Boei Sakusen (Japan) (Track 2).bin" size="642531120" crc="a1d1dc6d" md5="f572082b7720b860eab0fac891ec5a49" sha1="b9677592ff333442b0aeba598fdda14d2f9b1e72"/>
+	</game>
+	<game name="Dragon Ball Z - Shin Saiyajin Zetsumetsu Keikaku - Uchuu Hen (Japan)">
+		<category>Games</category>
+		<description>Dragon Ball Z - Shin Saiyajin Zetsumetsu Keikaku - Uchuu Hen (Japan)</description>
+		<rom name="Dragon Ball Z - Shin Saiyajin Zetsumetsu Keikaku - Uchuu Hen (Japan).cue" size="288" crc="ed951675" md5="36a3b9a24a121d3a1f9cc7584913fb54" sha1="0eede310d82529703d34cc430f766d5d31eef364"/>
+		<rom name="Dragon Ball Z - Shin Saiyajin Zetsumetsu Keikaku - Uchuu Hen (Japan) (Track 1).bin" size="9878400" crc="540b32c8" md5="7dfe92530c824f92bfc2b14a7f01258f" sha1="d69559e2ad7bac94aaa5b6b1af9793c66f98c821"/>
+		<rom name="Dragon Ball Z - Shin Saiyajin Zetsumetsu Keikaku - Uchuu Hen (Japan) (Track 2).bin" size="769938960" crc="d8cdbad6" md5="038f32d16522b6c97f1fd11679ee3834" sha1="a8a7bf5af011f4a5515a40506b32cc4d83e234e6"/>
+	</game>
+	<game name="Norimono Banzai!! Kuruma Daishuugou!! (Japan)">
+		<category>Games</category>
+		<description>Norimono Banzai!! Kuruma Daishuugou!! (Japan)</description>
+		<rom name="Norimono Banzai!! Kuruma Daishuugou!! (Japan).cue" size="242" crc="575fd094" md5="88c23317ec9598f4a8eb7a598c8adeb4" sha1="268646095024d1faec6e2e5c4fddc8cbd3514b86"/>
+		<rom name="Norimono Banzai!! Kuruma Daishuugou!! (Japan) (Track 1).bin" size="9878400" crc="728e8be4" md5="425043858bf4dfda2214a3db46a568d8" sha1="096176f774b753cd452ac6541dc4ea4121cf3712"/>
+		<rom name="Norimono Banzai!! Kuruma Daishuugou!! (Japan) (Track 2).bin" size="546569520" crc="551707c6" md5="613329628b6e2f4efd430583a01ad629" sha1="99f885ad7911a0eb6357f8f72f501835b9e96eff"/>
+	</game>
+	<game name="Norimono Banzai!! Densha Daishuugou!! (Japan)">
+		<category>Games</category>
+		<description>Norimono Banzai!! Densha Daishuugou!! (Japan)</description>
+		<rom name="Norimono Banzai!! Densha Daishuugou!! (Japan).cue" size="242" crc="9d264bee" md5="2a285c4fac52d27ba85592ca4bd42f4a" sha1="bde0d661948d47a0eac9e20c971e42d5768a94c7"/>
+		<rom name="Norimono Banzai!! Densha Daishuugou!! (Japan) (Track 1).bin" size="9878400" crc="cc50d286" md5="6585539902d4d73af32b58910da17ec1" sha1="cc9accef1e3add19575504bb5dacbb6940a77e3c"/>
+		<rom name="Norimono Banzai!! Densha Daishuugou!! (Japan) (Track 2).bin" size="551344080" crc="1ee3de63" md5="0d3dddc7ed0034b7ca1856d819580560" sha1="988ff63c5a7ab909d80762287f20b6fcfda6641f"/>
+	</game>
+	<game name="Ie Naki Ko - Suzu no Sentaku (Japan)">
+		<category>Games</category>
+		<description>Ie Naki Ko - Suzu no Sentaku (Japan)</description>
+		<rom name="Ie Naki Ko - Suzu no Sentaku (Japan).cue" size="224" crc="150e5f5f" md5="4e3cf067871d24ebf2d53b2073618af2" sha1="4546e3c8c3818146ed29b71ce574766019ee5b8e"/>
+		<rom name="Ie Naki Ko - Suzu no Sentaku (Japan) (Track 1).bin" size="9878400" crc="6e73e3a3" md5="c6fe2111b20c921e1e116a1b4c889d55" sha1="14141762e10cfd63b56021653c07040c7a185d6d"/>
+		<rom name="Ie Naki Ko - Suzu no Sentaku (Japan) (Track 2).bin" size="756720720" crc="38e36136" md5="146560d0a4fae1f7f8af805a96ac555d" sha1="4768ae74ac9ca729ef95fe427c69a7450e6849b5"/>
+	</game>
+	<game name="Gamera - The Time Adventure (Japan)">
+		<category>Games</category>
+		<description>Gamera - The Time Adventure (Japan)</description>
+		<rom name="Gamera - The Time Adventure (Japan).cue" size="222" crc="bd63fa1f" md5="d2b674aa5146ffc53f4f38b5545e8c8a" sha1="719c3d0bfc38b324ad76e60d97a4d01c9080dd60"/>
+		<rom name="Gamera - The Time Adventure (Japan) (Track 1).bin" size="9878400" crc="3aca4022" md5="c8462814c6d27f4133e8394159818415" sha1="13e89b0d22d04b3b26e3d23d7ce8c099db4dabbe"/>
+		<rom name="Gamera - The Time Adventure (Japan) (Track 2).bin" size="753110400" crc="ed1c78d3" md5="fad38bc8f141a2556049fe099d380f92" sha1="44f9c3cb0d43c23fcb9c6c6f6e7e57109662ef66"/>
+	</game>
+	<game name="Elements Voice Series - Mika Kanai - Wind &amp; Breeze (Japan)">
+		<category>Games</category>
+		<description>Elements Voice Series - Mika Kanai - Wind &amp; Breeze (Japan)</description>
+		<rom name="Elements Voice Series - Mika Kanai - Wind &amp; Breeze (Japan).cue" size="268" crc="f769bd47" md5="576850895d452f5e74265138379acc7a" sha1="ec22a0ca5647062bfddd981423dea430e6474ec8"/>
+		<rom name="Elements Voice Series - Mika Kanai - Wind &amp; Breeze (Japan) (Track 1).bin" size="9878400" crc="10c7d134" md5="6ed384946a07f9b1cbd8a0af0f402e5f" sha1="2760aaef5d9a6af41ad5da7d90c5d3f9d276f524"/>
+		<rom name="Elements Voice Series - Mika Kanai - Wind &amp; Breeze (Japan) (Track 2).bin" size="454053600" crc="921c03ec" md5="1a540cf6825a92f1863fda37d73d1cc9" sha1="c685a091cc6d3ac6324770b97e0b4cacb558418b"/>
+	</game>
+	<game name="Elements Voice Series - Rica Fukami - Private Step (Japan)">
+		<category>Games</category>
+		<description>Elements Voice Series - Rica Fukami - Private Step (Japan)</description>
+		<rom name="Elements Voice Series - Rica Fukami - Private Step (Japan).cue" size="268" crc="a3e4af38" md5="9bd5a505f7923b2ac918b2c5560472f8" sha1="1c337a7ec2259fee14ab808fc8ab77a99b985244"/>
+		<rom name="Elements Voice Series - Rica Fukami - Private Step (Japan) (Track 1).bin" size="9878400" crc="618e529c" md5="512bff4c064b74e05aeb147262609ffe" sha1="9f8376b8be2b4b82f8dfdeb63f5dcb9df703d258"/>
+		<rom name="Elements Voice Series - Rica Fukami - Private Step (Japan) (Track 2).bin" size="744090480" crc="81e61c2d" md5="0f9b5c2aa00d4e6f93e6786fb1f8b673" sha1="292c7f108953a6c7199845282279d06771dc00ea"/>
+	</game>
+	<game name="Elements Voice Series - Aya Hisakawa - Forest Sways (Japan)">
+		<category>Games</category>
+		<description>Elements Voice Series - Aya Hisakawa - Forest Sways (Japan)</description>
+		<rom name="Elements Voice Series - Aya Hisakawa - Forest Sways (Japan).cue" size="270" crc="a1052cbb" md5="57c3c7dd449f43ac629c02baec2ca4d9" sha1="964704eee5a8dd175ddb0615b3abd01b06aef72c"/>
+		<rom name="Elements Voice Series - Aya Hisakawa - Forest Sways (Japan) (Track 1).bin" size="9878400" crc="679b86a9" md5="1778450174b6416e13b6c2e496a3e49e" sha1="48279c4c03c074dee13564e0f73133b06cdc66ea"/>
+		<rom name="Elements Voice Series - Aya Hisakawa - Forest Sways (Japan) (Track 2).bin" size="767163600" crc="d8dfec33" md5="ecadb235cbe4eaf8cf3dfe54a9bad7b3" sha1="fa0e1bd4db3e6c23069eade2188ee5ec3bd51e8b"/>
+	</game>
+	<game name="Playdia iQ Kids - Bishoujo Senshi Sailor Moon SuperS - Sailor Moon to Hiragana Lesson! (Japan)">
+		<category>Games</category>
+		<description>Playdia iQ Kids - Bishoujo Senshi Sailor Moon SuperS - Sailor Moon to Hiragana Lesson! (Japan)</description>
+		<rom name="Playdia iQ Kids - Bishoujo Senshi Sailor Moon SuperS - Sailor Moon to Hiragana Lesson! (Japan).cue" size="340" crc="38592a24" md5="174e80fc51d2955b62024e30fe0a6611" sha1="49aaf18da0ff579e23821cdda4e90956684cacdc"/>
+		<rom name="Playdia iQ Kids - Bishoujo Senshi Sailor Moon SuperS - Sailor Moon to Hiragana Lesson! (Japan) (Track 1).bin" size="9878400" crc="cacdf012" md5="c5e08bddb772f7193290fa22e7f7aaca" sha1="e2b08eec86c6d6bdf47346d5efcf6b29cdf2978d"/>
+		<rom name="Playdia iQ Kids - Bishoujo Senshi Sailor Moon SuperS - Sailor Moon to Hiragana Lesson! (Japan) (Track 2).bin" size="764541120" crc="8bd59fb8" md5="d299234aa2ebf9ae92fc334944bcc7f7" sha1="89f576b3991278e8649ccef1710f9c8166baabcd"/>
+	</game>
+	<game name="Playdia iQ Kids - Bishoujo Senshi Sailor Moon SuperS - Sailor Moon to Hajimete no Eigo (Japan)">
+		<category>Games</category>
+		<description>Playdia iQ Kids - Bishoujo Senshi Sailor Moon SuperS - Sailor Moon to Hajimete no Eigo (Japan)</description>
+		<rom name="Playdia iQ Kids - Bishoujo Senshi Sailor Moon SuperS - Sailor Moon to Hajimete no Eigo (Japan).cue" size="340" crc="80e12e0d" md5="0c580f4d77870c698dc427b791b7e5b4" sha1="40b1b53e76fb7cb5ce681a22db5840747ff3af32"/>
+		<rom name="Playdia iQ Kids - Bishoujo Senshi Sailor Moon SuperS - Sailor Moon to Hajimete no Eigo (Japan) (Track 1).bin" size="9878400" crc="689ef165" md5="272a7da3e10e5073b6120eec556c3414" sha1="a50d68c97f6f9ebbdf66f78ac52e2caab9089a09"/>
+		<rom name="Playdia iQ Kids - Bishoujo Senshi Sailor Moon SuperS - Sailor Moon to Hajimete no Eigo (Japan) (Track 2).bin" size="760954320" crc="480eeb44" md5="639067fe6691c79ed4c60c2a816c747b" sha1="de25713e48a9086bc9feade0cf6fa3b2d2a79e0c"/>
+	</game>
+	<game name="Playdia iQ Kids - Bishoujo Senshi Sailor Moon SuperS - Youkoso! Sailor Youchien (Japan)">
+		<category>Games</category>
+		<description>Playdia iQ Kids - Bishoujo Senshi Sailor Moon SuperS - Youkoso! Sailor Youchien (Japan)</description>
+		<rom name="Playdia iQ Kids - Bishoujo Senshi Sailor Moon SuperS - Youkoso! Sailor Youchien (Japan).cue" size="326" crc="210b0510" md5="18c87893b9ff94656e16575456547bcc" sha1="f3491224979759acb4150c010089fadf3a5c459d"/>
+		<rom name="Playdia iQ Kids - Bishoujo Senshi Sailor Moon SuperS - Youkoso! Sailor Youchien (Japan) (Track 1).bin" size="9878400" crc="a9f29f41" md5="0f6116504abd4b3f8f60c2f5dc7c112f" sha1="20a602883f3426844beb09266fd7a921231a1937"/>
+		<rom name="Playdia iQ Kids - Bishoujo Senshi Sailor Moon SuperS - Youkoso! Sailor Youchien (Japan) (Track 2).bin" size="764223600" crc="750538f5" md5="680aa4e3d1101ae71f24b74db1e3ada0" sha1="6cbf91575c89b9f1aca9f1968d7ffc3de5b3b708"/>
+	</game>
+	<game name="Ultraman - Alphabet TV e Youkoso (Japan)">
+		<category>Games</category>
+		<description>Ultraman - Alphabet TV e Youkoso (Japan)</description>
+		<rom name="Ultraman - Alphabet TV e Youkoso (Japan).cue" size="232" crc="40a19339" md5="3743b2d1128793b8849bda723f3f9957" sha1="c567f01ded4891db7834b0f550f3c70610409671"/>
+		<rom name="Ultraman - Alphabet TV e Youkoso (Japan) (Track 1).bin" size="9878400" crc="ab318b93" md5="adda70e34607fb005f62f04b4da96193" sha1="cf0d66a812ae9e58ea568d31a3bc974b158cf234"/>
+		<rom name="Ultraman - Alphabet TV e Youkoso (Japan) (Track 2).bin" size="504386400" crc="ef631bf5" md5="22233ec368defd04a9d1645ea9f67250" sha1="641967e40da0b3e566ce6689ad700fd3bad98444"/>
+	</game>
+	<game name="Playdia iQ Kids - Ultraman - Oide yo! Ultra Youchien (Japan)">
+		<category>Games</category>
+		<description>Playdia iQ Kids - Ultraman - Oide yo! Ultra Youchien (Japan)</description>
+		<rom name="Playdia iQ Kids - Ultraman - Oide yo! Ultra Youchien (Japan).cue" size="272" crc="1aa6cc27" md5="3f31f939300d7b5bfae982fd600a4418" sha1="c0f1f06757f70f0ccc3a000026859429219f90da"/>
+		<rom name="Playdia iQ Kids - Ultraman - Oide yo! Ultra Youchien (Japan) (Track 1).bin" size="9878400" crc="7c6f548c" md5="34d9c8782c8c4aed6743ec00b7aeceb9" sha1="9938d44996ef71a154feb335f59e2f46775b527d"/>
+		<rom name="Playdia iQ Kids - Ultraman - Oide yo! Ultra Youchien (Japan) (Track 2).bin" size="679822080" crc="03bbc39f" md5="7b603a88be14b3b4c1d4f8d8f20ac31f" sha1="31f2dbdcc15fe753141eb3a7b08735fda70ddccd"/>
+	</game>
+	<game name="Playdia iQ Kids - Ultraman - Suuji de Asobou Ultra Land (Japan)">
+		<category>Games</category>
+		<description>Playdia iQ Kids - Ultraman - Suuji de Asobou Ultra Land (Japan)</description>
+		<rom name="Playdia iQ Kids - Ultraman - Suuji de Asobou Ultra Land (Japan).cue" size="278" crc="46a027e8" md5="4fa64443cc25f2a0fa00ef93432a5e6f" sha1="927239ebc2e9149256990636fc627d8233b128a9"/>
+		<rom name="Playdia iQ Kids - Ultraman - Suuji de Asobou Ultra Land (Japan) (Track 1).bin" size="9878400" crc="0194f424" md5="ad05aa999c6c5bf351a3029223c03683" sha1="9506bce96dd014dd5795a211f8c0e442503e7df3"/>
+		<rom name="Playdia iQ Kids - Ultraman - Suuji de Asobou Ultra Land (Japan) (Track 2).bin" size="715219680" crc="8fcfe4c3" md5="33d141599e00ecd01bd94569d5c9c47c" sha1="ebe620e6a6cee95c4a67996f9f00c1a908b6c881"/>
+	</game>
+	<game name="Go! Go! Ackman Planet (Japan)">
+		<category>Games</category>
+		<description>Go! Go! Ackman Planet (Japan)</description>
+		<rom name="Go! Go! Ackman Planet (Japan).cue" size="210" crc="fef60958" md5="fd91b61619db55aaf4875a896b5f78b5" sha1="c6cc244c95cb8511dc337a747445742d8fab7a4a"/>
+		<rom name="Go! Go! Ackman Planet (Japan) (Track 1).bin" size="9878400" crc="1cbf2c16" md5="98bf5a612496910bc411618553b7bc77" sha1="7dc243bde5b89667e852804c26bb88ce95c5f15f"/>
+		<rom name="Go! Go! Ackman Planet (Japan) (Track 2).bin" size="337194480" crc="f1974e93" md5="a798e9cc456a0dfce59789652d2077da" sha1="d8913abe6ca44cfb4e12ccfcb1c566a9014bc1b3"/>
+	</game>
+	<game name="Elements Voice Series - Mariko Kouda - Welcome to the Marikotown! (Japan)">
+		<category>Games</category>
+		<description>Elements Voice Series - Mariko Kouda - Welcome to the Marikotown! (Japan)</description>
+		<rom name="Elements Voice Series - Mariko Kouda - Welcome to the Marikotown! (Japan).cue" size="321" crc="b12095b3" md5="1c0998bf61e3c1ee3276c4e4b46dab3c" sha1="39866531159796e890af75e3046483c4b63a7dd4"/>
+		<rom name="Elements Voice Series - Mariko Kouda - Welcome to the Marikotown! (Japan) (Track 1).bin" size="9878400" crc="d8bf55da" md5="4242dd4f3bd9a06483092bde55680070" sha1="17b9ac98055ae93f979d44955d7d996fa14366a8"/>
+		<rom name="Elements Voice Series - Mariko Kouda - Welcome to the Marikotown! (Japan) (Track 2).bin" size="766116960" crc="5ea8aa6e" md5="ee17f2b6332e1802e5d29323fd521b27" sha1="4e4df9d42ec87e7c682581ec8bd309ca2b310674"/>
+	</game>
+	<game name="Mari-nee no Heya (Japan)">
+		<category>Bonus Discs</category>
+		<description>Mari-nee no Heya (Japan)</description>
+		<rom name="Mari-nee no Heya (Japan).cue" size="223" crc="c967476a" md5="df91b89a48882aae182ab59d729b70ce" sha1="f25e238a909177415f66ee3717493e17fea46554"/>
+		<rom name="Mari-nee no Heya (Japan) (Track 1).bin" size="9878400" crc="e5fe54be" md5="e020c6cec294ecd0e02ad7729daf0e86" sha1="7d8b42557dd0b1e8c54bf5f1d6fff78284ab5c03"/>
+		<rom name="Mari-nee no Heya (Japan) (Track 2).bin" size="194134080" crc="b44192a1" md5="c5b60d679e8c900e7211967640af22ac" sha1="74a638700660740024a5aaf7fd711fa8fdfb7fe7"/>
+	</game>
+	<game name="Playdia iQ Kids - Ultraman - Hiragana Daisakusen (Japan)">
+		<category>Educational</category>
+		<description>Playdia iQ Kids - Ultraman - Hiragana Daisakusen (Japan)</description>
+		<rom name="Playdia iQ Kids - Ultraman - Hiragana Daisakusen (Japan).cue" size="264" crc="aa095e76" md5="7296f5151d9188c3b1e831cfd7d7baee" sha1="1530fb349055a08b523301c9d24bb946e1d631fc"/>
+		<rom name="Playdia iQ Kids - Ultraman - Hiragana Daisakusen (Japan) (Track 1).bin" size="9878400" crc="6d9e3482" md5="f529cd686d63becff04434f304a8a743" sha1="9b922ae5b17519a83025f4688401370c19d793b0"/>
+		<rom name="Playdia iQ Kids - Ultraman - Hiragana Daisakusen (Japan) (Track 2).bin" size="769339200" crc="8370fe09" md5="32908230846541d1b566164e83708207" sha1="a106784ba4607fb29542cd54c27a02bfc1284449"/>
+	</game>
+	<game name="Playdia iQ Kids - Ultraman - Chinou UP Daisakusen (Japan)">
+		<category>Educational</category>
+		<description>Playdia iQ Kids - Ultraman - Chinou UP Daisakusen (Japan)</description>
+		<rom name="Playdia iQ Kids - Ultraman - Chinou UP Daisakusen (Japan).cue" size="266" crc="ba74600f" md5="6282eab873201c53d516a51ddaf2ac6b" sha1="e27ad220780e26d91dffe17622e06baf28873ce5"/>
+		<rom name="Playdia iQ Kids - Ultraman - Chinou UP Daisakusen (Japan) (Track 1).bin" size="9878400" crc="02e638c5" md5="140089f0d6371f6535a0b01b219669e4" sha1="c1d92db6ae79bb0ee86bbb96220ecee6379b47d4"/>
+		<rom name="Playdia iQ Kids - Ultraman - Chinou UP Daisakusen (Japan) (Track 2).bin" size="650939520" crc="204969ba" md5="deea33d74940e952e9d5b1edd62c85f8" sha1="0c9360f46f28ecea67bb6e548380386eb80d621b"/>
+	</game>
+	<game name="Chougoukin Selections (Japan)">
+		<category>Multimedia</category>
+		<description>Chougoukin Selections (Japan)</description>
+		<rom name="Chougoukin Selections (Japan).cue" size="118" crc="2f898e23" md5="e86efef3e779be49eacb0850d39f7e4b" sha1="839e3c69d8c096b2b112af56bd2a05c8e981a7fe"/>
+		<rom name="Chougoukin Selections (Japan).bin" size="742808640" crc="ebcfcfe0" md5="4976ae4a9a826866f66122b4b40821d3" sha1="ff56c5fbead37ca0a27fb9abdc60077cf1780fe7"/>
+	</game>
+	<game name="Playdia iQ Kids - Nintama Rantarou - Gungun Nobiru Chinou-hen (Japan)">
+		<category>Educational</category>
+		<description>Playdia iQ Kids - Nintama Rantarou - Gungun Nobiru Chinou-hen (Japan)</description>
+		<rom name="Playdia iQ Kids - Nintama Rantarou - Gungun Nobiru Chinou-hen (Japan).cue" size="313" crc="807f3146" md5="f94652e0ccdead8f45d1f9d408f1587f" sha1="2954790e5a855c0927ea60b7a93460ee8f45d2fb"/>
+		<rom name="Playdia iQ Kids - Nintama Rantarou - Gungun Nobiru Chinou-hen (Japan) (Track 1).bin" size="9878400" crc="9d032c4e" md5="9117c8c2e8aa245fdcdaffff4dabd1ca" sha1="367c990c84238074de502ea2d07a0627368caec0"/>
+		<rom name="Playdia iQ Kids - Nintama Rantarou - Gungun Nobiru Chinou-hen (Japan) (Track 2).bin" size="662617200" crc="75e40719" md5="4ad411733b254d742b9310f0bb788189" sha1="1ed2a71ec1a12615442044c63b58b3b55a70b035"/>
+	</game>
+	<game name="Bandai Item Collection 70' (Japan)">
+		<category>Games</category>
+		<description>Bandai Item Collection 70' (Japan)</description>
+		<rom name="Bandai Item Collection 70' (Japan).cue" size="220" crc="61b0a0e1" md5="5a627906b3f537622e90e84ef578b7d9" sha1="c4fe727cb3d86331d6c220997655931cb97aa122"/>
+		<rom name="Bandai Item Collection 70' (Japan) (Track 1).bin" size="9878400" crc="7f3fad6c" md5="c06f7d3ebf0f3a642789b8508a98e0e8" sha1="007b234d27cc4b06b9355ef6e3628d68c8789bd3"/>
+		<rom name="Bandai Item Collection 70' (Japan) (Track 2).bin" size="408342480" crc="e3dbb9e5" md5="b6aec1a5a0e646c797ab3779b451d43f" sha1="c5a55a25c566b40cde155c22b2ae2a57663464f4"/>
+	</game>
+	<game name="Elements Voice Series - Yuri Shiratori - Rainbow Harmony (Japan)">
+		<category>Games</category>
+		<description>Elements Voice Series - Yuri Shiratori - Rainbow Harmony (Japan)</description>
+		<rom name="Elements Voice Series - Yuri Shiratori - Rainbow Harmony (Japan).cue" size="303" crc="334a5682" md5="81103c441802a749b97f038e8d513ec3" sha1="67e4d70a79d4e67449eb6a33d8832a12de99372a"/>
+		<rom name="Elements Voice Series - Yuri Shiratori - Rainbow Harmony (Japan) (Track 1).bin" size="9878400" crc="6ac0a824" md5="9a9a33117c7a3ffc9d670628aa6399ae" sha1="10af40b604499133990169788728a1167919785e"/>
+		<rom name="Elements Voice Series - Yuri Shiratori - Rainbow Harmony (Japan) (Track 2).bin" size="769774320" crc="de984e7c" md5="990f24ff2aa9c39518286ab6a50df593" sha1="1385e6df8eb3658091ea0b304b4fc3a54b050d90"/>
+	</game>
+	<game name="Yumi to Tokoton Playdia (Japan) (Dokidoki Campaign)">
+		<category>Multimedia</category>
+		<description>Yumi to Tokoton Playdia (Japan) (Dokidoki Campaign)</description>
+		<rom name="Yumi to Tokoton Playdia (Japan) (Dokidoki Campaign).cue" size="254" crc="4ecae221" md5="587ba5936bd95fba08a020bae1c46f1d" sha1="e487ed975392b83d2afed78da81734dea1815f50"/>
+		<rom name="Yumi to Tokoton Playdia (Japan) (Dokidoki Campaign) (Track 1).bin" size="9878400" crc="90153d6b" md5="77895a48458b9b7b11fabf160757b53e" sha1="5f5697df6cd074be692b8d06a8e22cdfe901e3d3"/>
+		<rom name="Yumi to Tokoton Playdia (Japan) (Dokidoki Campaign) (Track 2).bin" size="208351920" crc="c00363a7" md5="c47acefe168717715e633835c81a93af" sha1="c45d54f5a7ccd85b5aa91a3e3b34593df780ab00"/>
+	</game>
+	<game name="Playdia iQ Kids - Nintama Rantarou - Hajimete Oboeru Chishiki-hen (Japan)">
+		<category>Games</category>
+		<description>Playdia iQ Kids - Nintama Rantarou - Hajimete Oboeru Chishiki-hen (Japan)</description>
+		<rom name="Playdia iQ Kids - Nintama Rantarou - Hajimete Oboeru Chishiki-hen (Japan).cue" size="298" crc="b479f900" md5="17943c32705b821f153a69d4c3546d87" sha1="e884eb8d89ddb6f5148db2a113a3c8bd6589b383"/>
+		<rom name="Playdia iQ Kids - Nintama Rantarou - Hajimete Oboeru Chishiki-hen (Japan) (Track 1).bin" size="9878400" crc="4b2ab8a4" md5="6d8a6944aafbc41ce43d795bbf7bb0e0" sha1="95dda81ef95a2161c44ff8c3ec537510b90c699d"/>
+		<rom name="Playdia iQ Kids - Nintama Rantarou - Hajimete Oboeru Chishiki-hen (Japan) (Track 2).bin" size="759225600" crc="7622177c" md5="0ac68192e92c101ae1406b678412f02b" sha1="71e4b471a07afbffa20a6c15d651f2d6bb03e898"/>
+	</game>
+	<game name="Playdia - Quick Interactive System - Sample Soft (Japan)">
+		<category>Demos</category>
+		<description>Playdia - Quick Interactive System - Sample Soft (Japan)</description>
+		<rom name="Playdia - Quick Interactive System - Sample Soft (Japan).cue" size="264" crc="a2defaa7" md5="2bd89383802a99a333f704ee183d71b8" sha1="3e7da786f66eeb467fa4bb8d7c50c406d892ca3b"/>
+		<rom name="Playdia - Quick Interactive System - Sample Soft (Japan) (Track 1).bin" size="9878400" crc="dd33b4a6" md5="68f883c22bb3e2f4948dfc1b22cf9a19" sha1="306d9a5ad74ab7c0a209676761e035869eb7d4ba"/>
+		<rom name="Playdia - Quick Interactive System - Sample Soft (Japan) (Track 2).bin" size="693487200" crc="1466a72f" md5="d4b5f5a69d0e641f0d3d7352de2ff8ab" sha1="cd5a063cdc10e475757c6238c228f6a814fe7600"/>
+	</game>
+	<game name="Kero Kero Keroppi - Uki Uki Party Land!! (Japan)">
+		<category>Games</category>
+		<description>Kero Kero Keroppi - Uki Uki Party Land!! (Japan)</description>
+		<rom name="Kero Kero Keroppi - Uki Uki Party Land!! (Japan).cue" size="248" crc="cd3a9cd1" md5="29c6cebcf13456a281422b758888a2a2" sha1="6d76690dc6d1c65a53ca014de57751b0a960cd31"/>
+		<rom name="Kero Kero Keroppi - Uki Uki Party Land!! (Japan) (Track 1).bin" size="9878400" crc="9cbec8b5" md5="7637aef9cbcc91775310971bc47c26ad" sha1="03d2048f88e1eeebb2cc71d3935f235f2c990542"/>
+		<rom name="Kero Kero Keroppi - Uki Uki Party Land!! (Japan) (Track 2).bin" size="772549680" crc="7e5fa6cb" md5="3a9f2615c1a2b5de3831fb1425535570" sha1="020aa03f4a3dd20b287cf8a8f00f14d86f3e237a"/>
+	</game>
+</datafile>

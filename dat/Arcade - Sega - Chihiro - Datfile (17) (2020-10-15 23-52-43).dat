@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Arcade - Sega - Chihiro</name>
+		<description>Arcade - Sega - Chihiro - Discs (17) (2020-10-15 23-52-43)</description>
+		<version>2020-10-15 23-52-43</version>
+		<date>2020-10-15 23-52-43</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Sega Network Taisen Mahjong MJ2 (Japan) (Rev C)">
+		<category>Games</category>
+		<description>Sega Network Taisen Mahjong MJ2 (Japan) (Rev C)</description>
+		<rom name="Sega Network Taisen Mahjong MJ2 (Japan) (Rev C).cue" size="435" crc="b43b54a3" md5="0f47e843634625bf3f53854d5c0dcdc5" sha1="d3d1ec22f3864ed92fafd29ec460dab35043af2a"/>
+		<rom name="Sega Network Taisen Mahjong MJ2 (Japan) (Rev C) (Track 1).bin" size="1058400" crc="390a209f" md5="e1e7109cd90ffa9b469b2402c12ab790" sha1="42892c3d897a300fd7af25f0e51dae7a5d2c322d"/>
+		<rom name="Sega Network Taisen Mahjong MJ2 (Japan) (Rev C) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Sega Network Taisen Mahjong MJ2 (Japan) (Rev C) (Track 3).bin" size="1185760800" crc="c8f373f6" md5="43c1b588a0f3831224e0e5e1f9b0ef89" sha1="e84197fde6365b120b0316c1375d5c48e038ec0a"/>
+	</game>
+	<game name="Sega Network Taisen Mahjong MJ3 (Japan) (Rev D)">
+		<category>Games</category>
+		<description>Sega Network Taisen Mahjong MJ3 (Japan) (Rev D)</description>
+		<rom name="Sega Network Taisen Mahjong MJ3 (Japan) (Rev D).cue" size="435" crc="04459e6c" md5="077a431efd9ac0881085cb28e080352b" sha1="9381dcb2fde4d170bcf646825262a94bdfaf96a0"/>
+		<rom name="Sega Network Taisen Mahjong MJ3 (Japan) (Rev D) (Track 1).bin" size="1058400" crc="b28f9ce9" md5="b26a22109f82b02c57dfeb5f5a5b6b61" sha1="d3ecfdaa491b5405bf5e0232ff6d6b8203bdceba"/>
+		<rom name="Sega Network Taisen Mahjong MJ3 (Japan) (Rev D) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Sega Network Taisen Mahjong MJ3 (Japan) (Rev D) (Track 3).bin" size="1185760800" crc="9aac328b" md5="cdd20e84c48fdb8680375b99dc1dec2e" sha1="ba5207902244d581bbfb1ceed54c39786af675fd"/>
+	</game>
+	<game name="Wangan Midnight Maximum Tune 2 (Japan)">
+		<category>Games</category>
+		<description>Wangan Midnight Maximum Tune 2 (Japan)</description>
+		<rom name="Wangan Midnight Maximum Tune 2 (Japan).cue" size="408" crc="2100c45c" md5="6f8d10ad0b00e9d9b5ac56c2624fbb66" sha1="d18e863a4e4514565b4f7101a250dd45165b78c8"/>
+		<rom name="Wangan Midnight Maximum Tune 2 (Japan) (Track 1).bin" size="1058400" crc="dc01a932" md5="86f4e3eff8934102e13b568ef27c8ff9" sha1="e265ebf93aa7be02fbe79ec1cef472e930d55ab5"/>
+		<rom name="Wangan Midnight Maximum Tune 2 (Japan) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Wangan Midnight Maximum Tune 2 (Japan) (Track 3).bin" size="1185760800" crc="f0e37929" md5="18b38b139031ec9925ebc610d4dbf756" sha1="cb3ec1fe36f745970ad5f8f51d2567892fe31906"/>
+	</game>
+	<game name="Wangan Midnight Maximum Tune (World) (Rev B)">
+		<category>Games</category>
+		<description>Wangan Midnight Maximum Tune (World) (Rev B)</description>
+		<rom name="Wangan Midnight Maximum Tune (World) (Rev B).cue" size="426" crc="bd47b725" md5="2d6a818db97b75db93016f8df58da056" sha1="b1a8fa319a2b81511ec5a48fdf19d183f2fbb17b"/>
+		<rom name="Wangan Midnight Maximum Tune (World) (Rev B) (Track 1).bin" size="1058400" crc="59e899c4" md5="7ebdb206d5e2d46da41a3b69b6cb66d0" sha1="3447e86f3a739880af27f1d4587fc68e9aa7c5d4"/>
+		<rom name="Wangan Midnight Maximum Tune (World) (Rev B) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Wangan Midnight Maximum Tune (World) (Rev B) (Track 3).bin" size="1185760800" crc="c22ba22b" md5="42b2f0fda499fb9680d642d563bddbe1" sha1="84c032e089f75f910804ebaad5400edec84dd5f3"/>
+	</game>
+	<game name="Sega Network Taisen Mahjong MJ2 (Japan) (Rev D)">
+		<category>Games</category>
+		<description>Sega Network Taisen Mahjong MJ2 (Japan) (Rev D)</description>
+		<rom name="Sega Network Taisen Mahjong MJ2 (Japan) (Rev D).cue" size="435" crc="eb881422" md5="9bee1870d9b65cc31293d45b7b0d8a7b" sha1="de395defd3dd74753c40e35b9fea00f5b5252b7f"/>
+		<rom name="Sega Network Taisen Mahjong MJ2 (Japan) (Rev D) (Track 1).bin" size="1058400" crc="3538baf7" md5="b2da55fbd84caddc7fc758e57784d748" sha1="b5a93421c4e42adeeda3b8ae5d7eb712c022ef6b"/>
+		<rom name="Sega Network Taisen Mahjong MJ2 (Japan) (Rev D) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Sega Network Taisen Mahjong MJ2 (Japan) (Rev D) (Track 3).bin" size="1185760800" crc="bcf318ce" md5="c4209c163f711c29e58bf2e06f7babb7" sha1="d5711b11f459adfd6f8287a907f098a3a0ace9c6"/>
+	</game>
+	<game name="Wangan Midnight Maximum Tune 2 (World)">
+		<category>Games</category>
+		<description>Wangan Midnight Maximum Tune 2 (World)</description>
+		<rom name="Wangan Midnight Maximum Tune 2 (World).cue" size="408" crc="b5e3e92c" md5="066d229e7d27fdeb24d7a9845bd7e7af" sha1="0b981abc5a69e83e173b88a305c307c0dc370c4c"/>
+		<rom name="Wangan Midnight Maximum Tune 2 (World) (Track 1).bin" size="1058400" crc="98825f50" md5="89eb5428c3330bf99475f9f79d37bac3" sha1="22d5abba9e819899654db8931a46eea23ee36058"/>
+		<rom name="Wangan Midnight Maximum Tune 2 (World) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Wangan Midnight Maximum Tune 2 (World) (Track 3).bin" size="1185760800" crc="3c89fa7e" md5="385d6f475ebd6f6832f34fc98bf53bf3" sha1="9ed0b26b1e4881229658b0dcba9f037a481a6ed8"/>
+	</game>
+	<game name="House of the Dead 3, The (World)">
+		<category>Games</category>
+		<description>House of the Dead 3, The (World)</description>
+		<rom name="House of the Dead 3, The (World).cue" size="390" crc="6a1d418c" md5="6476fb05960a8f57b3cd8f3f7bc92340" sha1="82a058c12663e7424e9e159803900ab3e8c0e003"/>
+		<rom name="House of the Dead 3, The (World) (Track 1).bin" size="1058400" crc="bd2f7c0a" md5="5f3de364308394a5a565621c169a243e" sha1="d7dd68ca38be6d747368892ab18a229267e9f185"/>
+		<rom name="House of the Dead 3, The (World) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="House of the Dead 3, The (World) (Track 3).bin" size="1185760800" crc="0214aecb" md5="c9cdb69a12104f91e14383bd2d25eca7" sha1="1b6f2a0c884c2f8b0264a0ef070035d923912707"/>
+	</game>
+	<game name="Crazy Taxi High Roller (World) (Rev B)">
+		<category>Games</category>
+		<description>Crazy Taxi High Roller (World) (Rev B)</description>
+		<rom name="Crazy Taxi High Roller (World) (Rev B).cue" size="408" crc="52471f8d" md5="1865499fa8894485e0dc97411f15b4ae" sha1="d57ba5ac225e16cdfe970f3c10575dfd304a8d3a"/>
+		<rom name="Crazy Taxi High Roller (World) (Rev B) (Track 1).bin" size="1058400" crc="7b834d4f" md5="7615bf8db0aa9a1ea4ddc2744ef85566" sha1="a211348441ab8e003239578094a25970dc2d30d5"/>
+		<rom name="Crazy Taxi High Roller (World) (Rev B) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Crazy Taxi High Roller (World) (Rev B) (Track 3).bin" size="1185760800" crc="c59802b2" md5="26fb1befc8882670019bdcf4584d4464" sha1="4ce66c992e5cdac03ccea4d57ac47fb688d6094a"/>
+	</game>
+	<game name="OutRun 2 (World) (Rev A)">
+		<category>Games</category>
+		<description>OutRun 2 (World) (Rev A)</description>
+		<rom name="OutRun 2 (World) (Rev A).cue" size="366" crc="741eb345" md5="19fc938de65b651b645e15074a441054" sha1="5926feccf98eba17785750ebb0b8f7eca99f3b53"/>
+		<rom name="OutRun 2 (World) (Rev A) (Track 1).bin" size="1058400" crc="1f7cf2d5" md5="26ec4733f4adb11828fe62eed8fcb23a" sha1="5922e98fd18371c4b3c0bd8a9ed14b77b2b814de"/>
+		<rom name="OutRun 2 (World) (Rev A) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="OutRun 2 (World) (Rev A) (Track 3).bin" size="1185760800" crc="abdaf498" md5="d28aec1e7f5bd9496d2b92430bec0c39" sha1="06d1dfd89e0f13d2027cff33d275127678cbe87f"/>
+	</game>
+	<game name="Ghost Squad (World)">
+		<category>Games</category>
+		<description>Ghost Squad (World)</description>
+		<rom name="Ghost Squad (World).cue" size="351" crc="283d3197" md5="1ff3b3e3011ba8edcfefce888a6440ee" sha1="49729a6319ed160f09a6edea3996eb174c419271"/>
+		<rom name="Ghost Squad (World) (Track 1).bin" size="1058400" crc="e9fdb022" md5="19876d165c5dce9161c38915ae57fb75" sha1="fd64a1c23116a94f77cda7ab5465dfe666ddae0a"/>
+		<rom name="Ghost Squad (World) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Ghost Squad (World) (Track 3).bin" size="1185760800" crc="405fcdbe" md5="05749c1f0724e95d4e6e247a0b9fcf68" sha1="91af62ebf42be5cb78fd3ba870e870e812661afb"/>
+	</game>
+	<game name="Ghost Squad (World) (Rev A)">
+		<category>Games</category>
+		<description>Ghost Squad (World) (Rev A)</description>
+		<rom name="Ghost Squad (World) (Rev A).cue" size="375" crc="cbb3849c" md5="64b6c9e59eeaf147a4fb353d6ea8b651" sha1="3f6be0b254d2b4f068a4e5080c038fbcca3ce0ef"/>
+		<rom name="Ghost Squad (World) (Rev A) (Track 1).bin" size="1058400" crc="b85742e8" md5="d355e67d79672b11033efbf79392d062" sha1="410adeade139c82ba9898521b5c4b6f6206b4321"/>
+		<rom name="Ghost Squad (World) (Rev A) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Ghost Squad (World) (Rev A) (Track 3).bin" size="1185760800" crc="c5c71486" md5="524cc3b4ace807e11ca061bd66b01223" sha1="2fcd95a8932d1a382dd8e06a28e70ffa133536c3"/>
+	</game>
+	<game name="Virtua Cop 3 (World) (Rev B)">
+		<category>Games</category>
+		<description>Virtua Cop 3 (World) (Rev B)</description>
+		<rom name="Virtua Cop 3 (World) (Rev B).cue" size="378" crc="e869a100" md5="5178363941f309dec66a20526de2eac8" sha1="ae9028e19e2838dc746719dee9a5ea15e70a5461"/>
+		<rom name="Virtua Cop 3 (World) (Rev B) (Track 1).bin" size="1058400" crc="4ba3bb82" md5="3e06bc2dc8f66981e07c8d6096e06557" sha1="06866bb9701382775b2d9bded05714fd362290ae"/>
+		<rom name="Virtua Cop 3 (World) (Rev B) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Virtua Cop 3 (World) (Rev B) (Track 3).bin" size="1185760800" crc="0d2de9f1" md5="645fef12b21f5b7e4fcfa5187867ccf2" sha1="ec6182b5166fa0ac3f2a83a3729342b8ea5566ea"/>
+	</game>
+	<game name="Wangan Midnight Maximum Tune (Japan) (Rev B)">
+		<category>Games</category>
+		<description>Wangan Midnight Maximum Tune (Japan) (Rev B)</description>
+		<rom name="Wangan Midnight Maximum Tune (Japan) (Rev B).cue" size="426" crc="0e5cd160" md5="63865e48294d34e62e02f9aab213b296" sha1="95690c8e54331d30b38b6892e6945fd87db9fbb2"/>
+		<rom name="Wangan Midnight Maximum Tune (Japan) (Rev B) (Track 1).bin" size="1058400" crc="389e4e84" md5="5f8a06d2d632422c5a7bb1fdb90f61b0" sha1="ac1dc95a567057b3d724a5f326b04e68d3971361"/>
+		<rom name="Wangan Midnight Maximum Tune (Japan) (Rev B) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Wangan Midnight Maximum Tune (Japan) (Rev B) (Track 3).bin" size="1185760800" crc="1943b965" md5="e04b50dd2ec8bf48821a60c89c9b298a" sha1="19a78e02a5d9360e70867a9b2bf62bceb3e4f3f7"/>
+	</game>
+	<game name="Wangan Midnight Maximum Tune 2 (Japan) (Rev A)">
+		<category>Games</category>
+		<description>Wangan Midnight Maximum Tune 2 (Japan) (Rev A)</description>
+		<rom name="Wangan Midnight Maximum Tune 2 (Japan) (Rev A).cue" size="432" crc="bb165c11" md5="d4473acf8fc877d51af7dd4894d68725" sha1="851406daaf2edcafda9ad85b01828ec859658485"/>
+		<rom name="Wangan Midnight Maximum Tune 2 (Japan) (Rev A) (Track 1).bin" size="1058400" crc="e51ac2e3" md5="738b22fd036fcd9a03be5166b4801140" sha1="816aca29441fad19e87af3f08a0cf46e9a31311f"/>
+		<rom name="Wangan Midnight Maximum Tune 2 (Japan) (Rev A) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Wangan Midnight Maximum Tune 2 (Japan) (Rev A) (Track 3).bin" size="1185760800" crc="dc4832a1" md5="0865325d776f3721d33934cc28b0020d" sha1="48bd5734883b9190e5c04990e14bb86fc62aadb3"/>
+	</game>
+	<game name="Sega Network Taisen Mahjong MJ3 Evolution (Japan) (Rev A)">
+		<category>Games</category>
+		<description>Sega Network Taisen Mahjong MJ3 Evolution (Japan) (Rev A)</description>
+		<rom name="Sega Network Taisen Mahjong MJ3 Evolution (Japan) (Rev A).cue" size="465" crc="70249836" md5="68c9c68cec77df6af0daa0bcbc344b8e" sha1="0c07722cf131a04f8b99125511ad262d8838aba3"/>
+		<rom name="Sega Network Taisen Mahjong MJ3 Evolution (Japan) (Rev A) (Track 1).bin" size="1058400" crc="97c13363" md5="dc821b636ef284c5f6f7ba4484b38f8a" sha1="50423e1cc96b75bea7a468d5c11773acb21d1e7d"/>
+		<rom name="Sega Network Taisen Mahjong MJ3 Evolution (Japan) (Rev A) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Sega Network Taisen Mahjong MJ3 Evolution (Japan) (Rev A) (Track 3).bin" size="1185760800" crc="157f9fc1" md5="ca939d211413b1b138e3285a6c1b78ac" sha1="b054c46acba5f5b9291b29ebfe843c4f6079ea34"/>
+	</game>
+	<game name="Sega Network Taisen Mahjong MJ3 Evolution-you Firmware Koushin Program (Japan)">
+		<category>Applications</category>
+		<description>Sega Network Taisen Mahjong MJ3 Evolution-you Firmware Koushin Program (Japan)</description>
+		<rom name="Sega Network Taisen Mahjong MJ3 Evolution-you Firmware Koushin Program (Japan).cue" size="528" crc="02d79208" md5="fd880c954c22f6a43cac7add3f1ea210" sha1="0911565b696620896c8ac888c4e9d5990f67b89c"/>
+		<rom name="Sega Network Taisen Mahjong MJ3 Evolution-you Firmware Koushin Program (Japan) (Track 1).bin" size="19947312" crc="804c275f" md5="0f9c186127d5a95f50eb14255b8b00be" sha1="77a42a919ba1d301c212c567f62c3a9cc7c7d0fd"/>
+		<rom name="Sega Network Taisen Mahjong MJ3 Evolution-you Firmware Koushin Program (Japan) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Sega Network Taisen Mahjong MJ3 Evolution-you Firmware Koushin Program (Japan) (Track 3).bin" size="1185760800" crc="60ca2e63" md5="cb7238ee1fb9b09365b936fd860b57e9" sha1="247ff5339b3df42e7e91f03b387ad8c9c659aa3d"/>
+	</game>
+	<game name="Wangan Midnight Maximum Tune 2 (World) (Rev A)">
+		<category>Games</category>
+		<description>Wangan Midnight Maximum Tune 2 (World) (Rev A)</description>
+		<rom name="Wangan Midnight Maximum Tune 2 (World) (Rev A).cue" size="432" crc="e86abf05" md5="b484c31d58c39e06e83beb6812cf169b" sha1="6582a68486c72e579d947edd407103ba034924ea"/>
+		<rom name="Wangan Midnight Maximum Tune 2 (World) (Rev A) (Track 1).bin" size="1058400" crc="bac8051e" md5="f42c3b1bdc5033a88a77b2b356cf2c3e" sha1="7daf0249ecf9949ab58ec5ee3bac6f45850d52d4"/>
+		<rom name="Wangan Midnight Maximum Tune 2 (World) (Rev A) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Wangan Midnight Maximum Tune 2 (World) (Rev A) (Track 3).bin" size="1185760800" crc="37d4ad07" md5="99858fc715f9537fac4f0e51d7e160f9" sha1="120ff4026b205b3743e46647f7de84fbee139d03"/>
+	</game>
+</datafile>

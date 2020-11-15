@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Arcade - Sega - Naomi</name>
+		<description>Arcade - Sega - Naomi - Discs (16) (2020-10-08 23-32-27)</description>
+		<version>2020-10-08 23-32-27</version>
+		<date>2020-10-08 23-32-27</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Dynamic Golf ~ Virtua Golf (World) (En,Ja) (Rev A)">
+		<category>Games</category>
+		<description>Dynamic Golf ~ Virtua Golf (World) (En,Ja) (Rev A)</description>
+		<rom name="Dynamic Golf ~ Virtua Golf (World) (En,Ja) (Rev A).cue" size="444" crc="efe89eb4" md5="8b3bfedd027312a5d336e9485b1ed073" sha1="a754a70f00dfa8fb20ed46054bc6844944608de5"/>
+		<rom name="Dynamic Golf ~ Virtua Golf (World) (En,Ja) (Rev A) (Track 1).bin" size="1058400" crc="3844ca3c" md5="d42339b7949585091a5a50186c96afe9" sha1="821f5cac0e29be895330c5a1bf1bdbfb4ad2466d"/>
+		<rom name="Dynamic Golf ~ Virtua Golf (World) (En,Ja) (Rev A) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Dynamic Golf ~ Virtua Golf (World) (En,Ja) (Rev A) (Track 3).bin" size="1185760800" crc="61f4fa45" md5="8490d08f4b8b623e911f42c7620aa0b6" sha1="bb85ba2c98e19487fa761c9da1e5ee886a70f1e5"/>
+	</game>
+	<game name="Kidou Senshi Gundam - Renpou vs. Zeon DX ~ Mobile Suit Gundam - The Earth Federation vs. The Principality of Zeon Deluxe (Japan, USA) (En,Ja)">
+		<category>Games</category>
+		<description>Kidou Senshi Gundam - Renpou vs. Zeon DX ~ Mobile Suit Gundam - The Earth Federation vs. The Principality of Zeon Deluxe (Japan, USA) (En,Ja)</description>
+		<rom name="Kidou Senshi Gundam - Renpou vs. Zeon DX ~ Mobile Suit Gundam - The Earth Federation vs. The Principality of Zeon Deluxe (Japan, USA) (En,Ja).cue" size="717" crc="666f381e" md5="762cd1898a048a550ebedb0835372865" sha1="f1354e09a10df552ff1e943d5b5cc019a659f2d3"/>
+		<rom name="Kidou Senshi Gundam - Renpou vs. Zeon DX ~ Mobile Suit Gundam - The Earth Federation vs. The Principality of Zeon Deluxe (Japan, USA) (En,Ja) (Track 1).bin" size="1058400" crc="e7370559" md5="eb75eeb9d334e327fdf6b88209a800d4" sha1="85ec50a520c5b928ef7bd5d30ce0690c21aa4464"/>
+		<rom name="Kidou Senshi Gundam - Renpou vs. Zeon DX ~ Mobile Suit Gundam - The Earth Federation vs. The Principality of Zeon Deluxe (Japan, USA) (En,Ja) (Track 2).bin" size="5402544" crc="06f772c0" md5="7a9fe426c4050c8ed38254fa5630510c" sha1="496a35c83435f4558ced39cc66742df3ef14422b"/>
+		<rom name="Kidou Senshi Gundam - Renpou vs. Zeon DX ~ Mobile Suit Gundam - The Earth Federation vs. The Principality of Zeon Deluxe (Japan, USA) (En,Ja) (Track 3).bin" size="1185760800" crc="8c28f0c2" md5="698cb726e6c596290989309508c9fe80" sha1="af0d68e7ce492d1be8a629a2670846c43d486cd2"/>
+	</game>
+	<game name="Puyo Pop Fever (World)">
+		<category>Games</category>
+		<description>Puyo Pop Fever (World)</description>
+		<rom name="Puyo Pop Fever (World).cue" size="360" crc="4dfe9dae" md5="3b384118a13ac27afeebfab163537adf" sha1="ea13b4ded9a4fbf9055dc67eacf939ac2eb6f8a2"/>
+		<rom name="Puyo Pop Fever (World) (Track 1).bin" size="1058400" crc="ee08f87d" md5="1dc57a538e35ffe4e98abefe64b52a6a" sha1="c54805d3a2c196e1a433d7177a2f5f708480f89a"/>
+		<rom name="Puyo Pop Fever (World) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Puyo Pop Fever (World) (Track 3).bin" size="1185760800" crc="e07684e4" md5="005dcfbfca160510382ff1d3ecf24eb5" sha1="ea7d131570389fcc11f5d86b3d71823e049fb00b"/>
+	</game>
+	<game name="Power Smash - Sega Professional Tennis ~ Virtua Tennis - Sega Professional Tennis (World) (En,Ja)">
+		<category>Games</category>
+		<description>Power Smash - Sega Professional Tennis ~ Virtua Tennis - Sega Professional Tennis (World) (En,Ja)</description>
+		<rom name="Power Smash - Sega Professional Tennis ~ Virtua Tennis - Sega Professional Tennis (World) (En,Ja).cue" size="585" crc="302a3c0f" md5="a184b593379d54f0c53408b0c8a472bf" sha1="be660606a02010b7c08f310a083fa607db70ee6a"/>
+		<rom name="Power Smash - Sega Professional Tennis ~ Virtua Tennis - Sega Professional Tennis (World) (En,Ja) (Track 1).bin" size="705600" crc="e8aebf84" md5="baf3f140981132ca39e1b919ed0467bb" sha1="8f48decbdd4af82e523a7e3ebd932262e6cc21a7"/>
+		<rom name="Power Smash - Sega Professional Tennis ~ Virtua Tennis - Sega Professional Tennis (World) (En,Ja) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Power Smash - Sega Professional Tennis ~ Virtua Tennis - Sega Professional Tennis (World) (En,Ja) (Track 3).bin" size="1185760800" crc="b7f65ec6" md5="343ac1301e09315aa578abfeb770b70d" sha1="7826555c28e9419505bc112c916eaf1549a358ad"/>
+	</game>
+	<game name="Slashout (World) (En,Ja)">
+		<category>Games</category>
+		<description>Slashout (World) (En,Ja)</description>
+		<rom name="Slashout (World) (En,Ja).cue" size="366" crc="8e5768cf" md5="750a2e777891db7e7ef4a18c75c9d94b" sha1="61c8b022987464b4b10d37e297ff1e836f560601"/>
+		<rom name="Slashout (World) (En,Ja) (Track 1).bin" size="705600" crc="6c853d19" md5="6608e9f42a0e5ccc97fff7ce1171becd" sha1="473ddc941b4099d79cfd20df74aba28c70c96bac"/>
+		<rom name="Slashout (World) (En,Ja) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Slashout (World) (En,Ja) (Track 3).bin" size="1185760800" crc="5b864e5e" md5="9d68a360f6d1efd90479c84125c0d12f" sha1="58bf53069d164bac5b148c8ca8ad233c6e992afa"/>
+	</game>
+	<game name="Maze of the Kings, The (World) (En,Ja)">
+		<category>Games</category>
+		<description>Maze of the Kings, The (World) (En,Ja)</description>
+		<rom name="Maze of the Kings, The (World) (En,Ja).cue" size="408" crc="b1b9057f" md5="b1d0aa8c9700b71b5b2b425a5f146286" sha1="a1893cc7ac85a7da9d57e40cd1f0db913cb7871a"/>
+		<rom name="Maze of the Kings, The (World) (En,Ja) (Track 1).bin" size="705600" crc="b38ec60c" md5="7a44612e24c256658f776194d15837b6" sha1="4c0a3995fbb2ca26590bb9d9ceec73c594453b96"/>
+		<rom name="Maze of the Kings, The (World) (En,Ja) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Maze of the Kings, The (World) (En,Ja) (Track 3).bin" size="1185760800" crc="064cf39d" md5="10cd29f9c1d73ee3199f6c1b022d856d" sha1="e76aca3a8a723fd3cfca908b8c05dafade0b27f8"/>
+	</game>
+	<game name="Street Fighter Zero 3 Upper (Japan)">
+		<category>Games</category>
+		<description>Street Fighter Zero 3 Upper (Japan)</description>
+		<rom name="Street Fighter Zero 3 Upper (Japan).cue" size="399" crc="e756ac3f" md5="32de2d34c90eba6bdfacae1173d40f75" sha1="bfd480cfb5087f609b536cf8cf18eb4fac2783b4"/>
+		<rom name="Street Fighter Zero 3 Upper (Japan) (Track 1).bin" size="705600" crc="febabdae" md5="4fbb3e9dc2f9ccaedd31d0665b35d10d" sha1="aa5125b3351eba56223f003d5c64727d44bd1e71"/>
+		<rom name="Street Fighter Zero 3 Upper (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Street Fighter Zero 3 Upper (Japan) (Track 3).bin" size="1185760800" crc="dbc19e05" md5="2ff06340d15638c1f3cca4ed533aa312" sha1="e65d20135074d2470de8145f9e2575bda75f4274"/>
+	</game>
+	<game name="Guilty Gear XX - The Midnight Carnival Reload (Japan)">
+		<category>Games</category>
+		<description>Guilty Gear XX - The Midnight Carnival Reload (Japan)</description>
+		<rom name="Guilty Gear XX - The Midnight Carnival Reload (Japan).cue" size="453" crc="f2095fe9" md5="527d46ae0a22ab666efa9018d9093ce9" sha1="633e43a4ef6962cd51a7289013e62e52e4f8cd68"/>
+		<rom name="Guilty Gear XX - The Midnight Carnival Reload (Japan) (Track 1).bin" size="1058400" crc="d6d785c9" md5="a5130352f5dbc46341f5bb4c30351d2a" sha1="ee57efa80f0ac4726ea44f6159d0731b7d7f30fd"/>
+		<rom name="Guilty Gear XX - The Midnight Carnival Reload (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Guilty Gear XX - The Midnight Carnival Reload (Japan) (Track 3).bin" size="1185760800" crc="16d0e0dc" md5="e57af9c31e4d0d82bede525c9237118f" sha1="f78e662fa7432805668aa36a0a7c5febeece4d78"/>
+	</game>
+	<game name="Tetris Kiwamemichi (Japan)">
+		<category>Games</category>
+		<description>Tetris Kiwamemichi (Japan)</description>
+		<rom name="Tetris Kiwamemichi (Japan).cue" size="372" crc="e884ba31" md5="94dfe586a032c6744bc08032dacc72e7" sha1="c8fedaa1fd84eac936c84ac54ce8f89c48ea744f"/>
+		<rom name="Tetris Kiwamemichi (Japan) (Track 1).bin" size="24797136" crc="c72832dc" md5="f8d60edb1434c0bc435e0b3ab2a70a5f" sha1="5cf394175d4caad3b37b8f4ec213cb7b81d9a71f"/>
+		<rom name="Tetris Kiwamemichi (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Tetris Kiwamemichi (Japan) (Track 3).bin" size="1185760800" crc="735e94eb" md5="615d04f8b8c900e71d5ee18eba093d41" sha1="d9484f89c52ff762838159b280b6eb9293a35b8b"/>
+	</game>
+	<game name="Super Shanghai 2005 (Japan)">
+		<category>Games</category>
+		<description>Super Shanghai 2005 (Japan)</description>
+		<rom name="Super Shanghai 2005 (Japan).cue" size="375" crc="4aa8d73a" md5="2c9e30941eed59bfabf1e01f2741c26e" sha1="b7fc09425dc62a77d8b7de8b1d302885c85539ed"/>
+		<rom name="Super Shanghai 2005 (Japan) (Track 1).bin" size="705600" crc="84326b1f" md5="40a488088384b97184d228e7f5a606dc" sha1="39c0e1c5d2224aa50281e81210aae0b547d30ab9"/>
+		<rom name="Super Shanghai 2005 (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Super Shanghai 2005 (Japan) (Track 3).bin" size="1185760800" crc="33421b8a" md5="b56bbbf751941216cb7505bf20dbad11" sha1="ca477bc2653a2893ba4a8795252ffdbd07a764a6"/>
+	</game>
+	<game name="Super Shanghai 2005 (Japan) (Rev A)">
+		<category>Games</category>
+		<description>Super Shanghai 2005 (Japan) (Rev A)</description>
+		<rom name="Super Shanghai 2005 (Japan) (Rev A).cue" size="399" crc="d06d5ddf" md5="b3fe54a3478e334f68a85c2912201a99" sha1="3d24c7b1f913745f7dbd8c8ee63c8c8e9b29ff74"/>
+		<rom name="Super Shanghai 2005 (Japan) (Rev A) (Track 1).bin" size="705600" crc="b760a22d" md5="62a5ac28b7c07d18654a12c1d6d08b4e" sha1="102bd028a32d8eb2497dca77d4a83d883661c11e"/>
+		<rom name="Super Shanghai 2005 (Japan) (Rev A) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Super Shanghai 2005 (Japan) (Rev A) (Track 3).bin" size="1185760800" crc="56410baf" md5="28986d120e3991284a31c08b6abd0004" sha1="e1eb7cc8385ce1a582f57cb48a0a38e5cacd3e62"/>
+	</game>
+	<game name="Radirgy (Japan)">
+		<category>Games</category>
+		<description>Radirgy (Japan)</description>
+		<rom name="Radirgy (Japan).cue" size="339" crc="14b6da54" md5="25082b9bfdbd73f3f2956e953bcbdcef" sha1="02cfaa60deb1b3739778ed55e92954be292aa561"/>
+		<rom name="Radirgy (Japan) (Track 1).bin" size="705600" crc="fbac2577" md5="f439ade9a2159d37b80b72a56bf4f278" sha1="61c918c1188dd81049fcd128f76857c8783b8162"/>
+		<rom name="Radirgy (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Radirgy (Japan) (Track 3).bin" size="1185760800" crc="a3e7a522" md5="85e44a45888e63ee72a0f2cb9a76545e" sha1="a5bda299727db7221fe0bb62fe6cc428eaccb09b"/>
+	</game>
+	<game name="Guilty Gear XX Slash - The Midnight Carnival (Japan) (Rev A)">
+		<category>Games</category>
+		<description>Guilty Gear XX Slash - The Midnight Carnival (Japan) (Rev A)</description>
+		<rom name="Guilty Gear XX Slash - The Midnight Carnival (Japan) (Rev A).cue" size="474" crc="b4beff2b" md5="d77f7a25d1886462163b752e97f0cb86" sha1="f4eb944c6f18a9e7f3c52af63a0458ee20bbf982"/>
+		<rom name="Guilty Gear XX Slash - The Midnight Carnival (Japan) (Rev A) (Track 1).bin" size="1058400" crc="c552e47f" md5="1f93f05b24973370d75449d9c6b28f2a" sha1="ef8cea0acbbb8352c68d04fe04c75bc0c2755d8b"/>
+		<rom name="Guilty Gear XX Slash - The Midnight Carnival (Japan) (Rev A) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Guilty Gear XX Slash - The Midnight Carnival (Japan) (Rev A) (Track 3).bin" size="1185760800" crc="6d7c1bfa" md5="d70730c20cfd34bd8a3ab83e0620e413" sha1="e032c2d6323e5a976dd9e2f8a54e6fa38276d2cc"/>
+	</game>
+	<game name="NouKone Puzzle - Takoron (Japan)">
+		<category>Games</category>
+		<description>NouKone Puzzle - Takoron (Japan)</description>
+		<rom name="NouKone Puzzle - Takoron (Japan).cue" size="390" crc="e4939dff" md5="23dd16fed57d3d6c5277e76de192608a" sha1="a874fbc36408b824365eea7389bad96aa945d58c"/>
+		<rom name="NouKone Puzzle - Takoron (Japan) (Track 1).bin" size="705600" crc="98dd1326" md5="68a71206aec7b718ecab4336f96cd73c" sha1="9846d2c4a2fe5065da87702d14da8097102dde41"/>
+		<rom name="NouKone Puzzle - Takoron (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="NouKone Puzzle - Takoron (Japan) (Track 3).bin" size="1185760800" crc="430c7f3d" md5="a88b0fad20fedcb80705e89977420f31" sha1="e34a67fac7e2410cf5ccd966018678f5fd3dc349"/>
+	</game>
+	<game name="Chaos Field (Japan)">
+		<category>Games</category>
+		<description>Chaos Field (Japan)</description>
+		<rom name="Chaos Field (Japan).cue" size="351" crc="44d0cb5a" md5="d3f6ae61e308f863a89fe7d19513e88a" sha1="5dcb05a75c6b4fe87b676ced015dc88a4206d1a2"/>
+		<rom name="Chaos Field (Japan) (Track 1).bin" size="705600" crc="23c2bcca" md5="deb8fc43fcdb19e1582d22eebc0b6095" sha1="90313a10c427d3a036ff1f0c9f2169fa304718af"/>
+		<rom name="Chaos Field (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Chaos Field (Japan) (Track 3).bin" size="1185760800" crc="286cf26e" md5="83b3f69ade6a19ef8093659d1da0c693" sha1="924121ac1c372421469fcf773bda22b6d946910d"/>
+	</game>
+	<game name="Melty Blood - Act Cadenza (Japan) (Rev C)">
+		<category>Games</category>
+		<description>Melty Blood - Act Cadenza (Japan) (Rev C)</description>
+		<rom name="Melty Blood - Act Cadenza (Japan) (Rev C).cue" size="417" crc="470f48a0" md5="65297930ea7b9cdc5a5d1c0cc3bdf85e" sha1="52cfaeea125cf4e787bb60998f8640d5c8496b87"/>
+		<rom name="Melty Blood - Act Cadenza (Japan) (Rev C) (Track 1).bin" size="5764752" crc="4d16b0de" md5="4c23da79927491b0e4f74acbd69eedc9" sha1="8c0bf8b24862911c21d2074a9784d500cbf9d4d4"/>
+		<rom name="Melty Blood - Act Cadenza (Japan) (Rev C) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Melty Blood - Act Cadenza (Japan) (Rev C) (Track 3).bin" size="1185760800" crc="60225b27" md5="5737ab7464581652de0504551bef39a1" sha1="bf166199f7fc82ab50ea0c92530f540952cbd0f1"/>
+	</game>
+</datafile>
