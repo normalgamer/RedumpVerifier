@@ -2,6 +2,40 @@
 This script verifies game ISOs against the Redump hashes. It supports all the systems with downloadable dats plus the Wii dat, which is missing a few ISOs. Python 3 is needed to run it. [Download latest release](https://github.com/normalgamer/RedumpVerifier/releases/latest).
 
 ## Changelog
+- 1.5:
+
+  Optimization:
+  - Once an ISO gets verified, the script breaks out of the loop instead of keeping opening the rest of the dats
+
+  Updated a bunch of dats:
+  - Apple - Macintosh
+  - Arcade - Konami - System GV
+  - Arcade - Namco - Sega - Nintendo - Triforce
+  - Arcade - Sega - Chihiro
+  - Arcade - Sega - Naomi
+  - Bandai - Playdia Quick Interactive System
+  - Commodore - Amiga CD
+  - Commodore - Amiga CD32
+  - Fujitsu - FM-Towns
+  - IBM - PC Compatible
+  - Microsoft - Xbox
+  - NEC - PC Engine CD & Turbografx CD
+  - NEC - PC-98
+  - NEC - PC-FX & PC-FXGA
+  - SNK - Neo Geo CD
+  - Nintendo - Gamecube
+  - Palm
+  - Panasonic - 3DO Interactive Multiplayer
+  - Philips - CD-i
+  - Photo CD
+  - Sega - Dreamcast
+  - Sega - Mega CD & Sega CD
+  - Sega - Saturn
+  - Sony - PlayStation
+  - Sony - PlayStation 2
+  - Sony - PlayStation Portable
+  - VTech - V.Flash & V.Smile Pro
+
 - 1.4.4_01: Updated Gamecube dat (old: 2020/08, new 2020/11)
 
 - 1.4.4: Fixed broken multi-file game support (some ISOs come in separated .bin tracks and a .cue file recognized by the emulator. The script was only working for single .iso files)
