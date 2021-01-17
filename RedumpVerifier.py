@@ -9,8 +9,8 @@ line_number=0
 
 
 print(""
-    +"================== Redump verifier - version 1.4.4 ====================\n"
-    +"------------------      Github.com/normalgamer     --------------------\n"
+    +"================== Redump verifier - version 1.4.4_01 ====================\n"
+    +"------------------       Github.com/normalgamer       --------------------\n"
     +"\n"
     +"Drag 'n Drop your ISO\n"
     +"\n"
