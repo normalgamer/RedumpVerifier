@@ -4,6 +4,7 @@ import hashlib
 dats = os.listdir("./dat")
 read_size = 1024
 hash = hashlib.md5()
+sha_256 = hashlib.sha256()
 gameVerified = False
 line_number=0
 
@@ -23,8 +24,10 @@ with open(iso, "rb") as f:
     data = f.read(read_size)
     while data:
         hash.update(data)
+        #sha_256.update(data)
         data = f.read(read_size)
 hash = hash.hexdigest()
+#sha_256 = sha_256.hexdigest()
 
 
 
