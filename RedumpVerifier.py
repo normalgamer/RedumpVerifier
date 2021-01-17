@@ -10,7 +10,7 @@ line_number=0
 
 
 print(""
-    +"================== Redump verifier - version 1.4.4_01 ====================\n"
+    +"==================    Redump verifier - version 1.5   ====================\n"
     +"------------------       Github.com/normalgamer       --------------------\n"
     +"\n"
     +"Drag 'n Drop your ISO\n"
@@ -50,7 +50,11 @@ for dat in dats:
                 gameName = data[name_line].replace("<description>", "").replace("</description>", "").replace("\t", "")
                 print("\nRedump game name: " + gameName)
                 gameVerified = True
+    
     f.close()
+
+    if gameVerified:
+        break
 
 if not gameVerified:
     print("\n"
