@@ -9,7 +9,7 @@ line_number=0
 
 
 print(""
-    +"================== Redump verifier - version 1.4.3 ====================\n"
+    +"================== Redump verifier - version 1.4.4 ====================\n"
     +"------------------      Github.com/normalgamer     --------------------\n"
     +"\n"
     +"Drag 'n Drop your ISO\n"
@@ -41,7 +41,10 @@ for dat in dats:
                      +"\n"
                      +"Game Verified, ISO's MD5 matches Redump hash"
                      )
-                gameName = data[line_number - 2].replace("<description>", "").replace("</description>", "").replace("\t", "")
+                name_line = line_number
+                while "<description>" not in data[name_line]:
+                    name_line -= 1
+                gameName = data[name_line].replace("<description>", "").replace("</description>", "").replace("\t", "")
                 print("\nRedump game name: " + gameName)
                 gameVerified = True
     f.close()
