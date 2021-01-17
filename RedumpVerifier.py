@@ -135,7 +135,7 @@ def verify_multiple(files):
 
 # --------------------------------------------------------------------------- #
 
-if len(sys.argv > 1):
+if len(sys.argv) > 1:
     if os.path.isfile(sys.argv[1].replace("\"", "")):  # if input is a file
         verify(sys.argv[1])
         input()
