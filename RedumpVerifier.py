@@ -8,8 +8,8 @@ gameVerified = False
 
 
 print(""
-    +"================== Redump verifier - version 1.4 ====================\n"
-    +"-------------------    Github.com/normalgamer     --------------------\n"
+    +"================== Redump verifier - version 1.4.2b ====================\n"
+    +"------------------      Github.com/normalgamer      --------------------\n"
     +"\n"
     +"Drag 'n Drop your ISO\n"
     +"\n"
