@@ -3,7 +3,7 @@ This script verifies game ISOs against the Redump hashes. It supports all the sy
 
 ## Changelog
 
-- 1.7: You can add the file/folder you want to verify as an argument when you run `RedumpVerifier.py`, for example `RedumpVerifier "Super Smash Bros. Melee.iso"`
+- 1.7: You can add the file/folder you want to verify as an argument when you run `RedumpVerifier.py`, for example `RedumpVerifier.py "Super Smash Bros. Melee.iso"`
 
 - 1.6: You can now drop a folder to verify all ISOs in it (note that it will try to verify ALL the files)
 
