@@ -16,6 +16,8 @@ There are three ways of using the script:
 
 ## Changelog
 
+- 1.8b: typo
+
 - 1.8:
 
   Code cleanup.
