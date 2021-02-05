@@ -1,7 +1,28 @@
 # Redump Verifier
 This script verifies game ISOs against the Redump hashes. It supports all the systems with downloadable dats plus the Wii dat, which is missing a few ISOs. Python 3 is needed to run it. [Download latest release](https://github.com/normalgamer/RedumpVerifier/releases/latest).
 
+
+## Usage
+There are three ways of using the script:
+
+- Double-click on it to get a "GUI"
+
+- Run it from the command line, passing the files/folders as arguments
+  ```
+  C:/RedumpVerifier.py /Gamecube /Wii/MarioKartWii.iso
+  ```
+
+- Drag & drop the files/folders you want to verify directly into the script
+
 ## Changelog
+
+- 1.8:
+
+  Code cleanup.
+
+  You can now verify multiple files/folders at once, either from the command line or when double-clicking the script.
+
+  Fixed a bug where the script would close before showing the summary.
 
 - 1.7: You can add the file/folder you want to verify as an argument when you run `RedumpVerifier.py`, for example `RedumpVerifier.py "Super Smash Bros. Melee.iso"`
 
