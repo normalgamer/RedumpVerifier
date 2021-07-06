@@ -133,7 +133,7 @@ if len(sys.argv) > 1:
 
 else:
     print(""
-          + "============   Redump verifier - version 1.8b   ==============\n"
+          + "============   Redump verifier - version 1.9    ==============\n"
           + "------------       Github.com/normalgamer       --------------\n"
           + "\n"
           + "Drag 'n Drop your ISO or folder\n"
