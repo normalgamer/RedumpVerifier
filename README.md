@@ -16,6 +16,14 @@ There are three ways of using the script:
 
 ## Changelog
 
+- 1.9:
+
+  Now the scripts are PEP8 compliant.
+  
+  There's a new script, `dat_updater.py`, that updates all the dats except the Wii dat, since it's not available in redump.org.
+  
+  All dats have been updated.
+
 - 1.8b: typo
 
 - 1.8:
