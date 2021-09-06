@@ -16,6 +16,10 @@ There are three ways of using the script:
 
 ## Changelog
 
+- 1.9b:
+
+    Fixed dat_update script so that it decompresses the downloaded dats
+
 - 1.9:
 
   Now the scripts are PEP8 compliant.
