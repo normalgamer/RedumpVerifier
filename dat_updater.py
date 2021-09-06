@@ -1,7 +1,7 @@
 import requests
-import urllib
 import os
 import datetime
+import zipfile
 
 
 links = ["http://redump.org/datfile/mac/", "http://redump.org/datfile/ajcd/",
@@ -51,9 +51,12 @@ for link in links:
     print("Downlading " + filename + " (" + str(i) + "/" + str(len(links)) +
           ")")
     content = requests.get(link, allow_redirects=True)
-    with open("dat/" + filename + ".dat", "wb") as f:
+    with open("dat/" + filename + ".zip", "wb") as f:
         f.write(content.content)
     i += 1
+    with zipfile.ZipFile("dat/" + filename + ".zip", "r") as zip_ref:
+        zip_ref.extractall("dat/")
+    os.remove("dat/" + filename + ".zip")
 
 
 with open("dat/_last_update", "w+") as f:

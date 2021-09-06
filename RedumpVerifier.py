@@ -49,7 +49,7 @@ def verify(files):
         for dat in dats:
             line_number = 0
             data = ""
-            with open("dat/" + dat) as f:
+            with open("dat/" + dat, "r") as f:
                 data = f.readlines()
                 for line in data:
                     line_number += 1
