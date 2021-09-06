@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Arcade - Sega - RingEdge 2</name>
+		<description>Arcade - Sega - RingEdge 2 - Discs (7) (2020-01-21 02-01-20)</description>
+		<version>2020-01-21 02-01-20</version>
+		<date>2020-01-21 02-01-20</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Guilty Gear XX Accent Core Plus R (Japan)">
+		<category>Games</category>
+		<description>Guilty Gear XX Accent Core Plus R (Japan)</description>
+		<rom name="Guilty Gear XX Accent Core Plus R (Japan).iso" size="1118306304" crc="6453c548" md5="1dced127b402d7f57e0b1a818588e20b" sha1="0ef500c6186584c96d60f34c37ca924c5e103d13"/>
+	</game>
+	<game name="GeeSen Love. (Japan)">
+		<category>Games</category>
+		<description>GeeSen Love. (Japan)</description>
+		<rom name="GeeSen Love. (Japan).iso" size="1179058176" crc="d832eb00" md5="5a81b120f8264a3acb9f1dbc10d02864" sha1="355a241e80c39cb21f7922155668e4a96d41b2aa"/>
+	</game>
+	<game name="ALL.Net P-ras Multi Version 2 (Japan) (Rev A)">
+		<category>Applications</category>
+		<description>ALL.Net P-ras Multi Version 2 (Japan) (Rev A)</description>
+		<rom name="ALL.Net P-ras Multi Version 2 (Japan) (Rev A).iso" size="1004601344" crc="b275a574" md5="13028d55a15b2118b04ae58153b0b557" sha1="3d665b55daa069b5aacb557fe922a300dd857ab3"/>
+	</game>
+	<game name="Under Night In-Birth (Japan)">
+		<category>Games</category>
+		<description>Under Night In-Birth (Japan)</description>
+		<rom name="Under Night In-Birth (Japan).iso" size="2913402880" crc="83228abc" md5="962b794ca6e1ebd317733f131ad26b16" sha1="6b786c5ebd525084fd0fc14eb2c63f5875276538"/>
+	</game>
+	<game name="ALL.Net P-ras Multi Version 2 (Japan)">
+		<category>Applications</category>
+		<description>ALL.Net P-ras Multi Version 2 (Japan)</description>
+		<rom name="ALL.Net P-ras Multi Version 2 (Japan).iso" size="506986496" crc="a34c2b9f" md5="f414178734b0d61c2790cb56c49ef575" sha1="08b3b73d014d005c31e0e80f21a157086ca07118"/>
+	</game>
+	<game name="Code of Joker (Japan) (Rev C)">
+		<category>Games</category>
+		<description>Code of Joker (Japan) (Rev C)</description>
+		<rom name="Code of Joker (Japan) (Rev C).iso" size="7298547712" crc="a48b8f7a" md5="d0a26f0dc4533ca60411f7960010fc78" sha1="e0de5f59073565d8f34130ed0737c10ec6e5f2ec"/>
+	</game>
+	<game name="Code of Joker (No. 2) (Japan) (Rev F)">
+		<category>Games</category>
+		<description>Code of Joker (No. 2) (Japan) (Rev F)</description>
+		<rom name="Code of Joker (No. 2) (Japan) (Rev F).iso" size="4140040192" crc="c41ca3dd" md5="44c4d517b2155fffac0e04fa9093d0d6" sha1="a34c3b5f736685ebab3fd110426309b1846725d0"/>
+	</game>
+</datafile>

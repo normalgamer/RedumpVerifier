@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>VM Labs - NUON</name>
+		<description>VM Labs - NUON - Discs (5) (2019-06-20 10-56-10)</description>
+		<version>2019-06-20 10-56-10</version>
+		<date>2019-06-20 10-56-10</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Ballistic (USA, Europe)">
+		<category>Games</category>
+		<description>Ballistic (USA, Europe)</description>
+		<rom name="Ballistic (USA, Europe).iso" size="187695104" crc="32bfe561" md5="5a59c335feb5e8e32b03ef528e2408f5" sha1="dda2bee3eb418271abd3b032e80200980f7e7f74"/>
+	</game>
+	<game name="Merlin Racing (USA, Europe)">
+		<category>Games</category>
+		<description>Merlin Racing (USA, Europe)</description>
+		<rom name="Merlin Racing (USA, Europe).iso" size="517996544" crc="ca87fe8b" md5="f8da1c4e727938b7675be5e843af7d09" sha1="a225cb4c09065dfb27a8ac94642b2f15c6233221"/>
+	</game>
+	<game name="Freefall 3050 A.D. (USA, Europe)">
+		<category>Games</category>
+		<description>Freefall 3050 A.D. (USA, Europe)</description>
+		<rom name="Freefall 3050 A.D. (USA, Europe).iso" size="1149239296" crc="72ccddd3" md5="cea1427e00e2acbf7ff2dc2229f28973" sha1="d7a62e44edcffe0f32c684c8f7b270e0a5f3f24b"/>
+	</game>
+	<game name="Tempest 3000 (USA, Europe)">
+		<category>Games</category>
+		<description>Tempest 3000 (USA, Europe)</description>
+		<rom name="Tempest 3000 (USA, Europe).iso" size="743440384" crc="d54d445a" md5="2edceb559f903ce8b65519cfc697b82a" sha1="6afe029177b3c4afeeea294324bc2aaf0f624e48"/>
+	</game>
+	<game name="Iron Soldier 3 (USA)">
+		<category>Games</category>
+		<description>Iron Soldier 3 (USA)</description>
+		<rom name="Iron Soldier 3 (USA).iso" size="1863319552" crc="9d58b4c8" md5="330ec825dc3dfe8656531ff22a20d2d8" sha1="c8d21af0958ae534f4896d589c8acfa3392fd3fd"/>
+	</game>
+</datafile>

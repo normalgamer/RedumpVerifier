@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Arcade - Namco - System 246</name>
+		<description>Arcade - Namco - System 246 - Discs (7) (2019-10-05 17-31-51)</description>
+		<version>2019-10-05 17-31-51</version>
+		<date>2019-10-05 17-31-51</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Kidou Senshi Z Gundam - AEUG vs. Titans (Japan)">
+		<category>Games</category>
+		<description>Kidou Senshi Z Gundam - AEUG vs. Titans (Japan)</description>
+		<rom name="Kidou Senshi Z Gundam - AEUG vs. Titans (Japan).iso" size="2413985792" crc="7cb21182" md5="3b117a602068f1cb069743f15528c152" sha1="fe6dc6b21cc85fd6fb34403387a9c8fc6628871c"/>
+	</game>
+	<game name="Soulcalibur II (Japan) (Rev D)">
+		<category>Games</category>
+		<description>Soulcalibur II (Japan) (Rev D)</description>
+		<rom name="Soulcalibur II (Japan) (Rev D).iso" size="4053794816" crc="18124a0f" md5="eb8d36b7ffa07f4b39331fa2b65c6232" sha1="187d94b055324efd999b83a7fc9ebef8d179548f"/>
+	</game>
+	<game name="Tekken 4 (Japan)">
+		<category>Games</category>
+		<description>Tekken 4 (Japan)</description>
+		<rom name="Tekken 4 (Japan).iso" size="2375331840" crc="05ec5024" md5="59cd51d52f836cb15ced459a610d4cb2" sha1="020100e7d9fbed862a5d9a262f5a94e1a68df523"/>
+	</game>
+	<game name="Kidou Senshi Gundam Seed Destiny - Rengou vs. Z.A.F.T. II (Japan)">
+		<category>Games</category>
+		<description>Kidou Senshi Gundam Seed Destiny - Rengou vs. Z.A.F.T. II (Japan)</description>
+		<rom name="Kidou Senshi Gundam Seed Destiny - Rengou vs. Z.A.F.T. II (Japan).iso" size="2952429568" crc="d6a871b5" md5="3bf09b11ebe26fa606984b8684257bac" sha1="e04f359bd57e916eae2d254c4188e57b80bc411e"/>
+	</game>
+	<game name="Ridge Racer V - Arcade Battle (Japan) (Rev A)">
+		<category>Games</category>
+		<description>Ridge Racer V - Arcade Battle (Japan) (Rev A)</description>
+		<rom name="Ridge Racer V - Arcade Battle (Japan) (Rev A).cue" size="111" crc="211f50c1" md5="340f5dbcb77f1667b3f9ce8940afa7f7" sha1="cbf6a967294ab2b4416a43e007da4ae5be481eb3"/>
+		<rom name="Ridge Racer V - Arcade Battle (Japan) (Rev A).bin" size="297083472" crc="8cbd5c91" md5="566e60bcbd08c629ea872ed3d92a78a9" sha1="7308ae8d655f7497da21c9863e4fd18d0b4ac43e"/>
+	</game>
+	<game name="Kidou Senshi Gundam Seed - Rengou vs. Z.A.F.T. (Japan)">
+		<category>Games</category>
+		<description>Kidou Senshi Gundam Seed - Rengou vs. Z.A.F.T. (Japan)</description>
+		<rom name="Kidou Senshi Gundam Seed - Rengou vs. Z.A.F.T. (Japan).iso" size="2927427584" crc="f6931df9" md5="133217da5cd1caf86a3eb8f6a69b65e2" sha1="e7cc73a24b23ac6b8c0ad2082b8fcda5b734993c"/>
+	</game>
+	<game name="Kidou Senshi Z Gundam - AEUG vs. Titans DX (Japan)">
+		<category>Games</category>
+		<description>Kidou Senshi Z Gundam - AEUG vs. Titans DX (Japan)</description>
+		<rom name="Kidou Senshi Z Gundam - AEUG vs. Titans DX (Japan).iso" size="2358345728" crc="d16dc2b0" md5="d2eacfc8950fbc9b293690d0c61304d4" sha1="331288e0b05a2b6014d867cba6f5ff95fadc0705"/>
+	</game>
+</datafile>

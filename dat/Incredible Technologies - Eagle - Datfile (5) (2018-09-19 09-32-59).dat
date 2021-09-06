@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Incredible Technologies - Eagle</name>
+		<description>Incredible Technologies - Eagle - Discs (5) (2018-09-19 09-32-59)</description>
+		<version>2018-09-19 09-32-59</version>
+		<date>2018-09-19 09-32-59</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Golden Tee Fore! 2002 (USA)">
+		<category>Games</category>
+		<description>Golden Tee Fore! 2002 (USA)</description>
+		<rom name="Golden Tee Fore! 2002 (USA).cue" size="93" crc="7358fa86" md5="8262a442b65beaf0b0815d83c1e46642" sha1="ddad05570a1ed039b2b48fc499116dfbf6cea7ae"/>
+		<rom name="Golden Tee Fore! 2002 (USA).bin" size="612145632" crc="13cb15a5" md5="86d3fdc2f7e614c3e680fe300285d95f" sha1="369705ce8caeb644bfde49bec88a3ce5cf6e7286"/>
+	</game>
+	<game name="Golden Tee Fore! 2003 (USA) (V3.00.04)">
+		<category>Games</category>
+		<description>Golden Tee Fore! 2003 (USA) (V3.00.04)</description>
+		<rom name="Golden Tee Fore! 2003 (USA) (V3.00.04).cue" size="104" crc="a3eba9ff" md5="dedba738648e76fcb30e084153b8347a" sha1="2b405794dcf56e4a408a4c3c6a8c3693d25495c5"/>
+		<rom name="Golden Tee Fore! 2003 (USA) (V3.00.04).bin" size="774323088" crc="9c250338" md5="2f7f090398b5baa1d5e47b95329c59ab" sha1="528108612688d4dabdfbc60a411fc24b1c3cfa9f"/>
+	</game>
+	<game name="Golden Tee Fore! 2004 (USA)">
+		<category>Games</category>
+		<description>Golden Tee Fore! 2004 (USA)</description>
+		<rom name="Golden Tee Fore! 2004 (USA).cue" size="93" crc="ea3eafd4" md5="09660f71668109754d6f17e9fda71112" sha1="7be5007f60cb4a220e198d23f6c415416e916db4"/>
+		<rom name="Golden Tee Fore! 2004 (USA).bin" size="726278784" crc="2b61eeba" md5="17778918cebf392b7928e7160b098b18" sha1="e4611c0dc7deff28619a4a9402c22dbc2c83b061"/>
+	</game>
+	<game name="Golden Tee Fore! 2005 (USA)">
+		<category>Games</category>
+		<description>Golden Tee Fore! 2005 (USA)</description>
+		<rom name="Golden Tee Fore! 2005 (USA).cue" size="93" crc="677f4b8c" md5="c14ef0f1e23285d57c1375a8ccb24f03" sha1="b34a457eacd61c023bc54b8d5fef621b487d1b2a"/>
+		<rom name="Golden Tee Fore! 2005 (USA).bin" size="673777440" crc="4e6d8c1d" md5="d30cd7e88bfebf6cb5e9cf3a3417599d" sha1="7b4a20fe54170ecfe3b58b99cdcb0089436d1435"/>
+	</game>
+	<game name="Golden Tee Fore! Complete (USA)">
+		<category>Games</category>
+		<description>Golden Tee Fore! Complete (USA)</description>
+		<rom name="Golden Tee Fore! Complete (USA).cue" size="97" crc="e39ef1a0" md5="cc8de44152e0dddb074e4c0e8b65a0d0" sha1="13d93c31b102ffe948b7fbe6f48f0f0f43bd746b"/>
+		<rom name="Golden Tee Fore! Complete (USA).bin" size="551689824" crc="7ccbff5e" md5="fbf58c8204772e784afb8c928e628fa9" sha1="ff25f45356b780bc8672c8c72fef99381e829772"/>
+	</game>
+</datafile>

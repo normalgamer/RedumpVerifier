@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Arcade - Konami - e-Amusement</name>
+		<description>Arcade - Konami - e-Amusement - Discs (7) (2019-04-06 17-00-22)</description>
+		<version>2019-04-06 17-00-22</version>
+		<date>2019-04-06 17-00-22</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Otomedius (Japan) (System Disc)">
+		<category>Games</category>
+		<description>Otomedius (Japan) (System Disc)</description>
+		<rom name="Otomedius (Japan) (System Disc).cue" size="97" crc="029115ee" md5="57c787dc25d30db419139b71c1f84f3a" sha1="d27ea4e52bb6450c85a3b7a053696f8b242aff3e"/>
+		<rom name="Otomedius (Japan) (System Disc).bin" size="622247472" crc="dcec292d" md5="d0e8eb82429504960b4e112484c25d53" sha1="6a892d713b3c08069d233ca18f4773cabf4350b2"/>
+	</game>
+	<game name="Otomedius (Japan) (Application Disc 1)">
+		<category>Games</category>
+		<description>Otomedius (Japan) (Application Disc 1)</description>
+		<rom name="Otomedius (Japan) (Application Disc 1).cue" size="104" crc="6f513e22" md5="84ecae645e7a78f80de4db7a3ea93da7" sha1="c692e27190d4b662d08a23f42d4a790c57944733"/>
+		<rom name="Otomedius (Japan) (Application Disc 1).bin" size="8930544" crc="9a383c01" md5="3dab11cbc8c628935d9463868c71de00" sha1="1f876d3456d874ac14445259ab1a9c921bb2ecb2"/>
+	</game>
+	<game name="Otomedius (Japan) (Application Disc 2)">
+		<category>Games</category>
+		<description>Otomedius (Japan) (Application Disc 2)</description>
+		<rom name="Otomedius (Japan) (Application Disc 2).cue" size="104" crc="6e0c18f3" md5="822f0a1ed27e10139b7a4922b79a4dd2" sha1="816e8124c1f65b6dd5e702460b0481f96a530a53"/>
+		<rom name="Otomedius (Japan) (Application Disc 2).bin" size="459298560" crc="6efd1924" md5="b02f2f428558008f2312b81edc403e05" sha1="d9703acf3a9bab948eedbf0ab6c539e92e25e433"/>
+	</game>
+	<game name="World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (System Disc)">
+		<category>Games</category>
+		<description>World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (System Disc)</description>
+		<rom name="World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (System Disc).cue" size="142" crc="0f6a7af2" md5="93a62aa987b8259cd28bb85b08beadfc" sha1="4dd8ba6fc06c646d370fa96d705b5eed30b6b660"/>
+		<rom name="World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (System Disc).bin" size="622299216" crc="49126ae6" md5="ad43650609ff00785a667be4a76cd799" sha1="6db414ed110bb76e8deae32b14ff1c2c13562e14"/>
+	</game>
+	<game name="World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 2)">
+		<category>Games</category>
+		<description>World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 2)</description>
+		<rom name="World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 2).cue" size="149" crc="fa5eea57" md5="2122f641fa40698ab2ca5e97db9a46b7" sha1="86e0d0b0f661052fa8d1f5321ec85a0ef9026831"/>
+		<rom name="World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 2).bin" size="652983408" crc="cb048eaf" md5="0e7f9233000aa7e0f451a7e0a6edb25e" sha1="5466127f4f0ff9cc0121c88c3ca85928d19a7338"/>
+	</game>
+	<game name="World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 3)">
+		<category>Games</category>
+		<description>World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 3)</description>
+		<rom name="World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 3).cue" size="149" crc="4c450a27" md5="3b4c1929eb1ff908ba06fbf60b6bf75c" sha1="f912f37517cf67ae5faf1669bcd7268188d23717"/>
+		<rom name="World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 3).bin" size="543300240" crc="2fdc7d9b" md5="a4a0490fffc5d7f7b03670c76a0cd5e2" sha1="032d8cc478ec7d4ae40ec0e8763a86c4f5f724c6"/>
+	</game>
+	<game name="World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 4)">
+		<category>Games</category>
+		<description>World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 4)</description>
+		<rom name="World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 4).cue" size="149" crc="f8e4a7f5" md5="10b3575ce066f5c2d74aac693e67a318" sha1="0435d06b0f2c3a8b8f1d42371bee87540f6c84d3"/>
+		<rom name="World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 4).bin" size="568478400" crc="5d365668" md5="8bec0fe873790ceb217af7adadbfb5e7" sha1="b4a5db606fe8520e07b6f1831857069e6c3643e8"/>
+	</game>
+</datafile>

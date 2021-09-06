@@ -1,0 +1,236 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Palm</name>
+		<description>Palm - Discs (37) (2021-09-03 20-11-00)</description>
+		<version>2021-09-03 20-11-00</version>
+		<date>2021-09-03 20-11-00</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Bomberman for Palm OS (Japan)">
+		<category>Games</category>
+		<description>Bomberman for Palm OS (Japan)</description>
+		<rom name="Bomberman for Palm OS (Japan).cue" size="95" crc="5e0443c7" md5="b19fbd1c6fb4cbec76aa294df635e5e7" sha1="3db12d176d1492db05a5a73fd3dca2fe81607169"/>
+		<rom name="Bomberman for Palm OS (Japan).bin" size="3017616" crc="df397ec7" md5="0fe5a769d9f8c11b9f8d564c02745ef3" sha1="1031c56e8991871aa0e8e0f0731f458247afceb7"/>
+	</game>
+	<game name="Tetris Classic Game Pak (USA)">
+		<category>Games</category>
+		<description>Tetris Classic Game Pak (USA)</description>
+		<release name="Tetris Classic Game Pak (USA)" region="USA"/>
+		<rom name="Tetris Classic Game Pak (USA).cue" size="95" crc="78ebea86" md5="9a34f54d9c498f564f560834885efe9d" sha1="bb1ae46977ab47ab1fd348119c181112f4761ac6"/>
+		<rom name="Tetris Classic Game Pak (USA).bin" size="398830992" crc="b8f7c905" md5="3a6706f83e2cbd87df86b105633ec217" sha1="d211f650496992146eb6d34ffe1e47a9d2cdc917"/>
+	</game>
+	<game name="Rayman (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Rayman (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Rayman (Europe) (En,Fr,De,Es,It).cue" size="98" crc="4c99236f" md5="462d51a69ec150d637b1fe4ee3220594" sha1="ee1f51249f334190ed8c057d491d24a2ba4bd0c0"/>
+		<rom name="Rayman (Europe) (En,Fr,De,Es,It).bin" size="34988352" crc="1a979d0c" md5="5231bce039ada328ee3eb1ff6946de11" sha1="38f3d586095ae142952ed638c9aaa15b2cc2a0b8"/>
+	</game>
+	<game name="200+ Palm Games (USA)">
+		<category>Games</category>
+		<description>200+ Palm Games (USA)</description>
+		<rom name="200+ Palm Games (USA).cue" size="87" crc="331c6ae9" md5="ea576d76c3a213b91119832025b54cc7" sha1="28e3c5253ff9e51afb0bf2af7c7a55ae1d710e23"/>
+		<rom name="200+ Palm Games (USA).bin" size="65514960" crc="bf5b1340" md5="f22ce3ba46200996170e78d66cd55394" sha1="f77854dc3f604b611e12f769c97c7b54576672e0"/>
+	</game>
+	<game name="BT Mahjong for PalmOS (Japan)">
+		<category>Games</category>
+		<description>BT Mahjong for PalmOS (Japan)</description>
+		<rom name="BT Mahjong for PalmOS (Japan).cue" size="95" crc="211515fc" md5="6f209156d257f7f82847561925777478" sha1="51193a09cfc95dc288623a4a704aa2dc5aade078"/>
+		<rom name="BT Mahjong for PalmOS (Japan).bin" size="1413552" crc="d4c5b878" md5="4045f0abb95f9ee5877d8f0103e88df6" sha1="231c10a43c36872088b942d4cfe7521cefe5fb3c"/>
+	</game>
+	<game name="Golf (Japan)">
+		<category>Games</category>
+		<description>Golf (Japan)</description>
+		<rom name="Golf (Japan).cue" size="78" crc="67e2c540" md5="b709512b8a546382466c76ccc11124cc" sha1="6c3efe736ffc26240de639e4ad25987d7cabab38"/>
+		<rom name="Golf (Japan).bin" size="5273184" crc="5c3f4ef7" md5="5fc2ef732f82dbb747ffaf42853c0ee1" sha1="b827a2d710c839cb8e977058b643462fb4db6c02"/>
+	</game>
+	<game name="Palm Hanafuda (Japan)">
+		<category>Games</category>
+		<description>Palm Hanafuda (Japan)</description>
+		<rom name="Palm Hanafuda (Japan).cue" size="87" crc="6bbc5e3b" md5="2d9ae386a9db237c34f0ffa3823f6c7c" sha1="18a7d0a59c65251f6fb2e77ea64aae645b008e6f"/>
+		<rom name="Palm Hanafuda (Japan).bin" size="3974880" crc="2c88a23d" md5="2b6ca0da5f37054d9afa31d08473d1aa" sha1="c36917e9c55db8cc81fab68fbb29f9765554a575"/>
+	</game>
+	<game name="Palm Mahjong (Japan)">
+		<category>Games</category>
+		<description>Palm Mahjong (Japan)</description>
+		<rom name="Palm Mahjong (Japan).cue" size="86" crc="d203bd99" md5="58d5b9069d33435956549226ea46ef13" sha1="7e467386fd9a1b1f9bbe123d207f784552deb03d"/>
+		<rom name="Palm Mahjong (Japan).bin" size="7058352" crc="1fbc20e8" md5="cceec3fc39fd48990a9141e67c6f5125" sha1="7abbe43ad9291f092571c3a283a9d6016ac5c0f6"/>
+	</game>
+	<game name="Puzzle Bobble for Palm (Japan)">
+		<category>Games</category>
+		<description>Puzzle Bobble for Palm (Japan)</description>
+		<rom name="Puzzle Bobble for Palm (Japan).cue" size="96" crc="967212dd" md5="c327b5a6222d20641c562a6ef352a93d" sha1="aba2759cd138032a700b932c43d15dc17c3421d7"/>
+		<rom name="Puzzle Bobble for Palm (Japan).bin" size="88658640" crc="9790cfb6" md5="22e77863337aef15d1809142bd51cfe8" sha1="058ba3113c27db0274dd12c32a709c8e43896cd6"/>
+	</game>
+	<game name="Afro Ken Graffiti - Tenohira Size ni mo Naru (Japan)">
+		<category>Games</category>
+		<description>Afro Ken Graffiti - Tenohira Size ni mo Naru (Japan)</description>
+		<rom name="Afro Ken Graffiti - Tenohira Size ni mo Naru (Japan).cue" size="118" crc="af436022" md5="eefcc1f6f10f4d98d23a1c3a829aaee1" sha1="34128f240ac5290d66e75c9a57bfad7b4f400f0d"/>
+		<rom name="Afro Ken Graffiti - Tenohira Size ni mo Naru (Japan).bin" size="5555424" crc="1aaa3aaa" md5="b6ba0986105ff4b3804637b521fb631d" sha1="cf1fcac4d57527521c7a2134a1922c8b6c0b4588"/>
+	</game>
+	<game name="Rayman (USA)">
+		<category>Games</category>
+		<description>Rayman (USA)</description>
+		<rom name="Rayman (USA).cue" size="78" crc="74ad1b1b" md5="d2a97c5444669031d9d1d4985a6d6896" sha1="8fbfed4e8e6c0136a67c5d694c32772e31f42f24"/>
+		<rom name="Rayman (USA).bin" size="36244320" crc="324951c5" md5="9dc630e2ebd3a91b811854774f91e24b" sha1="f1f7608e186994e2ef10b4e079ed71c275d2e2f6"/>
+	</game>
+	<game name="200+ Great Games for PDA (Europe)">
+		<category>Games</category>
+		<description>200+ Great Games for PDA (Europe)</description>
+		<rom name="200+ Great Games for PDA (Europe).cue" size="99" crc="80837b0d" md5="350de8101ecbc3eb73b60f2ab5b4209c" sha1="b56857ba0979550ddcd01e5adcc5ec81be6795da"/>
+		<rom name="200+ Great Games for PDA (Europe).bin" size="524994624" crc="78150df4" md5="5d1b11d8ee73377ded573c0405e7e31a" sha1="90baaaa77fdae06923337ac824fe57ed385810cd"/>
+	</game>
+	<game name="Serious Sam - The First Encounter (Canada)">
+		<category>Games</category>
+		<description>Serious Sam - The First Encounter (Canada)</description>
+		<rom name="Serious Sam - The First Encounter (Canada).cue" size="108" crc="3ceaa2c4" md5="d4945e84ad206c601f049b362ceabc21" sha1="2132f6bec9bf908bfd23b097b664126f02e58b68"/>
+		<rom name="Serious Sam - The First Encounter (Canada).bin" size="15182160" crc="3be0d91c" md5="a36b67e377b496a8199bdd0a173b6883" sha1="160d09cf3bb8b9f33ce989ed7cd743269b1a62a5"/>
+	</game>
+	<game name="50 Great Utilities for Palm OS Handhelds (Canada)">
+		<category>Multimedia</category>
+		<description>50 Great Utilities for Palm OS Handhelds (Canada)</description>
+		<rom name="50 Great Utilities for Palm OS Handhelds (Canada).cue" size="138" crc="af69bda5" md5="6445a0c3f65e5cb8a9d47e1db9979d35" sha1="1e49b9f1c418f0573ff90b8d7f019079ac8f438e"/>
+		<rom name="50 Great Utilities for Palm OS Handhelds (Canada).bin" size="48731088" crc="15b5a121" md5="76a7e0c0eb88c91c11b6067ae52deed0" sha1="1054b37e637e964ffde99bc98d07f47bb4174992"/>
+	</game>
+	<game name="SwiftWare (USA)">
+		<category>Multimedia</category>
+		<description>SwiftWare (USA)</description>
+		<rom name="SwiftWare (USA).cue" size="81" crc="ea358647" md5="89f367c02c668f25b534d2e9731192ce" sha1="291fe834747e66fba0c27f6a4e72dfdb36f3ea18"/>
+		<rom name="SwiftWare (USA).bin" size="730166640" crc="60c70c6f" md5="0ee4bf2b90ebf73f3d3c379303953883" sha1="93ee32e6980235c6e122b4e1929e19ae070be550"/>
+	</game>
+	<game name="Monopoly &amp; Scrabble &amp; Battleship &amp; Yahtzee (USA)">
+		<category>Games</category>
+		<description>Monopoly &amp; Scrabble &amp; Battleship &amp; Yahtzee (USA)</description>
+		<rom name="Monopoly &amp; Scrabble &amp; Battleship &amp; Yahtzee (USA).cue" size="114" crc="e95539ea" md5="ac1a1f0d6a9d1137f1bb564967793b4c" sha1="7a63a291962c90b459799476476533c9a1e6d474"/>
+		<rom name="Monopoly &amp; Scrabble &amp; Battleship &amp; Yahtzee (USA).bin" size="54542880" crc="cb6df699" md5="b0e2b6533d44ab2bbf5463fc16043d51" sha1="016db4661c185764ed9a675802e9b3fa998866bd"/>
+	</game>
+	<game name="Arcade 2 Pak (USA)">
+		<category>Games</category>
+		<description>Arcade 2 Pak (USA)</description>
+		<rom name="Arcade 2 Pak (USA).cue" size="84" crc="eeec29b7" md5="670642b0445048aa816dd104c6123125" sha1="129c06601b05dfcab9ff0b51d0a6a5bbd61f299d"/>
+		<rom name="Arcade 2 Pak (USA).bin" size="24597216" crc="7775f6e8" md5="147e0f34621d2cc95dfbf2127a9f0d54" sha1="253efc394d6ca36480d082399bfe803466d8bb56"/>
+	</game>
+	<game name="Tetris Classic Game Pak (USA) (Rerelease)">
+		<category>Games</category>
+		<description>Tetris Classic Game Pak (USA) (Rerelease)</description>
+		<rom name="Tetris Classic Game Pak (USA) (Rerelease).cue" size="107" crc="2d8c0fda" md5="b30080576ed49c0fd666edacc00f8b1d" sha1="11059355b3db87363252b6bd35677fa2f8dbfcfe"/>
+		<rom name="Tetris Classic Game Pak (USA) (Rerelease).bin" size="25156992" crc="b9d5b7cd" md5="02dd7949dc70b701b4fc891b8b43131f" sha1="5c1076101f65c6012ad40df1c7f19fc066e78000"/>
+	</game>
+	<game name="Tradewinds (USA)">
+		<category>Games</category>
+		<description>Tradewinds (USA)</description>
+		<rom name="Tradewinds (USA).cue" size="82" crc="87000a66" md5="c7608f8633eaf8160c249bea56373d2f" sha1="654c37b830c2b69c41290e19909438d19f204b49"/>
+		<rom name="Tradewinds (USA).bin" size="9532656" crc="519e8ebc" md5="b92424ef88c35f3f9610fc482bbea4cc" sha1="25595b0fddf9ce8c9515df5fc51d0c42d99a5cc7"/>
+	</game>
+	<game name="Tetris Game Pak 2 (USA)">
+		<category>Games</category>
+		<description>Tetris Game Pak 2 (USA)</description>
+		<rom name="Tetris Game Pak 2 (USA).cue" size="89" crc="006978bb" md5="4660e77067529ec30adfe49d8b1cd554" sha1="f89f35f04dc79ee5f1206fc09ec633e19874e41a"/>
+		<rom name="Tetris Game Pak 2 (USA).bin" size="13190016" crc="bfb1aca6" md5="537558d6c219c5983742ef549e2fbe9f" sha1="180ca384d55f311afee74a88f87ddef634fd6a22"/>
+	</game>
+	<game name="Trivial Pursuit - Handheld Edition (USA)">
+		<category>Games</category>
+		<description>Trivial Pursuit - Handheld Edition (USA)</description>
+		<rom name="Trivial Pursuit - Handheld Edition (USA).cue" size="106" crc="7e4877c5" md5="0431b9a4f0be9dc275f661575bea2e03" sha1="e7f4e657ae2bd4cb8e13e2dd575e285628bec1cc"/>
+		<rom name="Trivial Pursuit - Handheld Edition (USA).bin" size="220057824" crc="fb09c5d0" md5="2f9df0352fdfc6e09bc08636d219200f" sha1="103e7e09e5b6da0967556db7fdc81ec17b811374"/>
+	</game>
+	<game name="100 Great Games for Palm OS Handhelds Vol. 2 (Canada)">
+		<category>Games</category>
+		<description>100 Great Games for Palm OS Handhelds Vol. 2 (Canada)</description>
+		<rom name="100 Great Games for Palm OS Handhelds Vol. 2 (Canada).cue" size="119" crc="fda789ac" md5="d94dfbe7453042382f00ac8c772730cc" sha1="e6c5896498e4e6c76c4d612a8c612cf063f33e9f"/>
+		<rom name="100 Great Games for Palm OS Handhelds Vol. 2 (Canada).bin" size="54935664" crc="a4b69663" md5="b3603ea3a3dfa13310d2e7a4c1f8d195" sha1="0edd182e23c089123257a8cc4b3f8a61664065e0"/>
+	</game>
+	<game name="Handango (USA)">
+		<category>Multimedia</category>
+		<description>Handango (USA)</description>
+		<rom name="Handango (USA).cue" size="80" crc="340fb87b" md5="9be40351cdeacaacd65f6c5433f0c690" sha1="8cad36768095b781c764c3028386e52f1d1abf4c"/>
+		<rom name="Handango (USA).bin" size="436434768" crc="b43c5f3c" md5="94985c6092a57305ada9f07b3c2a243f" sha1="d0dd177570d083917401f2342049be475b693552"/>
+	</game>
+	<game name="Crossword 365 (USA)">
+		<category>Games</category>
+		<description>Crossword 365 (USA)</description>
+		<rom name="Crossword 365 (USA).cue" size="85" crc="b21709e1" md5="d44ea162164028bcfbb1cca456aef8ee" sha1="dbb4b6036e36d93354a5f3de76a237005392e7fe"/>
+		<rom name="Crossword 365 (USA).bin" size="9408000" crc="04e15d6d" md5="837e4ad9c119383517c6bb393f39812e" sha1="9445cce65c59599a6d4c3108f599646684ddef52"/>
+	</game>
+	<game name="Warfare Incorporated (USA)">
+		<category>Games</category>
+		<description>Warfare Incorporated (USA)</description>
+		<rom name="Warfare Incorporated (USA).cue" size="92" crc="e9b1f264" md5="94aa9bae32aadc6f2800b2d8495093d8" sha1="6b27d08b875fb39f68aecd333ca6d36ed674066d"/>
+		<rom name="Warfare Incorporated (USA).bin" size="396841200" crc="c5ff0ec9" md5="dd8dc1de3714bea802f5b064382b021a" sha1="4598b67f988eb0a89818c2d37dd783201685550b"/>
+	</game>
+	<game name="Puzzle Bobble V2 for Palm OS (USA)">
+		<category>Games</category>
+		<description>Puzzle Bobble V2 for Palm OS (USA)</description>
+		<rom name="Puzzle Bobble V2 for Palm OS (USA).cue" size="100" crc="e389145e" md5="6a8d7c8d2dc3984315daff337fac9682" sha1="5b30676bd27bd7d2d6a03d88f69154730da7ce6d"/>
+		<rom name="Puzzle Bobble V2 for Palm OS (USA).bin" size="13171200" crc="145b9847" md5="e0e8c9055ae87d983792ba3fbc6f85c1" sha1="653e921eea3b0f69d32ef56a07930a6a65add4e5"/>
+	</game>
+	<game name="Bejeweled Puzzle Pack (USA)">
+		<category>Games</category>
+		<description>Bejeweled Puzzle Pack (USA)</description>
+		<rom name="Bejeweled Puzzle Pack (USA).cue" size="93" crc="594f5455" md5="fa3f4106ddec9095e1d272c9145227bf" sha1="04bee3f75899fe377d6b6c97a75ebf0ee2df765b"/>
+		<rom name="Bejeweled Puzzle Pack (USA).bin" size="28412160" crc="ca27ba6a" md5="c8a4f34e5ba718fb8cbaf7b1660f381b" sha1="486799552539caa18c1537f740063ad38d536f92"/>
+	</game>
+	<game name="Hoyle Games Collection for Palm OS and Windows CE Handhelds Vol. II (USA)">
+		<category>Games</category>
+		<description>Hoyle Games Collection for Palm OS and Windows CE Handhelds Vol. II (USA)</description>
+		<rom name="Hoyle Games Collection for Palm OS and Windows CE Handhelds Vol. II (USA).cue" size="139" crc="b5bd19f1" md5="9ddfe164a59ad174432f07c55ef1824e" sha1="4bb716f15425e84265d4c4cab0c262984f3d093b"/>
+		<rom name="Hoyle Games Collection for Palm OS and Windows CE Handhelds Vol. II (USA).bin" size="109770192" crc="1fe29b5b" md5="5a2a2ad590ff3710de6e502909327fb2" sha1="930c072eedb5b18e91af5c2aa378ac3b47ddbe5a"/>
+	</game>
+	<game name="Midway Arcade Classics (USA)">
+		<category>Games</category>
+		<description>Midway Arcade Classics (USA)</description>
+		<rom name="Midway Arcade Classics (USA).cue" size="94" crc="0cf4a706" md5="91f8c981783f0e0f42d062aebf8c8c9a" sha1="0927908b26856e38e69e8a1a698f2f90b4e53e42"/>
+		<rom name="Midway Arcade Classics (USA).bin" size="1952160" crc="9f109a28" md5="9f6138897c25bdd29591363e31c67f45" sha1="0243becb6cee65ceb09f1794e5cb222bcfb60b4e"/>
+	</game>
+	<game name="Jumble for Palm OS (USA)">
+		<category>Games</category>
+		<description>Jumble for Palm OS (USA)</description>
+		<rom name="Jumble for Palm OS (USA).cue" size="90" crc="bc7364e9" md5="a642765fa85e505e4641dc8665c30fc7" sha1="c38ff1fb7319131d386bc26da57996659f13136f"/>
+		<rom name="Jumble for Palm OS (USA).bin" size="17084928" crc="0fa8a234" md5="a8160463930f486b8f1a0fb6dc8e1a78" sha1="bf7c0fd63bb23d162b2064e4bc01fa3a960671a6"/>
+	</game>
+	<game name="Jumble for Palm OS - Theme Pack 1 (USA)">
+		<category>Add-Ons</category>
+		<description>Jumble for Palm OS - Theme Pack 1 (USA)</description>
+		<rom name="Jumble for Palm OS - Theme Pack 1 (USA).cue" size="120" crc="7fb4a4a6" md5="a027946d47ceb41dc47fef1ece49cc53" sha1="759b24b6aa705a285e8f6c21c8ec87569f8631c8"/>
+		<rom name="Jumble for Palm OS - Theme Pack 1 (USA).bin" size="7074816" crc="cedd02c0" md5="e0d08aefc77c462f0d803b4e58e76e47" sha1="706f1197be4b876cb3cd780637a398ba92258d4e"/>
+	</game>
+	<game name="Jumble for Palm OS - Theme Pack 2 (USA)">
+		<category>Add-Ons</category>
+		<description>Jumble for Palm OS - Theme Pack 2 (USA)</description>
+		<rom name="Jumble for Palm OS - Theme Pack 2 (USA).cue" size="120" crc="ff678128" md5="c9c006780f6da9fe591562f9b8cf4db6" sha1="8f1c3d2e46a6cb3b948fd0952afb0f63af4f4a58"/>
+		<rom name="Jumble for Palm OS - Theme Pack 2 (USA).bin" size="7112448" crc="5a2d5dc8" md5="47409273a14e60ce01b5bff8882e8a39" sha1="aa98b33cf9f645c86b65bf7fe15c4da7ae22e7f3"/>
+	</game>
+	<game name="Airline Manager Simulator (Canada)">
+		<category>Games</category>
+		<description>Airline Manager Simulator (Canada)</description>
+		<rom name="Airline Manager Simulator (Canada).cue" size="100" crc="8a70b413" md5="93d0c1ed409d657090e22ee93762d6a3" sha1="60b5b03e6e0f8a73055891dc6cc7021b5a77e634"/>
+		<rom name="Airline Manager Simulator (Canada).bin" size="25747344" crc="6d833e24" md5="7eba6d20212143d3c96c24d0fa9a8749" sha1="6bfeca234b5ccc642f8ba24dcba72a1d5a40ff1f"/>
+	</game>
+	<game name="Mini Golf (Canada)">
+		<category>Games</category>
+		<description>Mini Golf (Canada)</description>
+		<rom name="Mini Golf (Canada).cue" size="84" crc="8d9fdaa9" md5="0496b80c4af4b94cf04ec4cff657be1f" sha1="aa91ea6beff177ec300e02a21d4be0673da31a7d"/>
+		<rom name="Mini Golf (Canada).bin" size="27104448" crc="a3e1108d" md5="f41564d6d8d3fe2f86995a4fc810303c" sha1="d61d3674f17a68fc54bf4fea14f1e3b3e25aa4a3"/>
+	</game>
+	<game name="Super Solitaire 15 (USA) (Rerelease)">
+		<category>Games</category>
+		<description>Super Solitaire 15 (USA) (Rerelease)</description>
+		<rom name="Super Solitaire 15 (USA) (Rerelease).cue" size="102" crc="408abafc" md5="287202094be9773d0cf95d43f55e4cbd" sha1="45c3594bfe42d6f4f103980fbf4b870dcd44eec9"/>
+		<rom name="Super Solitaire 15 (USA) (Rerelease).bin" size="400917216" crc="4d60b114" md5="346549c3a51067a7badbb1116f8b52ad" sha1="b7ef60c1f3901123ac882900f532fe1f4767e5a1"/>
+	</game>
+	<game name="Austin Powers Pinball (Canada)">
+		<category>Games</category>
+		<description>Austin Powers Pinball (Canada)</description>
+		<rom name="Austin Powers Pinball (Canada).cue" size="96" crc="afd973fb" md5="562936e68e5e50dcf87ff89ae2bc5a5e" sha1="19ac1be000e121ee065e9cff28805eb41e7357cb"/>
+		<rom name="Austin Powers Pinball (Canada).bin" size="16247616" crc="abd9c272" md5="4b4b9362ac2ed554e4e7619d999273e7" sha1="c2d3c31a1c8f930c3b80c8c2a4014c72ec6c7eb5"/>
+	</game>
+	<game name="Mahjongg - Volume 2 (Canada)">
+		<category>Games</category>
+		<description>Mahjongg - Volume 2 (Canada)</description>
+		<rom name="Mahjongg - Volume 2 (Canada).cue" size="94" crc="83fc3780" md5="2f56a58dbc903018dbdc15203512b10f" sha1="0ba4908dbc1cd704198b7d1e26138b3932492563"/>
+		<rom name="Mahjongg - Volume 2 (Canada).bin" size="25121712" crc="a964e23b" md5="c70afe6310eb42fba72608a0af1f78e7" sha1="fffa447957e6c1e957c40c7063b28b93c6f9d03f"/>
+	</game>
+</datafile>
