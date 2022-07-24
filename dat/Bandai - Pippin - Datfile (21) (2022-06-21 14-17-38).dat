@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Bandai - Pippin</name>
+		<description>Bandai - Pippin - Discs (21) (2022-06-21 14-17-38)</description>
+		<version>2022-06-21 14-17-38</version>
+		<date>2022-06-21 14-17-38</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Pippin Navigator CD (Japan) (Rev A)">
+		<category>Applications</category>
+		<description>Pippin Navigator CD (Japan) (Rev A)</description>
+		<rom name="Pippin Navigator CD (Japan) (Rev A).cue" size="124" crc="13e6a976" md5="6f966003a4977e2f5e24e9bbeebb5b6c" sha1="3746d6bb52033ea58a8f557055eb4c2d1b25a575"/>
+		<rom name="Pippin Navigator CD (Japan) (Rev A).bin" size="490935312" crc="4784d034" md5="66dc5d157f5417fe86e418f4cc629307" sha1="1e2b2564e34ef431dbf493ed96eacf158ccdc89b"/>
+	</game>
+	<game name="Internet Kit (Japan) (Rev B)">
+		<category>Applications</category>
+		<description>Internet Kit (Japan) (Rev B)</description>
+		<rom name="Internet Kit (Japan) (Rev B).cue" size="117" crc="bcb60e1d" md5="d6684afb1b601c2088a522c1e9553116" sha1="9ee15d85d1d2afd01d578408adc48eec09f406d7"/>
+		<rom name="Internet Kit (Japan) (Rev B).bin" size="632765616" crc="382b962d" md5="b6dca6dcba705e83d5303c0c933f2620" sha1="08794700548085c6d16b8f712b4736308081b3f3"/>
+	</game>
+	<game name="Pippin Network CD (Japan) (Rev B)">
+		<category>Applications</category>
+		<description>Pippin Network CD (Japan) (Rev B)</description>
+		<rom name="Pippin Network CD (Japan) (Rev B).cue" size="122" crc="83681548" md5="6ce87a88103835e56ccbf8548863ea96" sha1="f9e4d2ef2e415aba90219097bc4bde3709bf4c56"/>
+		<rom name="Pippin Network CD (Japan) (Rev B).bin" size="622315680" crc="b0fcaffe" md5="7079964ebeaec967a37448836abfef1a" sha1="f0e469603f982917e224af6c9881e0834f264150"/>
+	</game>
+	<game name="Tunin' Glue (Japan) (Rev A)">
+		<category>Games</category>
+		<description>Tunin' Glue (Japan) (Rev A)</description>
+		<rom name="Tunin' Glue (Japan) (Rev A).cue" size="93" crc="6939c472" md5="b2538760e7fc25110a5103ea9aa51bc1" sha1="407b0fe080ba882d32c5297599a61976df555d64"/>
+		<rom name="Tunin' Glue (Japan) (Rev A).bin" size="320657568" crc="6c0218f4" md5="b599c9cd9933b328aaaf99a4baa8c978" sha1="1c354c01906f9f6f5baf820e570cc456e3a3b28a"/>
+	</game>
+	<game name="Gakkou no Kowai Uwasa - Hanako-san ga Kita!! (Japan) (Rev A)">
+		<category>Games</category>
+		<description>Gakkou no Kowai Uwasa - Hanako-san ga Kita!! (Japan) (Rev A)</description>
+		<rom name="Gakkou no Kowai Uwasa - Hanako-san ga Kita!! (Japan) (Rev A).cue" size="126" crc="1301db27" md5="372c5908856b42eba6aa06ba44a42e72" sha1="97663234462c3d116eac30c6b7be28f5ed513338"/>
+		<rom name="Gakkou no Kowai Uwasa - Hanako-san ga Kita!! (Japan) (Rev A).bin" size="771020880" crc="fecd45d0" md5="fabe4aa10dd3376d965bdad1c2e3a7cf" sha1="a7f0bb2c8aa9afd7bb5219b493e2e577b56700fb"/>
+	</game>
+	<game name="Post de Card Light Ver. 3.0 (Japan) (Rev A)">
+		<category>Applications</category>
+		<description>Post de Card Light Ver. 3.0 (Japan) (Rev A)</description>
+		<rom name="Post de Card Light Ver. 3.0 (Japan) (Rev A).cue" size="109" crc="ca611c5f" md5="585c731f37a0e26348ad1971a3a828e9" sha1="78465bac9dbc02cbd73d3716f1e13576b77fda3e"/>
+		<rom name="Post de Card Light Ver. 3.0 (Japan) (Rev A).bin" size="170863392" crc="eed8516c" md5="8aeee1ad05d5e7be9bceb73e4d3e86e2" sha1="77e1b0e74043abe1079374055e89e6eddd767f8d"/>
+	</game>
+	<game name="Ultraman - The Digital Board Game (Japan)">
+		<category>Games</category>
+		<description>Ultraman - The Digital Board Game (Japan)</description>
+		<rom name="Ultraman - The Digital Board Game (Japan).cue" size="107" crc="dfce36f8" md5="e4f97bf600d71912ec9bbf113c6bda42" sha1="98d210d1b9b82f1a2036b3274dc5fc17bb6f74cf"/>
+		<rom name="Ultraman - The Digital Board Game (Japan).bin" size="753051600" crc="9b7dc75e" md5="627bf3d6d0c3726c7048c67775ce3523" sha1="c2fb1ce7c379adda84e165c617aa8154da1b9c92"/>
+	</game>
+	<game name="Atmark Town Ver. 1.0 (Japan) (Rev B)">
+		<category>Applications</category>
+		<description>Atmark Town Ver. 1.0 (Japan) (Rev B)</description>
+		<rom name="Atmark Town Ver. 1.0 (Japan) (Rev B).cue" size="125" crc="61e0961b" md5="17cc76e281a6028c34dd29bec10a10f8" sha1="f73610547944f927c634dcdc080e6c11528633fb"/>
+		<rom name="Atmark Town Ver. 1.0 (Japan) (Rev B).bin" size="752943408" crc="2331c29e" md5="a800c0c9b6b6af340d314b611a926b4e" sha1="b42ea0dfa96db9ea5aa68a15710253ce4aa5bcf3"/>
+	</game>
+	<game name="Card SD Gundam Gaiden (Japan)">
+		<category>Games</category>
+		<description>Card SD Gundam Gaiden (Japan)</description>
+		<rom name="Card SD Gundam Gaiden (Japan).cue" size="95" crc="68662c7d" md5="8c208cd33df0e04c0260630a338c66d0" sha1="314659a3ffd596f20b8f5cd4fe3624152b1618c5"/>
+		<rom name="Card SD Gundam Gaiden (Japan).bin" size="753051600" crc="14e5273b" md5="2023fce1f8129bea3bd8cf98e6593313" sha1="7103aaa5bce4da7368d0da02770ee26307ad3926"/>
+	</game>
+	<game name="Hashitte Asobou! Kikansha Thomas (Japan) (Rev A)">
+		<category>Games</category>
+		<description>Hashitte Asobou! Kikansha Thomas (Japan) (Rev A)</description>
+		<rom name="Hashitte Asobou! Kikansha Thomas (Japan) (Rev A).cue" size="114" crc="a2bae7e0" md5="3a5f8bf2189d12606ad8f1bbd8a0afc2" sha1="6898ae294abb1243eeb34811398146b465bd575b"/>
+		<rom name="Hashitte Asobou! Kikansha Thomas (Japan) (Rev A).bin" size="241192896" crc="d26a190d" md5="f23de0d6269057c91691f5975b38b57b" sha1="0bc44f023be3f1ed50e2827c04371a22a3343cc0"/>
+	</game>
+	<game name="Franky Online (Japan) (Rev B)">
+		<category>Applications</category>
+		<description>Franky Online (Japan) (Rev B)</description>
+		<rom name="Franky Online (Japan) (Rev B).cue" size="118" crc="d1577020" md5="e2c17ccf5e6950c321ca43948efaccd6" sha1="801f45c66ddd708f7efd70a491494c0ca34e1928"/>
+		<rom name="Franky Online (Japan) (Rev B).bin" size="361601184" crc="68006475" md5="78274459bd0483efb7615d2bf1ad51bb" sha1="adc7b7f862a1687eec573ca8d4806c8527660f2c"/>
+	</game>
+	<game name="Pippin Title CD-ROM Catalog - Vol. I - 1996.3 (Japan) (Rev A)">
+		<category>Applications</category>
+		<description>Pippin Title CD-ROM Catalog - Vol. I - 1996.3 (Japan) (Rev A)</description>
+		<rom name="Pippin Title CD-ROM Catalog - Vol. I - 1996.3 (Japan) (Rev A).cue" size="127" crc="4c2c3ef1" md5="b140421fded4e80184eb62d3ff0ad0a4" sha1="7f0440181d3f86e27d9be7a5fc27484206ddc2aa"/>
+		<rom name="Pippin Title CD-ROM Catalog - Vol. I - 1996.3 (Japan) (Rev A).bin" size="301389984" crc="e80ad19c" md5="3ee236c9918e1a26c959ab63cdff2fbe" sha1="cca12fe36f1ad318d75bc625664916ce0c157b67"/>
+	</game>
+	<game name="Gundam Tactics - Mobility Fleet0079 (Japan) (Rev A)">
+		<category>Games</category>
+		<description>Gundam Tactics - Mobility Fleet0079 (Japan) (Rev A)</description>
+		<rom name="Gundam Tactics - Mobility Fleet0079 (Japan) (Rev A).cue" size="117" crc="6ef7da42" md5="2bc4d0091d46efb9c9d0e30acf870b13" sha1="b5813f8a03600df29387761926d950761a7aab43"/>
+		<rom name="Gundam Tactics - Mobility Fleet0079 (Japan) (Rev A).bin" size="771020880" crc="2070ba51" md5="3e21b5daf7b25411b974ca2df2235c0c" sha1="51291c05d80e2f62d13d9964137df811321aac5e"/>
+	</game>
+	<game name="TV Works - Word Paint Mail Ver. 1.0 (Japan) (Rev A)">
+		<category>Applications</category>
+		<description>TV Works - Word Paint Mail Ver. 1.0 (Japan) (Rev A)</description>
+		<rom name="TV Works - Word Paint Mail Ver. 1.0 (Japan) (Rev A).cue" size="140" crc="3a032d50" md5="626676d5b13ca9fd8088841ed666029c" sha1="045642310b593ddf8b73e2bd8a9b72fecfb8b7c6"/>
+		<rom name="TV Works - Word Paint Mail Ver. 1.0 (Japan) (Rev A).bin" size="769837824" crc="f7a5bc06" md5="96da7cefc36d896da4f61bc98071498f" sha1="9005df389dcf272a4bd0ad0bcdaa41b6769cdbf5"/>
+	</game>
+	<game name="Shichi Sokusen (Japan) (Rev A)">
+		<category>Educational</category>
+		<description>Shichi Sokusen (Japan) (Rev A)</description>
+		<rom name="Shichi Sokusen (Japan) (Rev A).cue" size="119" crc="d71ab8e5" md5="d86d7db5c788901ceb0e474e2c38e2c9" sha1="b2368a57e1088b8685f9399debb9486b83766939"/>
+		<rom name="Shichi Sokusen (Japan) (Rev A).bin" size="771020880" crc="ab0f01b3" md5="7aba9f331309720a518fe9d1639474ab" sha1="3d7e60027b3d25a7a6d4225ea86b5ce6267ae564"/>
+	</game>
+	<game name="TV Works Ver. POP (Japan) (En,Ja) (Rev A)">
+		<category>Applications</category>
+		<description>TV Works Ver. POP (Japan) (En,Ja) (Rev A)</description>
+		<rom name="TV Works Ver. POP (Japan) (En,Ja) (Rev A).cue" size="130" crc="dfa0457c" md5="520c7a328f2b895a4db94f6af41a6ae1" sha1="d61008f2f40f44597f39edb28db1f21451282a69"/>
+		<rom name="TV Works Ver. POP (Japan) (En,Ja) (Rev A).bin" size="90695472" crc="a1998538" md5="d5d45dd84c8b8244287afaa5c2d5ecb3" sha1="b11dd561b2d433ea1497073657a2c3ed592a6797"/>
+	</game>
+	<game name="Pippin Navigator CD Ver. 1.1 (Japan) (Rev A)">
+		<category>Applications</category>
+		<description>Pippin Navigator CD Ver. 1.1 (Japan) (Rev A)</description>
+		<rom name="Pippin Navigator CD Ver. 1.1 (Japan) (Rev A).cue" size="133" crc="17b47aa6" md5="af9987c1ed01ada60ee2fdd1c7abee09" sha1="71fef98b0ee587e6a22f6b0d63a0e5973b5e2cc1"/>
+		<rom name="Pippin Navigator CD Ver. 1.1 (Japan) (Rev A).bin" size="490232064" crc="8a074cf0" md5="d1de2b8a1912de33cbed3ea22c5d6878" sha1="a1ebbc66bcb4ec9ab15206be4ee4de6d5e28fc6b"/>
+	</game>
+	<game name="Pippin Network CD Ver. 2.1 (Japan) (Rev A)">
+		<category>Applications</category>
+		<description>Pippin Network CD Ver. 2.1 (Japan) (Rev A)</description>
+		<rom name="Pippin Network CD Ver. 2.1 (Japan) (Rev A).cue" size="131" crc="181dcda8" md5="b6736c0402ea6d76f77d7e7322757f31" sha1="3686d6551e5960413d14db31caf3d3cfebae590c"/>
+		<rom name="Pippin Network CD Ver. 2.1 (Japan) (Rev A).bin" size="301389984" crc="dfd2c515" md5="cede3f6ac2a5aa0b65c1187bdfe23d71" sha1="eb8f3005500f301ac634b77d57439843f10065bc"/>
+	</game>
+	<game name="Pippin Network CD (Japan) (Rev A)">
+		<category>Applications</category>
+		<description>Pippin Network CD (Japan) (Rev A)</description>
+		<rom name="Pippin Network CD (Japan) (Rev A).cue" size="122" crc="82353399" md5="e87232743484230b4ad5fc5840afbce4" sha1="cf718916e339e9fd83022825674ba5f17ae98485"/>
+		<rom name="Pippin Network CD (Japan) (Rev A).bin" size="301389984" crc="2419980f" md5="d13493707bf72dcb046af7aa1c7ad116" sha1="06e8934ecffb4ea12fa747c54eab48b4213aeb07"/>
+	</game>
+	<game name="Franky Online (Japan) (Rev A)">
+		<category>Applications</category>
+		<description>Franky Online (Japan) (Rev A)</description>
+		<rom name="Franky Online (Japan) (Rev A).cue" size="118" crc="d00a56f1" md5="da664fae794cc0120fc5d0332202fe44" sha1="ee86dde63d1eb5bbc1aba19e654fea3f13cb7027"/>
+		<rom name="Franky Online (Japan) (Rev A).bin" size="343194432" crc="7dee7baf" md5="e6b5a54ebb7502b11f445cd9397bdd47" sha1="06d59f47dd331ed25c8033d8044d9568154d3cbe"/>
+	</game>
+	<game name="Atmark Town Ver. 1.0 (Japan) (Rev A)">
+		<category>Applications</category>
+		<description>Atmark Town Ver. 1.0 (Japan) (Rev A)</description>
+		<rom name="Atmark Town Ver. 1.0 (Japan) (Rev A).cue" size="125" crc="60bdb0ca" md5="914af1b51542ed7cf30fafa34b72165c" sha1="2bcb1b26dd25e208c63e20061af9b7e8bde75f87"/>
+		<rom name="Atmark Town Ver. 1.0 (Japan) (Rev A).bin" size="306206880" crc="9f205938" md5="1e3485c70b6517184dc5b5afc0eec65d" sha1="18b49fc494b7e698265b81c36b5498d0df08ce23"/>
+	</game>
+</datafile>
